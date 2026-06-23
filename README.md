@@ -1,0 +1,2090 @@
+# 实用网盘资源合集 · 分类整理表
+
+> **总资源数**: 2000 条  |  **时间跨度**: 2026-04-01 ~ 2026-06-22  |  **解压密码**: `ahhhhfs`
+
+> 来源: [学霸云搜](https://www.xbwpys.com/75084/)  |  整理日期: 2026-06-23
+
+---
+
+## 目录
+
+- [🤖 AI/技术 (293 条)](#AI技术)
+- [🛒 电商/跨境 (118 条)](#电商跨境)
+- [🎬 自媒体/短视频/剪辑 (197 条)](#自媒体短视频剪辑)
+- [💼 职场沟通/管理 (193 条)](#职场沟通管理)
+- [💻 编程开发/技术 (53 条)](#编程开发技术)
+- [🎨 设计/PS/PPT (98 条)](#设计PSPPT)
+- [🧘 健身/瑜伽/减肥 (118 条)](#健身瑜伽减肥)
+- [💕 情感/两性关系 (85 条)](#情感两性关系)
+- [🍳 美食/生活技能 (34 条)](#美食生活技能)
+- [📚 考试/学习/语言 (164 条)](#考试学习语言)
+- [🏢 华为管理专题 (45 条)](#华为管理专题)
+- [📦 资源合集/其他 (181 条)](#资源合集其他)
+- [📌 其他 (421 条)](#其他)
+
+---
+
+## 🤖 AI/技术 (293 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | AI+美客多跨境电商实战，从小白到高手，你也可以成为美客多跨境电商的运营专家：夸克 | [夸克](https://pan.quark.cn/s/4207baab847e) |
+| 06-21 | AI出海賺美金：海外版小红书带货，掌握AI工具，抢占海外流量红利：夸克 | [夸克](https://pan.quark.cn/s/f5b8925a44de) |
+| 06-20 | GPT-Image2电商视觉大片实战课，一键出图高效出片，彻底告别手动繁琐修图：夸克 | [夸克](https://pan.quark.cn/s/4813a4d63c25) |
+| 06-20 | AIGC商业应用Midjourney+Stable Diffusion教程，0基础入门保姆级系列课：夸克 | [夸克](https://pan.quark.cn/s/f4020ecf2ab4) |
+| 06-19 | AI编程出海项目，教你尽快拿到结果–做出网站、拿到流量、賺到钱：夸克 | [夸克](https://pan.quark.cn/s/5b1cfd78c18b) |
+| 06-18 | AI认知课+AI工具实战课，理论结合实操一门课全搞定：夸克 | [夸克](https://pan.quark.cn/s/35eae86876dc) |
+| 06-18 | 2026最新腾讯AI龙虾WorkBuddy办公自动化课程入门到案例实战教程，职场必备AI办公技能，告别加班，效率翻倍：夸克 | [夸克](https://pan.quark.cn/s/6a5c56eaa2fa) |
+| 06-17 | coze(扣子)自动化工作实战教程：夸克 | [夸克](https://pan.quark.cn/s/d28b7740984e) |
+| 06-17 | AI知识库变现实战营，不会做产品？不会变现？不会做内容？这一套，让你马上能卖+未来能做：夸克 | [夸克](https://pan.quark.cn/s/13a6f765db90) |
+| 06-17 | 26年某大佬最新Ai漫剧陪跑课程，普通人从零开始做AI漫剧，副业月入2W+：夸克 | [夸克](https://pan.quark.cn/s/d83386e1cee5) |
+| 06-16 | AI短视频轻创业全通关训练营，掌握爆款AI短视频内容创作，从入门新手到平稳变现的六维跃迁：夸克 | [夸克](https://pan.quark.cn/s/054ef9fc757f) |
+| 06-16 | 零基础AI生图速成课！吃透GPT-Image2全套玩法，从入门到商业出图，效率直接翻倍，实现AI高效创作：夸克 | [夸克](https://pan.quark.cn/s/b2b47cc4d65b) |
+| 06-15 | 国产AI视频生成实战教程，玩转多种热门视频形态：夸克 | [夸克](https://pan.quark.cn/s/ed367c0c088c) |
+| 06-14 | AI短片实战课：零经验可做，Midjourney+ElevenLabs双工具，3步搞定成品：夸克 | [夸克](https://pan.quark.cn/s/557c90e262e8) |
+| 06-13 | 即梦AI教程汇总：夸克 | [夸克](https://pan.quark.cn/s/350580dc81ef) |
+| 06-13 | 数据标注职业规划，走进人工智能，数据标注技能分享：夸克 | [夸克](https://pan.quark.cn/s/6c6474c0e370) |
+| 06-12 | 宝藏级论文指令大全，润色+去重+优化一站式解决：夸克 | [夸克](https://pan.quark.cn/s/6535c75ea7ff) |
+| 06-12 | 宝藏级论文指令大全，润色+去重+优化一站式解决：夸克 | [夸克](https://pan.quark.cn/s/47812bcb0552) |
+| 06-11 | AI工作流实战训练营，从零搭建AI自动化系统：夸克 | [夸克](https://pan.quark.cn/s/a68ab53f4e67) |
+| 06-10 | AI设计课，一步步带你做出专业级作品的课程，让每个人都是设计师：夸克 | [夸克](https://pan.quark.cn/s/f1ff2498e515) |
+| 06-10 | 普通人也能入局AI！COZE智能体实战班，零代码玩转开发，简单易上手：夸克 | [夸克](https://pan.quark.cn/s/46cdfca35daa) |
+| 06-10 | 即梦AI控图大师课｜精准可控出图进阶教程：夸克 | [夸克](https://pan.quark.cn/s/def64f8879a3) |
+| 06-08 | CAD智能体绘图实战课，利用智能工具，实现从基础绘图员到高效智能设计生产力的转变：夸克 | [夸克](https://pan.quark.cn/s/0cc855bba39c) |
+| 06-08 | Deepseek 写歌保姆级教程：夸克 | [夸克](https://pan.quark.cn/s/1c6b0c2a0357) |
+| 06-08 | 《Deepseek资料大全》[17本]：夸克 | [夸克](https://pan.quark.cn/s/13c19cb53e50) |
+| 06-08 | deepseek+飞书 批量处理表格+创建教程：夸克 | [夸克](https://pan.quark.cn/s/c31a641ce371) |
+| 06-07 | AI智能书桌搭建，构建你的实体“第二大脑”，软件硬件协同的终极形态：夸克 | [夸克](https://pan.quark.cn/s/25f94de063ef) |
+| 06-06 | Deepseck+豆包通用智能体，智能体+AI教学：百度 | [百度](https://pan.baidu.com/s/1nvrF6EZQu4QMbTZzgEBgIg?pwd=ahhh) |
+| 06-06 | 爆款Ai图文视频课，0基础入门，全程实操不空谈：百度 | [百度](https://pan.baidu.com/s/1wLYnkbxiCINoVF7HBm80Lg?pwd=ahhh) |
+| 06-02 | 室内外AI辅助设计课，一站式覆盖建筑、室内、景观、平面、展陈五大热门品类，解锁设计行业的全新可能：百度 | [百度](https://pan.baidu.com/s/1EhZiafWIxupYWbCCdMoszA?pwd=ahhh) |
+| 06-01 | 《DeepSeek办公应用》2025年效率直接起飞 超详细教程：夸克 | [夸克](https://pan.quark.cn/s/9160cadb3168) |
+| 06-01 | AI文案秘籍：告别熬夜硬写！专业AI技巧，写得快、收入高：百度 | [百度](https://pan.baidu.com/s/15uZwSJaa_ovZfSvMDujRmw?pwd=ahhh) |
+| 05-31 | 抖音大V博主小红书掘金实战教学，开店带货-IP打造-AI赋能，全是可复制的实战玩法，月入1W+：百度 | [百度](https://pan.baidu.com/s/167Y_9eHbBzNpuhpTJTuH9Q?pwd=ahhh) |
+| 05-31 | Agent Skills企业级应用实战课，零基础精通AI智能体技能开发：夸克 | [夸克](https://pan.quark.cn/s/04715eb3a3bd) |
+| 05-30 | AI摄影课程，低成本高效率产出高水准大片的全新方式：百度 | [百度](https://pan.baidu.com/s/1In6NX845Ak7lLMtxHWHo1g?pwd=ahhh) |
+| 05-30 | 3天零基础AI动态漫训练营，秒变漫剧高手，AI帮你3天做出能变现的漫剧内容：百度 | [百度](https://pan.baidu.com/s/1bmyhsSvOrLlAjAcE48fCIA?pwd=ahhh) |
+| 05-30 | Gemini 3.0 从入门到精通：夸克 | [夸克](https://pan.quark.cn/s/ef6eb0b34d15) |
+| 05-28 | AI设计营销获客课程，教你一套用AI工具做画设计效果图，营销获客的方法：百度 | [百度](https://pan.baidu.com/s/14jsFoWPxOsm4CqpsdQWEIg?pwd=ahhh) |
+| 05-27 | 零编程基础也能学！全栈AI编程课：靠Cursor AI，快速搞出网页和手机APP：百度 | [百度](https://pan.baidu.com/s/1ma-33LuyplTKUfeoBbGXEA?pwd=ahhh) |
+| 05-26 | AI短片创作课，从0基础到实战项目落地，开启你的AI创作之路：百度 | [百度](https://pan.baidu.com/s/1Hk7_7h6tNdG8AliYCzvwGg?pwd=ahhh) |
+| 05-26 | 0门槛AIGC影视短片短剧创作班，AI赋能创作，轻松抢占短视频和短剧赛道的红利，开启副业增收路：百度 | [百度](https://pan.baidu.com/s/1z1Kc9ng0NQnK0E5sgD46BA?pwd=ahhh) |
+| 05-26 | 爱Ai安全须知 男女X生活常识全书(解压密码：ahhhhfs)：夸克 | [夸克](https://pan.quark.cn/s/726a89372d24) |
+| 05-25 | 抖音视频号小红书同城老板轻人设IP打造+AI获客实战课，人设打造-算法拆解-拍摄剪辑-内容运营-AI创作：百度 | [百度](https://pan.baidu.com/s/1e4Evx5rZWy_vdMhWVvJmSg?pwd=ahhh) |
+| 05-25 | AI生图训练营，学会任何赛道的图文生成方式，彻底解放双手，实现涨粉变现：百度 | [百度](https://pan.baidu.com/s/1LwzIE24xtrHADy7eb6B5hw?pwd=ahhh) |
+| 05-24 | 小红书AI虚拟电商：夸克 | [夸克](https://pan.quark.cn/s/54028d46a026) |
+| 05-23 | AI公众号爆文变现训练营：夸克 | [夸克](https://pan.quark.cn/s/81dbfe31301d) |
+| 05-22 | 颠覆式全新短视频实操课程，用AI工具提升创意与效率，把内容变成实实在在的收益：百度 | [百度](https://pan.baidu.com/s/16KVeHevROKeBWiFWJTbeKQ?pwd=ahhh) |
+| 05-22 | AI 工作流实战训练营，AI时代必备技能，一个人顶一个团队，从0搭建出属于你的AI自动化工作流：百度 | [百度](https://pan.baidu.com/s/1roCiWdgKwPd0I3gSnGzhbw?pwd=ahhh) |
+| 05-21 | 不知道AI可以干什么，AI工具总结课，效率翻倍：百度 | [百度](https://pan.baidu.com/s/1I7F6wB4G0fbgHvFtKX2f7w?pwd=ahhh) |
+| 05-20 | 男性多重高氵朝 每个男人都该先读本书再做ai：夸克 | [夸克](https://pan.quark.cn/s/5dedf18219f7) |
+| 05-17 | AI绘画全新课程，小白变大神COMFYUI+PS全新工作流，革命性AI工作流教学，让每个人轻松上手：百度 | [百度](https://pan.baidu.com/s/1qV3HFqWIQEoi39KbQLt3gw?pwd=ahhh) |
+| 05-17 | 扣子coze喂饭级入门教程，小白必学基础课：百度 | [百度](https://pan.baidu.com/s/1Gicz_WqSLEu5fBdnfF1v1A?pwd=ahhh) |
+| 05-13 | 某社群AI漫剧创作课程，高效掌握AI漫剧全流程创作技巧，教你从0到1打造爆款，实现月收益1W+：百度 | [百度](https://pan.baidu.com/s/1Dc81oi6dvxJglvLhhvMtvg?pwd=ahhh) |
+| 05-12 | Ai智能绘画Stable Diffusion软件+保姆式教程：夸克 | [夸克](https://pan.quark.cn/s/74d721ddec65) |
+| 05-11 | AI市场部增长飞轮，从1-100的电商内容提效实战，让优质内容成为你的流量引擎：百度 | [百度](https://pan.baidu.com/s/1-zusfXcgPKxKzk_0Vy0mQw?pwd=ahhh) |
+| 05-11 | deepseek认知篇：夸克 | [夸克](https://pan.quark.cn/s/82002fe76f9c) |
+| 05-11 | 即梦AI视频实操教程：夸克 | [夸克](https://pan.quark.cn/s/bf98ba394cb9) |
+| 05-11 | 豆包各项功能使用教程：夸克 | [夸克](https://pan.quark.cn/s/82f02896a1a5) |
+| 05-10 | AI漫剧制作全流程，新手必看，一口气学会，3天即可完成首部AI漫剧制作：百度 | [百度](https://pan.baidu.com/s/1uBbWU0OsQGgQ6Da3sERekw?pwd=ahhh) |
+| 05-09 | AI工具深度熟悉与应用（即梦+Deepseek+豆包），覆盖创作办公等全场景落地应用：百度 | [百度](https://pan.baidu.com/s/1l24WDrnOhfqQ4mo8EuDWjA?pwd=ahhh) |
+| 05-08 | AI变现实战课，教你如何利用AI快速賺钱，即使你是新手：百度 | [百度](https://pan.baidu.com/s/1nAgWDZ1HviYsIdR7m_XWOw?pwd=ahhh) |
+| 05-08 | AI短剧创作课程，全新创作模式，从0到1创作属于你自己的短剧和影视化短片：百度 | [百度](https://pan.baidu.com/s/18LDI9eVBMA-RgLUaIokJyA?pwd=ahhh) |
+| 05-08 | AI行业资料 AI变现资料：夸克 | [夸克](https://pan.quark.cn/s/ed7c5668db20) |
+| 05-08 | 黑马程序员ChatGPT视频教程：夸克 | [夸克](https://pan.quark.cn/s/0da0133f1b61) |
+| 05-08 | ChatGPT商业版+自用版源码（价值999+元）：夸克 | [夸克](https://pan.quark.cn/s/4b1a99d97943) |
+| 05-07 | 玩賺AI做PPT，从AI一键生成、优化到交付，从应用到变现，带你把PPT做成真正可用、可卖的商业产品：百度 | [百度](https://pan.baidu.com/s/1WoRPb-AxOORFl-FSzFRxGQ?pwd=ahhh) |
+| 05-07 | 26年最新AI短剧制作教学，零基础也能快速用AI工具打造高完播、高流量的真人感短剧：百度 | [百度](https://pan.baidu.com/s/1rCcavfuK-yUpFr-Aojr2Mg?pwd=ahhh) |
+| 05-06 | AI设计基础课，室内、平面、插画、摄影、美工设计师必学的：百度 | [百度](https://pan.baidu.com/s/12ibzbwbxOuMvx1CDrzAXGA?pwd=ahhh) |
+| 05-06 | AI造富训练营 让一部分人先用AI赚到第一个100万 让你快人一步抓住行业红利：夸克 | [夸克](https://pan.quark.cn/s/a8862cace61f) |
+| 05-04 | AI·TikTok AI+出海短视频项目孵化，陪你从0-1借助AI实现出海变现：夸克 | [夸克](https://pan.quark.cn/s/f57cd9a470eb) |
+| 05-04 | 刘飞 怎样用AI绘画（完结）：夸克 | [夸克](https://pan.quark.cn/s/5e2979b0df06) |
+| 05-02 | CozeAI智能体落地实战从入门到精通，轻松打造一人公司：夸克 | [夸克](https://pan.quark.cn/s/9e855a931df1) |
+| 05-02 | 快刀青衣 给职场人的AI写作课：夸克 | [夸克](https://pan.quark.cn/s/fdc76517562b) |
+| 05-01 | AI精选资料包：夸克 | [夸克](https://pan.quark.cn/s/084fb9ac3996) |
+| 05-01 | Sora学习资源最全合集：夸克 | [夸克](https://pan.quark.cn/s/226825f7bb02) |
+| 04-30 | GPT自媒体创作训练营：AI神器开外挂，助你创作效率提升100倍：夸克 | [夸克](https://pan.quark.cn/s/a94fb6f953c3) |
+| 04-30 | midjourney新手入门教程：人人都是AI艺术家，新手小白也能变身艺术大师：夸克 | [夸克](https://pan.quark.cn/s/729daeffe3c6) |
+| 04-30 | OpenClaw保姆级部署：夸克 | [夸克](https://pan.quark.cn/s/d35a5dc788ba) |
+| 04-30 | 马馺 怎样用AI做PPT（商业演讲策划人）：夸克 | [夸克](https://pan.quark.cn/s/d97e7c7fa110) |
+| 04-28 | AI+营养师工作流实战应用课，AI赋能营养师：夸克 | [夸克](https://pan.quark.cn/s/3081d802ca4d) |
+| 04-28 | 玩赚ChatGPT 基础课+进阶课程：夸克 | [夸克](https://pan.quark.cn/s/5beb6e41cd6f) |
+| 04-28 | 卓克 怎样用AI高效学习（科技观察家）：夸克 | [夸克](https://pan.quark.cn/s/2d4d23d9c78c) |
+| 04-26 | AI自媒体起号课程，0基础小白两周学会，教你自媒体实现商业变现：夸克 | [夸克](https://pan.quark.cn/s/df80a0d5e4bc) |
+| 04-26 | AI的30种用法让工作效率提升数倍：阿里 | [阿里](https://www.alipan.com/s/yaPpB15MTEJ) |
+| 04-25 | AIGC数字人商业落地实操课，从零基础小白到AI数字人大神：夸克 | [夸克](https://pan.quark.cn/s/b98aa2fe888c) |
+| 04-24 | AI数字人快手短视频+虚拟直播，音频提取数字人生成：夸克 | [夸克](https://pan.quark.cn/s/941433555fb2) |
+| 04-24 | 2026小红书高效盈利实战课，内容电商趋势操盘手x实习生xAI，避开人海战术，实现高转化，长期盈利：夸克 | [夸克](https://pan.quark.cn/s/8dc2efa7db01) |
+| 04-23 | Ai智能体实战课程，0基础跨越Ai鸿沟，打造24小时帮你工作的Ai员工，打破常规，以实战定义Ai：夸克 | [夸克](https://pan.quark.cn/s/8a8b5e5ada14) |
+| 04-21 | 《AI赋能薪酬管理》：写给HR的AI使用手册：夸克 | [夸克](https://pan.quark.cn/s/92a556237b3c) |
+| 04-21 | 人工智能AI 赋能短视频创作课：夸克 | [夸克](https://pan.quark.cn/s/95cf7f3af2c5) |
+| 04-20 | 100条精选AI智能体短视频带货训练营，用AI拍摄100条好物分享短视频带货：夸克 | [夸克](https://pan.quark.cn/s/28fa5bd2b867) |
+| 04-20 | 【Coze专题课】零基础入门学AI，人人都能精通的AI课程：夸克 | [夸克](https://pan.quark.cn/s/3f41409526ba) |
+| 04-19 | AI智能绘画培训班课程-Midjourney从入门到精通：夸克 | [夸克](https://pan.quark.cn/s/b4584cc2344c) |
+| 04-19 | 咕泡人工智能P5 CV+NLP实战课第五期：夸克 | [夸克](https://pan.quark.cn/s/3c4e7ef79320) |
+| 04-17 | 小红书电商特训班，开店选品+爆款笔记+AI提效：夸克 | [夸克](https://pan.quark.cn/s/5386a2ecaae4) |
+| 04-16 | AI自媒体爆文创作全域创作解析职场领域篇，适配于公众号、知乎、头条，月入1W+：夸克 | [夸克](https://pan.quark.cn/s/108990795b43) |
+| 04-16 | AI绘画大师班 Midjourney入门到精通：夸克 | [夸克](https://pan.quark.cn/s/9a3284fd9258) |
+| 04-15 | 零基础学AI+短视频全能课，人人都能学会的精品课：夸克 | [夸克](https://pan.quark.cn/s/8cbc6066d784) |
+| 04-15 | 怎样用AI高效学习（完结）：夸克 | [夸克](https://pan.quark.cn/s/d755745bb9ed) |
+| 04-15 | AI人工智能工程师第2期 马士兵教育：夸克 | [夸克](https://pan.quark.cn/s/63ff7925f049) |
+| 04-14 | AI小红书虚拟电商变现营，教你做小红书并賺到钱，虚拟产品，2026年普通人在小红书的搞钱机会：夸克 | [夸克](https://pan.quark.cn/s/951914eca5eb) |
+| 04-14 | AI+短视频带货新范式全方位达人孵化课，素人也可以从0到1，全方位认知短视频带货：夸克 | [夸克](https://pan.quark.cn/s/deed407d8b68) |
+| 04-14 | AI课程+行业报告资源集合【134GB】：夸克 | [夸克](https://pan.quark.cn/s/de7d5f767c9e) |
+| 04-12 | AI短视频创富学习，手把手教会你制作AI短视频：夸克 | [夸克](https://pan.quark.cn/s/7b4988bff7b4) |
+| 04-12 | 公众号ai故事营，最适合小白的自媒体变现之路：夸克 | [夸克](https://pan.quark.cn/s/82a41b92d1b1) |
+| 04-12 | AI辅助设计训练营：基础入门与初步应用课程+深入实战课程：夸克 | [夸克](https://pan.quark.cn/s/cb5be3555787) |
+| 04-11 | 告别低效！普通人也能掌握的AI实战训练营：夸克 | [夸克](https://pan.quark.cn/s/162b70f2333a) |
+| 04-11 | AI短故事从入门到精通，从0开始你也行，核心帮你全掌握：夸克 | [夸克](https://pan.quark.cn/s/90072d3441cd) |
+| 04-11 | AI行业报告合集（200份）：夸克 | [夸克](https://pan.quark.cn/s/e3af2387b319) |
+| 04-10 | AI平面设计实战课，实战演练，解锁创意之门，掌握设计之道：夸克 | [夸克](https://pan.quark.cn/s/f1e2b0d3bafb) |
+| 04-10 | AI代写制作PPT，写得越快、越精准，利润更稳：夸克 | [夸克](https://pan.quark.cn/s/ee31dd5f6c94) |
+| 04-10 | AI孙燕姿音乐集合：阿里、百度 | [百度](https://pan.baidu.com/s/1AlZVP1sCskOsKTKSYU_8gg?pwd=ahhh) |
+| 04-08 | 聊天智能体方法论-咨询师教师个人IP教程，咨询师教练躺賺之路：夸克 | [夸克](https://pan.quark.cn/s/70288fb92af4) |
+| 04-07 | AI智能体创作与运营实战，实体门店通过智能体高效获取精准客户：夸克 | [夸克](https://pan.quark.cn/s/425b5a340c9c) |
+| 04-07 | AI小白变大神COMFYUI+PS全新工作流课程：夸克 | [夸克](https://pan.quark.cn/s/938d94726d39) |
+| 04-06 | AI漫剧创作赛道实战课：Sora2 AI工具使用、提示词技巧、多路径变现：夸克 | [夸克](https://pan.quark.cn/s/7c63b9a4333f) |
+| 04-03 | 小白速成Comfyui实战教学，AI绘画零基础轻松学，简单易懂，迅速上手：夸克 | [夸克](https://pan.quark.cn/s/b1b7d0aa1050) |
+| 04-03 | 清华大学：OpenClaw自我研究1.0报告：夸克 | [夸克](https://pan.quark.cn/s/4e637d95e5df) |
+| 04-03 | 一个视频搞懂OpenClaw+完整安装课程：夸克 | [夸克](https://pan.quark.cn/s/b405be7b3bb3) |
+| 04-03 | AI课程创作效率指南，从调研到PPT、从大纲到海报，工具赋能，打造可持续变现产品线：夸克 | [夸克](https://pan.quark.cn/s/41d1e03e9574) |
+| 04-03 | Coze全栈实战，一站式掌握AI应用构建核心技能：百度 | [百度](https://pan.baidu.com/s/1hksKNCvx9-9a2jwx3sm8dQ?pwd=ahhh) |
+| 03-29 | AI短剧全产业链拆解，2天12小时全程干货输出，彻底的了解AI短剧是一门什么生意：夸克 | [夸克](https://pan.quark.cn/s/3933314a070e) |
+| 03-28 | AI系统课程，从小白到大神系统学AI，AI声音-AI绘画-AI视频一门课全掌握：夸克 | [夸克](https://pan.quark.cn/s/cb9493d194c9) |
+| 03-27 | 跨境电商10倍增效，跨境电商AI落地实战线上课：夸克 | [夸克](https://pan.quark.cn/s/668970d33a44) |
+| 03-26 | AI故事说古文短视频，110万博主保姆级教学，流量大，收益高，也可以扩展其他赛道：夸克 | [夸克](https://pan.quark.cn/s/a7e615acd8b5) |
+| 03-26 | 豆包AI+飞书实战训练营，2026年，最值得学的AI课程：夸克 | [夸克](https://pan.quark.cn/s/17b0b7291d7a) |
+| 03-25 | AI数字人认知实操课，克隆你的数字人分身：夸克 | [夸克](https://pan.quark.cn/s/ae30cbeb7006) |
+| 03-24 | AI智能体商业进阶实战训练营42节：夸克 | [夸克](https://pan.quark.cn/s/303ebe7ee26c) |
+| 03-23 | AI实操克隆：数字分身引流变现八步法训练营，驾驭AI变现创收的核心逻辑与实操方法：夸克 | [夸克](https://pan.quark.cn/s/051e83edb4e3) |
+| 03-22 | AI原创音乐课程，在家可做的Ai副业，让Ai给所有人一次新的创业机会：夸克 | [夸克](https://pan.quark.cn/s/96dc4ec262a3) |
+| 03-22 | AI人工智能2.0：每个人的人工智能课：从现在开始学习AI：夸克 | [夸克](https://pan.quark.cn/s/788961873604) |
+| 03-22 | Coze全栈实战，一站式掌握AI应用构建核心技能：夸克 | [夸克](https://pan.quark.cn/s/2535c4bf9a68) |
+| 03-21 | 用AI打造爆款商品自己开一家AI网店，AI助力开网店，打造爆款商品：夸克 | [夸克](https://pan.quark.cn/s/79504f4a579d) |
+| 03-19 | AI高效学习与创作全攻略，从笔记管理到内容生产实战课：夸克 | [夸克](https://pan.quark.cn/s/8af8cedb1b83) |
+| 03-19 | 《DeepSeek+一键成片，生成哪吒流量视频》轻松副业：夸克 | [夸克](https://pan.quark.cn/s/da7884f1fbca) |
+| 03-19 | Coze零基础开发Agent智能体54节：夸克 | [夸克](https://pan.quark.cn/s/5339b27ed814) |
+| 03-18 | AI提效手册-豆包即梦剪映飞书扣子，5合1精讲实操指南，30+常见职场案例拿来即用：夸克 | [夸克](https://pan.quark.cn/s/2f5923e8fbf8) |
+| 03-18 | 如何使用DeepSeek在知识付费赛道价值变现，引流+变现全流程：夸克 | [夸克](https://pan.quark.cn/s/97a6a70a9873) |
+| 03-18 | 尚硅谷《DeepSeek使用指南 (2025抢先版) 》：夸克 | [夸克](https://pan.quark.cn/s/d4b17d5e55fd) |
+| 03-18 | 使用DeepSeek+一键成片，高效打造AI热搜视频，结合流量王哪吒，轻松赚钱：夸克 | [夸克](https://pan.quark.cn/s/2b7a20905602) |
+| 03-18 | 用DeepSeek做文学名著解读赛道，流量暴涨暴力变现，89条作品变现20W：夸克 | [夸克](https://pan.quark.cn/s/c3f626c379cd) |
+| 03-18 | AI全域快速变现内容实操课程30节：夸克 | [夸克](https://pan.quark.cn/s/f525d4424f7e) |
+| 03-18 | AI全系统商业矩阵打造实战课178节：夸克 | [夸克](https://pan.quark.cn/s/9c8c5f014fad) |
+| 03-18 | OpenClaw 从初级到高级进阶教程：夸克 | [夸克](https://pan.quark.cn/s/256a1ffeb15c) |
+| 03-17 | AI动画故事变现实战训练营，从素材到文案，从制作到变现，帮你打通AI动画制作变现全流程：夸克 | [夸克](https://pan.quark.cn/s/f602ceca405b) |
+| 03-17 | AI大模型应用Agent项目实战155节：夸克 | [夸克](https://pan.quark.cn/s/491293d67109) |
+| 03-17 | Deepseek模型结合应用详解23节：夸克 | [夸克](https://pan.quark.cn/s/b1e150dcdefb) |
+| 03-17 | Deepseek商业化：夸克 | [夸克](https://pan.quark.cn/s/786bb335114d) |
+| 03-16 | 黑马DeepSeek 2025AI+新媒体搞钱指南：夸克 | [夸克](https://pan.quark.cn/s/ea62a2989483) |
+| 03-16 | 扣子Coze自动化工作流程教学30节：夸克 | [夸克](https://pan.quark.cn/s/c9b1057ab1a9) |
+| 03-16 | 上百款最新版豆包指令+提示词合集，AI高效创作与对话必备：夸克 | [夸克](https://pan.quark.cn/s/ba710cd537d3) |
+| 03-15 | AI漫剧制作全流程，一口气学会从0到1制作首部作品：夸克 | [夸克](https://pan.quark.cn/s/b0c28f1d51bc) |
+| 03-13 | 老照片修复上色+图片高清处理+Ai视频教学课程：夸克 | [夸克](https://pan.quark.cn/s/e1df45531a59) |
+| 03-12 | AI+IP流量顶级方法论，用AI降本增效，快速搭建可复制的IP賺钱体系：夸克 | [夸克](https://pan.quark.cn/s/430d324bc712) |
+| 03-11 | AI数字人变现课程，普通人用数字人开启副业：夸克 | [夸克](https://pan.quark.cn/s/b8675b9208d5) |
+| 03-11 | 全网最全OpenClaw龙虾AI资源（含安装包+教程）2026年最火本地Agent智能体：夸克 | [夸克](https://pan.quark.cn/s/8583da40fa01) |
+| 03-11 | openclaw书籍和文章：夸克 | [夸克](https://pan.quark.cn/s/66966b6bc72b) |
+| 03-11 | 2026年最火AI视频模型 Seedance 2.0 学习资料包：夸克 | [夸克](https://pan.quark.cn/s/8c66a485a500) |
+| 03-10 | OpenClaw部署极简教程：夸克 | [夸克](https://pan.quark.cn/s/4913d10fe488) |
+| 03-09 | Coze零基础开发Agent智能体：夸克 | [夸克](https://pan.quark.cn/s/de366311a70f) |
+| 03-08 | 【全网最全】Cursor Meetup 分享会资料：夸克 | [夸克](https://pan.quark.cn/s/b8c8d5a695a8) |
+| 03-08 | AI 文案创作与AI视频制作实战课：夸克 | [夸克](https://pan.quark.cn/s/aef59aaf52f6) |
+| 03-07 | AI实战兵法，从工具驾驭到战略布局，从0~1掌握ai思维，实现效率 开挂弯道超车：夸克 | [夸克](https://pan.quark.cn/s/33bd40c563e5) |
+| 03-06 | 央视力荐AI提效手册【豆包·即梦·剪映·飞书·扣子5合1实操指南】：夸克 | [夸克](https://pan.quark.cn/s/07c28ccb4b33) |
+| 03-05 | 零基础玩转即梦AI，爆款视频创作秘籍：夸克 | [夸克](https://pan.quark.cn/s/57ee8c57ec48) |
+| 03-04 | AI智能体应用入门教程，小白零基础起步，人人都能学会：夸克 | [夸克](https://pan.quark.cn/s/8186d1ec0cce) |
+| 03-04 | 豆包AI实战营：小白到高手速成：夸克 | [夸克](https://pan.quark.cn/s/45febb689f26) |
+| 03-04 | AI职场应用必修课：夸克 | [夸克](https://pan.quark.cn/s/88d5687adf56) |
+| 03-04 | AI音乐人入门课：夸克 | [夸克](https://pan.quark.cn/s/4a572b788a08) |
+| 03-03 | 新手小白如何通过即梦可灵玩转AI短视频线上课：夸克 | [夸克](https://pan.quark.cn/s/6f21d1a93bf2) |
+| 03-03 | AI文案秘籍，专业技巧助你写得快收入高：夸克 | [夸克](https://pan.quark.cn/s/12f7752dcd04) |
+| 03-03 | 7大不可思议的人工智能工具 – 虚拟名人聊天，声音克隆，Ai律师，论文写作：百度 | [百度](https://pan.baidu.com/s/1g9iFOJnTe2A7xLTUruMXEg?pwd=ahhh) |
+| 02-26 | AI基础认知课，专为零基础打造的人工智能入门课：夸克 | [夸克](https://pan.quark.cn/s/238ba42bf21c) |
+| 02-26 | 即梦AI全面学习+实战教程 即梦AI一站式AI创作平台：夸克 | [夸克](https://pan.quark.cn/s/82954f822aa9) |
+| 02-22 | 人工智能工具技能全套训练营，掌握AI工具，将您的工作效率提高10倍：夸克 | [夸克](https://pan.quark.cn/s/eaaadb54e691) |
+| 02-21 | 零基础学Cursor从需求到上线全流程实战课程：夸克 | [夸克](https://pan.quark.cn/s/fa04ff7b7bb3) |
+| 02-18 | AI小红书智能体实战课，手把手教你用AI制作智能体及创作小红书虚拟产品，提效+内容商业化：夸克 | [夸克](https://pan.quark.cn/s/915c2d9b5dc2) |
+| 02-16 | 姜戈AI办公课程，零基础到精通的AI办公全攻略：夸克 | [夸克](https://pan.quark.cn/s/04cacb2bf525) |
+| 02-14 | DeepSeek+Al家庭教育实战，一对-AI学霸家教，3天成Ai家教达人，带娃+创收两不误：夸克 | [夸克](https://pan.quark.cn/s/bb8c41d594ce) |
+| 02-13 | AI智能体零基础入门，Coze工作流7天速通，轻松制作AI专属智能体：夸克 | [夸克](https://pan.quark.cn/s/6fc5cda729cc) |
+| 02-13 | AI自媒体实操全攻略，自动化工作流的终极指南：夸克 | [夸克](https://pan.quark.cn/s/3e012d2ab3ef) |
+| 02-13 | Sora2 AI视频大师班，创作千万播放作品的全流程指南：夸克 | [夸克](https://pan.quark.cn/s/0fb07b7e6b2c) |
+| 02-13 | 李善友-AI的黎明：百度 | [百度](https://pan.baidu.com/s/1o-Bx9_-z-41aOnFCIcHrBA?pwd=ahhh) |
+| 02-12 | 姜戈AI办公知识星球｜零基础到精通：夸克 | [夸克](https://pan.quark.cn/s/fa10d43329b6) |
+| 02-12 | Nano Banana AI图像实战教程，零基础也能轻松掌握：夸克 | [夸克](https://pan.quark.cn/s/a26f929c0804) |
+| 02-12 | 六哥-Ai终点站，全系统商业闭环矩阵打造，帮电商、视频、设计降70%成本，12款Ai联合深度实战：夸克 | [夸克](https://pan.quark.cn/s/96cecfc50544) |
+| 02-11 | 人工智能2.0商业化思维变现课，学习AI底层逻辑，把握时代红利：夸克 | [夸克](https://pan.quark.cn/s/0e988bdc14f4) |
+| 02-11 | AI赋能培训全流程实站，覆盖培训全场景，打通 Al培训全链路：夸克 | [夸克](https://pan.quark.cn/s/b05aa90ed4e3) |
+| 02-11 | 豆包AI全能训练营，从小白到高手速成系列课程：夸克 | [夸克](https://pan.quark.cn/s/b0f8eeed9e46) |
+| 02-10 | AI影视解说项目，电影解说爆款制作全流程，新手也能快速掌握：夸克 | [夸克](https://pan.quark.cn/s/487c8f1bd914) |
+| 02-10 | 即梦AI大神手把手教学，一张图生成电影感短片：夸克 | [夸克](https://pan.quark.cn/s/db62bbcf820b) |
+| 02-09 | AI橘猫打工视频制作教学，0基础打造千万播放账号：夸克 | [夸克](https://pan.quark.cn/s/aaf5563c5a73) |
+| 02-06 | AI超体大师孵化班，AI超级个体流量实战训练营：夸克 | [夸克](https://pan.quark.cn/s/c117e52a4e43) |
+| 01-25 | AI写作论文课，告别熬夜苦战，AI帮你轻松搞定论文：夸克 | [夸克](https://pan.quark.cn/s/55e4b39bff84) |
+| 01-25 | 女装图文带货的AI实操课，覆盖38个实用技能，快速提升素材制作效率：夸克 | [夸克](https://pan.quark.cn/s/519abadf5e51) |
+| 01-24 | AI论文写作全攻略，AI赋能学术，写作更智能，研究更高效：夸克 | [夸克](https://pan.quark.cn/s/5140097fc448) |
+| 01-20 | 从0基础到AI高手，每个人必备的AI课，AI底层思维+实战教学：夸克 | [夸克](https://pan.quark.cn/s/79dfa82c1fdf) |
+| 01-19 | AI绘画训练营，Midjourney生成艺术系列课程，人人都是AI艺术家：夸克 | [夸克](https://pan.quark.cn/s/62ed05095455) |
+| 01-17 | 小红书虚拟店矩阵2.0，全自动化AI发笔记，照抄照做（共35节）：夸克 | [夸克](https://pan.quark.cn/s/16b85cd57111) |
+| 01-15 | 明哥-AI智能体零基础入门Coze工作流7天速通：夸克 | [夸克](https://pan.quark.cn/s/ff62ead42f51) |
+| 01-15 | AI制作每天听懂一首歌视频，音乐赛道爆款与变现指南：夸克 | [夸克](https://pan.quark.cn/s/e42d341bf5ca) |
+| 01-13 | AI自媒体风口掘金课，一看就懂·马上能用·全是干货：夸克 | [夸克](https://pan.quark.cn/s/d892b3a45f55) |
+| 01-11 | AI自媒体起号课程，0基础小白两周学会，教你自媒体实现商业变现：夸克 | [夸克](https://pan.quark.cn/s/1e70a4d31321) |
+| 01-06 | 阿里国际站运营系列课，涵盖精准引流、直通车与全站推实战SOP，搭配AI效率工具包与高阶增长玩法：夸克 | [夸克](https://pan.quark.cn/s/c7ed7f7f9104) |
+| 01-05 | 玩转AI自媒体实践大作战，新媒体AI+模式探索者，只讲真干货：夸克 | [夸克](https://pan.quark.cn/s/1fd4ee59b9f9) |
+| 01-04 | 大龙AI设计职场硬实力大提升：夸克 | [夸克](https://pan.quark.cn/s/cb72316093e6) |
+| 01-01 | AI人工智能实用课，AI人工智能革命是我们普通人逆袭翻身的巨大机会：夸克 | [夸克](https://pan.quark.cn/s/8b3b5b36eda6) |
+| 01-01 | AI模特进阶课程，0基础高效生成逼真电商模特图：夸克 | [夸克](https://pan.quark.cn/s/bdc1e76fdb78) |
+| 01-01 | AI+短视频引爆精准客户实战营，手把手教你引爆Ai短视频精准流量：夸克 | [夸克](https://pan.quark.cn/s/54b19f664bd2) |
+| 01-01 | AI在服装领域的运用，使用midjourney做服装辅助企业降低成本：夸克 | [夸克](https://pan.quark.cn/s/4286a8a43ba0) |
+| 01-01 | AI助力服装带货，不出镜、不买样品、不搭建场地、不拍摄，一个人在家就能做服装达人带货：夸克 | [夸克](https://pan.quark.cn/s/04faf055f189) |
+| 01-01 | 0基础Ai视频课，学会Ai，拥抱时代：夸克 | [夸克](https://pan.quark.cn/s/b2ab65fa94e7) |
+| 01-01 | Coze智能体工作流一键二创小红书爆款图文写入飞书，全流程保姆级教学：夸克 | [夸克](https://pan.quark.cn/s/b656ef2d0406) |
+| 01-01 | COZE扣子工作流一键生成爆款诗集短视频，保姆级教程-智能体搭建-项目实操：夸克 | [夸克](https://pan.quark.cn/s/2610e8acb82a) |
+| 01-01 | DeepSeek玩法合集课程，让你的工作效率飞升：夸克 | [夸克](https://pan.quark.cn/s/5efff615e28e) |
+| 01-01 | 两个月PS+AI设计高效训练营：夸克 | [夸克](https://pan.quark.cn/s/5a465ddbd796) |
+| 01-01 | Midjourney做电商亚马逊图-商业落地级别Midjourney学习计划-AI跨境电商教程：夸克 | [夸克](https://pan.quark.cn/s/053e0fc59f43) |
+| 01-01 | PasteMD：一键将 Markdown 与 AI 对话内容完美粘贴到 Word、WPS 与 Excel 的效率工具：夸克 | [夸克](https://pan.quark.cn/s/a32d94a1afb9) |
+| 01-01 | 超级AI视频：绘画、带货、职场全场景113节通关课，解锁AI无限可能，开启精彩AI之旅：夸克 | [夸克](https://pan.quark.cn/s/1e0ee5511e8d) |
+| 01-01 | 更懂商业的AI人工智能课学习：夸克 | [夸克](https://pan.quark.cn/s/6c79f8c6caac) |
+| 01-01 | AI视频制作系列课程，从基础到进阶的AI视频制作技巧全涵盖：夸克 | [夸克](https://pan.quark.cn/s/7fba5ebf542d) |
+| 01-01 | 抖音Ai直播认知课，手机端Ai美女跳舞直播全套线上课程：夸克 | [夸克](https://pan.quark.cn/s/526913ef687a) |
+| 01-01 | AI办公实战课，AI助力工作学习效率提升N倍：夸克 | [夸克](https://pan.quark.cn/s/61e109680562) |
+| 01-01 | LibrePods：让 AirPods 完整适配 Android 的开源工具：网盘 | [网盘](https://pan.quark.cn/s/dbfa6108f0c6) |
+| 01-01 | AI零基础实操系统课，短视频剪辑ai教程，真实操，上手快：夸克 | [夸克](https://pan.quark.cn/s/47e2846dba8b) |
+| 01-01 | B站-汤质：高手的黑箱：AI时代学习、思考与创作（完结）：夸克 | [夸克](https://pan.quark.cn/s/77149b686d88) |
+| 01-01 | AI实操课0基础到精通-短视频剪辑教程2025：夸克 | [夸克](https://pan.quark.cn/s/6b8873e33adf) |
+| 01-01 | WPS Office永久激活版+AI助手插件+WPS 永久激活版：夸克 | [夸克](https://pan.quark.cn/s/f7a1af695cb8) |
+| 01-01 | IP操盘手线上实操课，AI短视频线上课：夸克 | [夸克](https://pan.quark.cn/s/2266bf781d96) |
+| 01-01 | 如何用AI写出高赞文案，泛知识类短视频，向拿到过结果的人学才有用：夸克 | [夸克](https://pan.quark.cn/s/ec2c3fca6dcc) |
+| 01-01 | DeepSeek赋能自媒体0-1起号，从AI工具实操到变现：夸克 | [夸克](https://pan.quark.cn/s/0114b49e4f3b) |
+| 01-01 | Midjourney和Stable Diffusion混合做电商教程-ai电商教程：夸克 | [夸克](https://pan.quark.cn/s/a891223b3753) |
+| 01-01 | 实体强效率方法：AI批量产出获客文案，2025年普通人拥抱AI，实现实体创收：夸克 | [夸克](https://pan.quark.cn/s/59c93c528328) |
+| 01-01 | AI数字人制作 从零基础到大神：夸克 | [夸克](https://pan.quark.cn/s/2d6c7ff27309) |
+| 01-01 | AI工具创意创作实操课程，AI短视频自媒体教程：夸克 | [夸克](https://pan.quark.cn/s/e5e50e538746) |
+| 01-01 | 船长AI原创+小红书教辅资料项目实操手册：夸克 | [夸克](https://pan.quark.cn/s/769b73e12d25) |
+| 01-01 | Coze扣子工作流Ai Agent教程，一站解锁扣子工作流：夸克 | [夸克](https://pan.quark.cn/s/dc053ba1bbbb) |
+| 01-01 | Coze扣子智能体的入门到实战进阶课，不懂代码也可以学会搭建智能体：夸克 | [夸克](https://pan.quark.cn/s/b5c3a40a9ce2) |
+| 01-01 | DeepSeek论文写作专项，高质量写论文写综述AI选题润色：夸克 | [夸克](https://pan.quark.cn/s/135b808d61cb) |
+| 01-01 | AI导演课-AIGC视频制作方法论，学会一个人+AI工具，完成如同小型视频团队般的创作工作，实现导演梦：夸克 | [夸克](https://pan.quark.cn/s/2d1828c8822b) |
+| 01-01 | AI+PPT：革新工作方式，提升职场竞争力，一课带你打开 AI 世界的大门：夸克 | [夸克](https://pan.quark.cn/s/6ca7504bc6c4) |
+| 01-01 | AI短视频运营实操课，一个人用AI做自媒体：夸克 | [夸克](https://pan.quark.cn/s/886fdcf9b01e) |
+| 01-01 | 全网最全的coze扣子从入门到实战，快速掌握AI工作流搭建：夸克 | [夸克](https://pan.quark.cn/s/1e7c3b2e4916) |
+| 01-01 | 青少年AI应用实操综合课程，零基础高效趣味学习AI全方位应用：夸克 | [夸克](https://pan.quark.cn/s/bae4c10a993e) |
+| 01-01 | AI视频教程丨快刀青衣·如何用智谱清言快速写公文？（完结）：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/51f780770c3b) |
+| 01-01 | AI视频教程丨快刀青衣·如何用智谱清言快速写公文？（完结）：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1chg-argbxysw4GYKrPtkRw?pwd=ahhh) |
+| 01-01 | 豆包Ai生图无水印：夸克 | [夸克](https://pan.quark.cn/s/15f8e6fd1630) |
+| 01-01 | 2025全网首发，电商带货视频一键混剪保姆级教程+Coze工作流一键生成：夸克 | [夸克](https://pan.quark.cn/s/c5366414ae28) |
+| 01-01 | AI全域获客实训营，2025低成本高转化的智能营销，精准找客，高效营销：夸克 | [夸克](https://pan.quark.cn/s/f2b40b3f6b07) |
+| 01-01 | AI闪电做外贸训练营26期，外贸建站开发客户内容营销从0到3做外贸：夸克 | [夸克](https://pan.quark.cn/s/fb08dece420a) |
+| 01-01 | 杰视帮Midjourney AI绘画系统课：夸克 | [夸克](https://pan.quark.cn/s/77e3fdaf030e) |
+| 01-01 | 智能 AI 训练营自媒体必看课程：夸克 | [夸克](https://pan.quark.cn/s/60cc921609de) |
+| 01-01 | 打造AI时代的终身学习力：重构被异化的学习：夸克 | [夸克](https://pan.quark.cn/s/c5dbf6057ef1) |
+| 01-01 | Coze商业变现训练营，帮助普通人升职加薪， 获得副业收入：夸克 | [夸克](https://pan.quark.cn/s/7bfbcb04cdeb) |
+| 01-01 | 一个人用AI做自媒体，助力零基础者快速掌握自媒体技能，实现从起号到变现的突破：夸克 | [夸克](https://pan.quark.cn/s/0d3495740678) |
+| 01-01 | TK出海淘金训练营，助你快速掌握TikTok运营与AI创作，开启出海变现之路：夸克 | [夸克](https://pan.quark.cn/s/a1cd40216133) |
+| 01-01 | AI写作通关秘籍，从零到精通，助力提升学习和工作效率，实现个人成长与职业变现：夸克 | [夸克](https://pan.quark.cn/s/1d8a0188aafb) |
+| 01-01 | AI“复活”亲人，AI生成永生数字人实战课：夸克 | [夸克](https://pan.quark.cn/s/1d94f0b153ae) |
+| 01-01 | AI小红书虚拟电商5.0，从精准选品、高效创作到，店铺运营的全链路实战课程，月入1W：夸克 | [夸克](https://pan.quark.cn/s/c16a5ae18ea0) |
+| 01-01 | AI编程出海项目，教你尽快拿到结果–做出网站、拿到流量、賺到钱：夸克 | [夸克](https://pan.quark.cn/s/bd9008333101) |
+| 01-01 | DeepSeek自媒体轻创业2025 课程：夸克 | [夸克](https://pan.quark.cn/s/176b74ba68c1) |
+| 01-01 | AI数字人制作与实战课程，助你从零基础小白到AI数字人大神：夸克 | [夸克](https://pan.quark.cn/s/c4a8a1368518) |
+| 01-01 | 抖音+小红书饰品变现实战课：从找货到AI模特一站式教学：夸克 | [夸克](https://pan.quark.cn/s/320aed85817d) |
+| 01-01 | AI创变营，从0到1学AI，能落地、能賺钱的全场景实战课：夸克 | [夸克](https://pan.quark.cn/s/f9b44dfc11e9) |
+| 01-01 | 人人必备的AI文案写作课-文案教程，不讲理论，只讲实战：夸克 | [夸克](https://pan.quark.cn/s/89fa2518ef9d) |
+| 01-01 | AI电影制作实操课，人人都能做电影，一台电脑全搞定：夸克 | [夸克](https://pan.quark.cn/s/391485743140) |
+| 01-01 | AI创作实践必修课，用AI开挂，让创意落地生金：夸克 | [夸克](https://pan.quark.cn/s/422897608370) |
+| 01-01 | AI视频教程丨余一·如何用Kimichat辅助阅读长文？：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/7a16822641ae) |
+| 01-01 | AI视频教程丨余一·如何用Kimichat辅助阅读长文？：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/17kkhxmUM3OTyGmtio-dtIA?pwd=ahhh) |
+| 01-01 | AI视频教程丨 如何用AI创作流程动人的中文歌（完结）：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/dc88243c7bcf) |
+| 01-01 | AI视频教程丨 如何用AI创作流程动人的中文歌（完结）：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/17NWM920dA8tSagJs_5CiIg?pwd=ahhh) |
+| 01-01 | AI视频教程丨黄超强·家长如何用扣子做有声绘本？：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/4987d4901951) |
+| 01-01 | AI视频教程丨黄超强·家长如何用扣子做有声绘本？：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1RkqBYrmwxWuEio-sJucZcg?pwd=ahhh) |
+| 01-01 | AI视频教程丨和渊-给小学生家长的Al教育必修课：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/63ca20761aad) |
+| 01-01 | AI视频教程丨和渊-给小学生家长的Al教育必修课：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1OwJNhELa7Y7vFMFn13syiA?pwd=ahhh) |
+| 01-01 | AI商业应用系统课，室内-软装-建筑-景观，智能设计+效果图+动画画实战：夸克 | [夸克](https://pan.quark.cn/s/a7c4b048b26b) |
+| 01-01 | AI写作全链路：DeepSeek结构化Prompt+飞书多维表打造爆款内容体系：夸克 | [夸克](https://pan.quark.cn/s/f54f16a24ceb) |
+| 01-01 | DeepSeek助力图书博主实战课，从0到1搭建账号、爆款选品逻辑、多维度内容制作技巧：夸克 | [夸克](https://pan.quark.cn/s/bc16fff94029) |
+| 01-01 | AI视频教程丨张业鹏·如何用Kimi快速分析上市公司财报：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/0f3f1da86d14) |
+| 01-01 | AI视频教程丨张业鹏·如何用Kimi快速分析上市公司财报：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1plMWpIp-AiMQeP5gVef-kA?pwd=ahhh) |
+| 01-01 | AI视频教程丨卢小旭·如何用海绵音乐为短视频配乐：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/bc403cf2fefc) |
+| 01-01 | AI视频教程丨卢小旭·如何用海绵音乐为短视频配乐：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1DFq5-8_XYqdYaEZGDmaOAg?pwd=ahhh) |
+| 01-01 | AI数字人+矩阵+电商带货新玩法，AI电商带货教程：夸克 | [夸克](https://pan.quark.cn/s/b14a4a6e0a22) |
+| 01-01 | AI电商降本增效线上课，电商人如何用AI工具降本增效：夸克 | [夸克](https://pan.quark.cn/s/b288214e1b64) |
+| 01-01 | AI视频教程丨魏上升·如何用Midjourney设计广告创意海报：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/e8c7dc1ececf) |
+| 01-01 | AI视频教程丨魏上升·如何用Midjourney设计广告创意海报：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1FUMs17rUgJDz5uXu68WwXQ?pwd=ahhh) |
+| 01-01 | 即梦AI全面学习+实战教程，即梦AI一站式AI创作平台：夸克 | [夸克](https://pan.quark.cn/s/988d44e7f8fb) |
+| 01-01 | AI数字虚拟人定制，实时语音交互训练营（零基础），前沿核心数字人开发技术：夸克 | [夸克](https://pan.quark.cn/s/e15655ced6ec) |
+| 01-01 | Ai绘画+IP商业自媒体精品课，Ai绘画实操，个人ip打造：夸克 | [夸克](https://pan.quark.cn/s/0a46e906d944) |
+| 01-01 | 视频号变现新风口AI爆款创作-视频号带货变现：夸克 | [夸克](https://pan.quark.cn/s/0659156122f6) |
+| 01-01 | AIGC剧情短剧导演大师课，1人做短剧，抢占AIGC短剧流量先机：夸克 | [夸克](https://pan.quark.cn/s/0f6b94726ee4) |
+| 01-01 | AI视频教程丨徐艺晏·HR如何用办公小浣熊做好数据分析？：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/41e9490c973c) |
+| 01-01 | AI视频教程丨徐艺晏·HR如何用办公小浣熊做好数据分析？：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1zDs-DHHOJmNdOuM66VhIqA?pwd=ahhh) |
+
+## 🛒 电商/跨境 (118 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | 亚马逊保姆级全流程实操教程，新手如何从零打造月入1W美金电商事业：夸克 | [夸克](https://pan.quark.cn/s/7f75b2cb9f25) |
+| 06-21 | 亚马逊KDP出版实战课，教你在亚马逊KDP上制作和销售书籍，轻松实现月入6K美刀被动收入：夸克 | [夸克](https://pan.quark.cn/s/1e1339ffeaf6) |
+| 06-20 | 跨境电商亚马逊培训课程视频合集：夸克 | [夸克](https://pan.quark.cn/s/343ae20fe007) |
+| 06-17 | 杰哥闲鱼电商2.0实操指南，突破流量与变现瓶颈：夸克 | [夸克](https://pan.quark.cn/s/b3853798047f) |
+| 06-15 | Shopify跨境独立站无货源电商爆款打法新手完全指南：夸克 | [夸克](https://pan.quark.cn/s/94f9c01c5fe6) |
+| 06-09 | 抖店老板必学八节课，助学员提升商业洞察与决策能力，助力单店利润倍增：夸克 | [夸克](https://pan.quark.cn/s/062504e41a7d) |
+| 06-06 | 抖音直播投放教程：夸克 | [夸克](https://pan.quark.cn/s/d522beeda221) |
+| 06-04 | TikTok出海电商实操课，全干货实操讲解，手把手教你做好TK跨境电商：百度 | [百度](https://pan.baidu.com/s/10x6-CeRHE3SOH_Hr6IWe6w?pwd=ahhh) |
+| 05-26 | 《Tiktok精选联盟》短视频带货百单实战营教学，快速成为Tiktok带货达人：夸克 | [夸克](https://pan.quark.cn/s/6c34844b2513) |
+| 05-22 | TEMU从入门到精通，从新手入门到进阶高手全覆盖：百度 | [百度](https://pan.baidu.com/s/1iiYQx39W24L1ihRRktqFFQ?pwd=ahhh) |
+| 05-21 | B2B企业出海内容营销+社媒矩阵，从0到1的系统化实战方案：百度 | [百度](https://pan.baidu.com/s/1zMGOql6Ct9RzdhnoFcpDGQ?pwd=ahhh) |
+| 05-20 | TEMU从入门到精通，从新手入门到进阶高手全覆盖：百度 | [百度](https://pan.baidu.com/s/1iiYQx39W24L1ihRRktqFFQ?pwd=ahhh) |
+| 05-19 | 小刚老师外贸如何快速0-1认知课：夸克 | [夸克](https://pan.quark.cn/s/249379e4fc2d) |
+| 05-12 | Instagram增长实战课，将关注者转化为付费客户！从增长到转化，打造真正品牌（双语字幕）：百度 | [百度](https://pan.baidu.com/s/1-fmutPyKGLjqQdJFL5Bc2g?pwd=ahhh) |
+| 05-11 | 2026伴手礼破局十大攻略，带你走通伴手礼全链路实战攻略，从产品营销到流量变现闭环：百度 | [百度](https://pan.baidu.com/s/1PXOt_j54Opk3JSF3jzPuXA?pwd=ahhh) |
+| 05-10 | 跨境电商 shopee无货源开店，门槛低，0保证金0入驻费0年费，操作简单，出单迅速：夸克 | [夸克](https://pan.quark.cn/s/72bccfca796f) |
+| 05-10 | 淘宝开店0基础全套视频：夸克 | [夸克](https://pan.quark.cn/s/0d14449e2b7f) |
+| 05-09 | 实用外贸制造业英语课程，教你专业处理送样请求、应对生产意外、回复品质投诉、撰写开发信等：百度 | [百度](https://pan.baidu.com/s/1yBTeKrOTipWlQPbN8j1jnw?pwd=ahhh) |
+| 05-09 | 价值2999元小红书电商运营从入门到精髓：夸克 | [夸克](https://pan.quark.cn/s/b279320b4fcd) |
+| 05-09 | 外贸课程大合集—新手到外贸精英全流程：夸克 | [夸克](https://pan.quark.cn/s/17af16dbdc47) |
+| 05-06 | 出海专业知识普及，从0到1，8大模块构建你的海外增长引擎：百度 | [百度](https://pan.baidu.com/s/1AzyUcqJydylLO_WiBN6ONQ?pwd=ahhh) |
+| 05-06 | 琼姐·团队复制+询盘转化+展会实操，学外贸，做跨境：百度 | [百度](https://pan.baidu.com/s/1j2qG9W5inSR_i1GMJPagJQ?pwd=ahhh) |
+| 05-04 | Tiktok影视大牛搬运切片手法第二期，详细玩法教程：夸克 | [夸克](https://pan.quark.cn/s/335bbee2bcd8) |
+| 04-29 | 外贸营销策划SOP系统课程，打开跨境电商企业线上营销任督二脉：夸克 | [夸克](https://pan.quark.cn/s/2766e48b0d70) |
+| 04-28 | 外贸业务员销售技巧，王牌外贸业务的训练：夸克 | [夸克](https://pan.quark.cn/s/87988fce91e0) |
+| 04-25 | 亚马逊原版电子书合集（2500册）： 夸克 | [夸克](https://pan.quark.cn/s/94a43d7ef4a3) |
+| 04-24 | 抖店达人分销体系搭建课，从逻辑到执行、沟通话术、资源裂变：夸克 | [夸克](https://pan.quark.cn/s/6a5f34b8e201) |
+| 04-24 | Tiktok+独立站0基础入门到精通 跨境电商独立站新手必学课：夸克 | [夸克](https://pan.quark.cn/s/5698302c8aec) |
+| 04-21 | 亚马逊新品推广实战技巧 闯盟跨境：夸克 | [夸克](https://pan.quark.cn/s/c5ca33f51539) |
+| 04-19 | 亚马逊FBA运营实操课：夸克 | [夸克](https://pan.quark.cn/s/f6bdc8cbb401) |
+| 04-18 | 亚马逊广告专栏：运营总监手把手带你揭秘亚马逊广告的底层逻辑：夸克 | [夸克](https://pan.quark.cn/s/f76f26f53d18) |
+| 04-17 | 亚马逊站内运营课：资深操盘高手带你玩转亚马逊：夸克 | [夸克](https://pan.quark.cn/s/ac5fab836a28) |
+| 04-17 | 从0到1做外贸副业的系统课，简单賺钱的外贸创业课：夸克 | [夸克](https://pan.quark.cn/s/435196164992) |
+| 04-15 | TikTok跨境电商全流程实操课，助力从业者掌握TikTok跨境电商运营核心技能，高效开展业务：夸克 | [夸克](https://pan.quark.cn/s/5d673bed51eb) |
+| 04-15 | 亚马逊收费电子书合集：夸克 | [夸克](https://pan.quark.cn/s/dfcaf3135574) |
+| 04-06 | 如何成为一名优秀的外贸业务员，从新手到专家：夸克 | [夸克](https://pan.quark.cn/s/90daf7c48396) |
+| 04-04 | 系统掌握LinkedIn领英营销，创造百万业绩增长，从思维到获客，从沟通到成交，系统化提升外贸能力：夸克 | [夸克](https://pan.quark.cn/s/87bd16c4e239) |
+| 03-31 | 小红书电商精细化运营全流程，周末副业月入1W+，全套方法都在这了：夸克 | [夸克](https://pan.quark.cn/s/69a95ffc25e7) |
+| 03-31 | 从0-1亚马逊实战课程，亚马逊从0-1，从1-10实操变现：夸克 | [夸克](https://pan.quark.cn/s/8006c9031a6e) |
+| 03-30 | 外贸企业业绩倍增方法论，帮助外贸企业拉伸业绩：夸克 | [夸克](https://pan.quark.cn/s/7c5820fbf4f4) |
+| 03-29 | 小红书电商运营课：从0到1冷启动与1到100快速增长实战教学：夸克 | [夸克](https://pan.quark.cn/s/923cb214fcc8) |
+| 03-27 | B2B企业出海内容营销+社媒矩阵，从0到1的系统化实战方案：夸克 | [夸克](https://pan.quark.cn/s/4a27a6043217) |
+| 03-20 | 2026全新闲鱼高阶陪跑课程，手把手带教，带你吃透规则纵横闲鱼，实现稳定变现：夸克 | [夸克](https://pan.quark.cn/s/43b9a38b5db1) |
+| 03-20 | 2026闲鱼无货源实战教学，适配平台新规，零基础玩转无货源带你爆单：夸克 | [夸克](https://pan.quark.cn/s/51178c4c71d8) |
+| 03-19 | TikTok从0到1打通变现，小白也能操作的TK变现实战课程：夸克 | [夸克](https://pan.quark.cn/s/4f08d588531c) |
+| 03-19 | 小红书电商全流程，精简易懂，从入门到精通，学这一门就够了：夸克 | [夸克](https://pan.quark.cn/s/405579900287) |
+| 03-17 | Tiktok出海淘金训练营，跨境电商TK实战变现：夸克 | [夸克](https://pan.quark.cn/s/9bc737901385) |
+| 03-16 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [夸克](https://pan.quark.cn/s/9eee175cbb74) |
+| 03-16 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [百度](https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh) |
+| 03-16 | 外贸营销课之一键询盘秒杀单，如何高质量回复询盘：夸克 | [夸克](https://pan.quark.cn/s/3ecfefe14072) |
+| 03-16 | 三步搞定展会成交，外贸展会全流程成交sop：夸克 | [夸克](https://pan.quark.cn/s/72b55d6b46e6) |
+| 03-15 | Tiktok短视频出海实战训练营，如何利用海外短视频平台实现引流、带货、测评：夸克 | [夸克](https://pan.quark.cn/s/d214638e05f4) |
+| 03-10 | Tiktok短视频从入门到精通，学会制作TK爆款短视频：夸克 | [夸克](https://pan.quark.cn/s/ced014903d05) |
+| 03-08 | 抖音小店全流程实操课，助创业者商家系统掌握抖店运营精髓：夸克 | [夸克](https://pan.quark.cn/s/2ffb2e0414f4) |
+| 03-08 | Linkedin高阶实战，外贸业务开发，个人品牌打造利器：夸克 | [夸克](https://pan.quark.cn/s/9569d5557d1e) |
+| 03-07 | Tiktok达人管理从入门到精通，助你全面掌握达人管理秘籍：夸克 | [夸克](https://pan.quark.cn/s/fbf096d8efe1) |
+| 02-27 | TEMU开店从0到1全流程实操课，从注册到发货一站式运营指南：夸克 | [夸克](https://pan.quark.cn/s/28697fd45c28) |
+| 02-24 | 无货源特训营，0基础带你玩转咸鱼无货源：夸克 | [夸克](https://pan.quark.cn/s/a4daccbafcb3) |
+| 02-20 | TikTok中视频制流程，轻松实现TikTok中视频的高效创作与运营：夸克 | [夸克](https://pan.quark.cn/s/5ee45bc53b7a) |
+| 02-17 | 跨境电商线上课，TikTok 直播运营 + 多平台账号注册 + PayPal 万里汇实操教程：夸克 | [夸克](https://pan.quark.cn/s/3ea5f1e51b02) |
+| 02-16 | 闲鱼无货源电商，独家运营出单技巧，可批量放大：夸克 | [夸克](https://pan.quark.cn/s/1861d9eda07a) |
+| 02-13 | 外贸社媒获客独家训练营，外贸新模式，快速做外贸：夸克 | [夸克](https://pan.quark.cn/s/ada866675b25) |
+| 02-13 | 国外广告联盟media buy项目，从0-1的全流程，带大家出海捞金：夸克 | [夸克](https://pan.quark.cn/s/0f675d02bedb) |
+| 02-12 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [夸克](https://pan.quark.cn/s/9eee175cbb74) |
+| 02-12 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [百度](https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh) |
+| 02-11 | 跨境电商财稅合规底层逻辑思维课，财务思维超实用于货讲解实现利润增长：夸克 | [夸克](https://pan.quark.cn/s/424ce75ed72f) |
+| 02-09 | 外贸全能商务英语课，学完轻松谈生意 轻松拿订单：夸克 | [夸克](https://pan.quark.cn/s/7f672e42b706) |
+| 02-05 | 亚马逊从0到1选品课程，快速掌握选品核心逻辑，避开同质化陷阱，精准锁定高潜力市场：夸克 | [夸克](https://pan.quark.cn/s/4f9398d7e7a0) |
+| 01-24 | Tiktok影视解说文案与选题课，TK大佬解说教程：夸克 | [夸克](https://pan.quark.cn/s/139ffd6fa2ed) |
+| 01-05 | 14节出海夺金从0-1跑通出海全流程-跨境电商教程：夸克 | [夸克](https://pan.quark.cn/s/2849a4d2cd83) |
+| 01-05 | 无货源电商不备货实操课2.0，2026年布局，从0到1全网最低10%费比全链路打法：夸克 | [夸克](https://pan.quark.cn/s/a95b64a642eb) |
+| 01-03 | TikTok跨境电商0-1搭建运营，TK出海跨境实操秘籍：夸克 | [夸克](https://pan.quark.cn/s/2f5d361f3030) |
+| 01-02 | 跨境电商财稅合规底层逻辑思维课-跨境电商财税教程：夸克 | [夸克](https://pan.quark.cn/s/5aa2437b4165) |
+| 01-01 | 外贸如何快速0-1认知课-适合内贸转外贸的老板，管理者学习：夸克 | [夸克](https://pan.quark.cn/s/b97df7c2e8f5) |
+| 01-01 | TikTok电商从0到千万GMV实战课，从0到1拆解实战秘籍：夸克 | [夸克](https://pan.quark.cn/s/f056d9469026) |
+| 01-01 | TikTok玄学命理跨境出海双语掘金课，手把手教你用命理知识精准直击海外用户痛点：夸克 | [夸克](https://pan.quark.cn/s/528d9873caf4) |
+| 01-01 | 外贸主动开发客户实战课，谷歌实战开发大客户：夸克 | [夸克](https://pan.quark.cn/s/a75db748bd04) |
+| 01-01 | 外贸话术+营销实战营，与客户沟通不再有障碍：夸克 | [夸克](https://pan.quark.cn/s/d018a54008ea) |
+| 01-01 | 独立站卖家流量破局：从0到1掌握YouTube引流，手把手带你玩转油管流量：夸克 | [夸克](https://pan.quark.cn/s/629f84e687b7) |
+| 01-01 | TikTok跨境电商从0-1全链路全方位实操教程，把握多元变化中的全球生意机会：夸克 | [夸克](https://pan.quark.cn/s/3ed3cd676603) |
+| 01-01 | Tiktok广告投放导学课，帮助刚入门的新人掌握广告投放技巧：夸克 | [夸克](https://pan.quark.cn/s/c44d3983cd2d) |
+| 01-01 | 小红书电商从0到1实操运营课，从零开始，简单易学：夸克 | [夸克](https://pan.quark.cn/s/8571b731bca0) |
+| 01-01 | 数字销售策略领英LinkedIn外贸精准客户开发：夸克 | [夸克](https://pan.quark.cn/s/0e537cc2a714) |
+| 01-01 | 人气外贸课-成为领英Linkedin获客高手，你需要做对什么：夸克 | [夸克](https://pan.quark.cn/s/0c566ac39787) |
+| 01-01 | WordPress外贸独立站建站全流程，从零到上线的完整指南：夸克 | [夸克](https://pan.quark.cn/s/a5da9e93f688) |
+| 01-01 | 小红书无货源电商课程，不拍摄不露脸不用囤货，一部手机即可开店：夸克 | [夸克](https://pan.quark.cn/s/c8c48f935312) |
+| 01-01 | TikTok小店广告投放特训营，6天破局计划专治各种“投不动”，教你经过月销百万验证的实战干货：夸克 | [夸克](https://pan.quark.cn/s/6a9b613a7f07) |
+| 01-01 | 品牌独立站策略与推广，学习是开始，落地是王道：夸克 | [夸克](https://pan.quark.cn/s/073790b616e1) |
+| 01-01 | TK0-1跨境新手实操视频课，tiktok美区跨境分享会：夸克 | [夸克](https://pan.quark.cn/s/c796e452c270) |
+| 01-01 | 蓝海项目挣美刀，最新Tiktok中视频计划教学，从0-1教你学会海外TK中视频，一次性讲清楚：夸克 | [夸克](https://pan.quark.cn/s/a7f36ebf7202) |
+| 01-01 | 小红书电商掘金课，小红书电商项目玩法全流程拆解：夸克 | [夸克](https://pan.quark.cn/s/12ad4c1090df) |
+| 01-01 | 小红书原理以及详细实操流程，小红书电商教程：夸克 | [夸克](https://pan.quark.cn/s/89d970656882) |
+| 01-01 | 闲鱼零基础入门精细化运营实战教学，闲鱼暴力玩法带你成功变现：夸克 | [夸克](https://pan.quark.cn/s/e43b732855b0) |
+| 01-01 | 出海去孵化器，一人出海实战课，超级个体第1站，解锁全球增长：夸克 | [夸克](https://pan.quark.cn/s/ab9f0dcdedc4) |
+| 01-01 | 淘宝无货源精细化运营玩法，从选品到起店的全流程实操：夸克 | [夸克](https://pan.quark.cn/s/17c4d65e9844) |
+| 01-01 | TikTok开店运营实战课程，TK跨境电商实操全流程：夸克 | [夸克](https://pan.quark.cn/s/17e12a6a5c54) |
+| 01-01 | TikTok全链路0-1变现路径教学，入局TikTok必学内容：夸克 | [夸克](https://pan.quark.cn/s/78cfa4b097c3) |
+| 01-01 | 小红书电商直播营，直播带货+店铺运营+笔记运营=全电商：夸克 | [夸克](https://pan.quark.cn/s/3c7ced634973) |
+| 01-01 | Snovio初阶课程，客户开发技能，外贸开发信：夸克 | [夸克](https://pan.quark.cn/s/bb31e7633c20) |
+| 01-01 | 亚马逊跟卖实战课，零基础跨境开店实操教学：夸克 | [夸克](https://pan.quark.cn/s/2da7bd0ddab7) |
+| 01-01 | 外贸SOHO从0到1低成本创业课，能够立刻上手实操与落地执行：夸克 | [夸克](https://pan.quark.cn/s/b23e4e887d9c) |
+| 01-01 | B2B外贸独立站建站+谷歌SEO，为外贸人精心打造的独立站获客教程：夸克 | [夸克](https://pan.quark.cn/s/0173fadb0e23) |
+| 01-01 | 淘宝无货源创业系列课，助新手掌握从产品上架到盈利选品的全流程方法论：夸克 | [夸克](https://pan.quark.cn/s/07000476e103) |
+| 01-01 | TikTok全套视频课，新手入门+进阶课，短视频ADS-GMV MAX投流打品，日销破1000单打法：夸克 | [夸克](https://pan.quark.cn/s/e84c10ad0b35) |
+| 01-01 | 小红薯薯店商城卖货，进阶流量课，教你如何开店选品、如何系统引流，实现快速卖货变现：夸克 | [夸克](https://pan.quark.cn/s/98d2c4249698) |
+| 01-01 | 无货源社交电商实操课，绕开传统互联网电商模式，撒豆成兵，实现跨平台交易：夸克 | [夸克](https://pan.quark.cn/s/31d2a318554a) |
+| 01-01 | 小红书电商0基础+高级运营课，新人小白必学方法，实操教学+案例分析：夸克 | [夸克](https://pan.quark.cn/s/18685e55087b) |
+| 01-01 | 跨境电商日本Temu半托管店铺运营实战，新手快速入局，抢占蓝海市场：夸克 | [夸克](https://pan.quark.cn/s/833818f5d00c) |
+| 01-01 | TikTok中视频全新玩法，百万播放月赚1800美金：夸克 | [夸克](https://pan.quark.cn/s/5c26198e0041) |
+| 01-01 | 美国本土电商技术，Tiktok 运营篇+美国小红书篇+本土银行篇：夸克 | [夸克](https://pan.quark.cn/s/2e87e5f5b4f3) |
+| 01-01 | 从零开始做外贸教程套装：夸克 | [夸克](https://pan.quark.cn/s/54571c28d926) |
+| 01-01 | 俄罗斯跨境OZON快速上手，OZ0N跨境电商运营实战课，俄罗斯市场全攻略：夸克 | [夸克](https://pan.quark.cn/s/6e7347f40516) |
+| 01-01 | 小红书无货源电商实战课：从开店到爆款笔记的完整变现流程：夸克 | [夸克](https://pan.quark.cn/s/5f111cc63726) |
+| 01-01 | TikTok中视频计划保姆级教程，TK原创动画课程，单账号月收益4k美刀：：夸克 | [夸克](https://pan.quark.cn/s/14dc0c372ed8) |
+| 01-01 | TikTok全链路变现实操课程，全方位助力学员掌握TK变现技能：夸克 | [夸克](https://pan.quark.cn/s/ff37eb4f145c) |
+| 01-01 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [夸克](https://pan.quark.cn/s/9eee175cbb74) |
+| 01-01 | TikTok国际解锁版：夸克、百度 提取码: ahhh | [百度](https://pan.baidu.com/s/15y3_pod5-Kq8a-uxYqvHsA?pwd=ahhh) |
+| 01-01 | TikTok海外抖音中视频陪跑课程，TK最简单挣美金方式，1万播放挣8刀：夸克 | [夸克](https://pan.quark.cn/s/7aad2381bae1) |
+
+## 🎬 自媒体/短视频/剪辑 (197 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | 自媒体实战全攻略，多案例拆解带你掌握流量变现全流程：夸克 | [夸克](https://pan.quark.cn/s/bbb2f1a61637) |
+| 06-22 | 飘老师引流（完结）：百度 | [百度](https://pan.baidu.com/s/1WSAwlNfPgOx3LJphflsmSA?pwd=ahhh) |
+| 06-19 | 0基础可学！《女人不易》竖屏剧情剪辑课，从素材筛选到成片输出，手把手教你驾驭复杂故事：夸克 | [夸克](https://pan.quark.cn/s/7421f07299f6) |
+| 06-18 | 炫酷机车短视频剪辑实操教学，专为机车爱好者打造的干货教程，零基础也能轻松上手：夸克 | [夸克](https://pan.quark.cn/s/7005368ae776) |
+| 06-15 | 新媒体入门百科全书：夸克 | [夸克](https://pan.quark.cn/s/70ac37045514) |
+| 06-14 | 抖音带货从0到1系统教学，从单账号运营到矩阵布局的完整操作流程，实现低成本启动与高效带货：夸克 | [夸克](https://pan.quark.cn/s/c4ec289fd1da) |
+| 06-13 | 个人IP自媒体内容创作系统，从定位，到选题、做钩子、搭结构，再到后期运营，每一步都给你讲透：夸克 | [夸克](https://pan.quark.cn/s/b81883233461) |
+| 06-12 | 影视剪辑一站式讲解，0基础入门到精通，全流程实操：夸克 | [夸克](https://pan.quark.cn/s/a6eb1ede585f) |
+| 06-12 | 手机剪映剪辑教学，小白也能学会的操作，秒出大片：夸克 | [夸克](https://pan.quark.cn/s/b0595a8e61a7) |
+| 06-11 | 一个人的旅行短视频剪辑教学，全程保姆级教学包你学会：夸克 | [夸克](https://pan.quark.cn/s/f6e1673f8ac6) |
+| 06-11 | Vlog感觉汽车竖屏广告剪辑脚本全流程，拿捏爆款Vlog质感：夸克 | [夸克](https://pan.quark.cn/s/16f5e34bf2c5) |
+| 06-10 | 10节课从0到1玩转短视频：夸克 | [夸克](https://pan.quark.cn/s/16b6e4865338) |
+| 06-09 | 手机短视频拍摄剪辑实操课，零基础7天从入门到精通，小白必学：夸克 | [夸克](https://pan.quark.cn/s/853c33583896) |
+| 06-09 | 零基础速成Vlog短视频教程：夸克 | [夸克](https://pan.quark.cn/s/d9e1d45b94ee) |
+| 06-08 | 短视频女装带货训练营，投入少风险低，收益天花板高：夸克 | [夸克](https://pan.quark.cn/s/854a5cadfb87) |
+| 06-08 | 电影混剪快速赚钱技术篇：夸克 | [夸克](https://pan.quark.cn/s/cc98fb7198a4) |
+| 06-07 | 剪辑入行系统课程，全流程体系化教学，从入门到就业：夸克 | [夸克](https://pan.quark.cn/s/75fc4a184199) |
+| 06-07 | 【影视飓风】剪辑全能必修课：从0基础到专业成片：夸克 | [夸克](https://pan.quark.cn/s/efc9188b732b) |
+| 06-06 | 直播带货业财税宝典，直播带货财税怎么做？一堂课帮你彻底搞懂直播带货及财税处理：百度 | [百度](https://pan.baidu.com/s/1FzjOsjdFoCrN2xUROPtbwA?pwd=ahhh) |
+| 06-04 | 短视频带货启程之旅，用一台手机完成你心中所想：百度 | [百度](https://pan.baidu.com/s/1l5PCSVuRVK1imfWelmqC3w?pwd=ahhh) |
+| 06-03 | 2026剪映特效创作与变现系统课，海量实操案例课详解、模板创作心法，一站式掌握：百度 | [百度](https://pan.baidu.com/s/13IMoe4IsssZ6iX6oecsfZA?pwd=ahhh) |
+| 06-03 | 口播剪辑速成课，个人IP口播全流程剪辑课：百度 | [百度](https://pan.baidu.com/s/1B3OllDkfexJTcLlRjJ7QVA?pwd=ahhh) |
+| 06-02 | 小红书聚光投流获客实战营，给本地生意老板的小红书引流实战课：百度 | [百度](https://pan.baidu.com/s/1ygPZFwo-HlVQs5mHOlK57Q?pwd=ahhh) |
+| 05-31 | 手机短视频拍摄剪辑课，零基础小白从入门到高手：夸克 | [夸克](https://pan.quark.cn/s/924b07ad5b3c) |
+| 05-29 | 零基础学习书单剪辑，热门视频类型的完整制作流程：百度 | [百度](https://pan.baidu.com/s/12uutrMhtYs2p4qFbN0xiag?pwd=ahhh) |
+| 05-29 | 电商财务系统课程，覆盖抖音、淘天、拼多多、京东四大主流平台的全盘实操：百度 | [百度](https://pan.baidu.com/s/1In_JMb3lAAAq1VaeUwQ8ow?pwd=ahhh) |
+| 05-28 | 汽车广告剪辑教学：从素材筛选到成片输出，新手也能剪出高级感汽车大片：百度 | [百度](https://pan.baidu.com/s/1iLYPth51Bav47jphxaIIwg?pwd=ahhh) |
+| 05-27 | 影视解说全流程实战课，无需电脑，全程使用剪映等手机APP操作：百度 | [百度](https://pan.baidu.com/s/1SZCMQShxpUX0xxX-r5G_zQ?pwd=ahhh) |
+| 05-25 | 手机短视频拍摄剪辑课，零基础小白从入门到高手：夸克 | [夸克](https://pan.quark.cn/s/76528107214a) |
+| 05-25 | 相机高清直播搭建教程，打造专业级直播间：夸克 | [夸克](https://pan.quark.cn/s/babe0e485116) |
+| 05-25 | 【全能剪辑高手训练营】剪辑思维+达芬奇调色+拍摄技巧一站教学：夸克 | [夸克](https://pan.quark.cn/s/ef12e635c31f) |
+| 05-24 | 抖音短视频切片混剪带货教学，操作起来真的太简单了，新手也能做切片带货：百度 | [百度](https://pan.baidu.com/s/15prRFLqLIaDLYOLY4LkoBQ?pwd=ahhh) |
+| 05-24 | 新媒体IP创作课2.0，新媒体时代布局短视频，打造高价值的个人IP：百度 | [百度](https://pan.baidu.com/s/1StimD1TQd6QgsVEzzsPocg?pwd=ahhh) |
+| 05-24 | 飘老师引流（完结）：夸克 | [夸克](https://pan.quark.cn/s/e962ff994da6) |
+| 05-23 | 小清新短视频核心剪辑套路，新手万能，适配所有小清新场景：百度 | [百度](https://pan.baidu.com/s/11ONJJoLrdno78eO-7VqF2w?pwd=ahhh) |
+| 05-23 | 小红书ip成长圈，小红书获客加速器，IP成长+高效获客双赋能，获客变现超轻松：百度 | [百度](https://pan.baidu.com/s/1aPCZyytjfAoqB6q4es_ugw?pwd=ahhh) |
+| 05-23 | 2026剪映实战课程，零基础入门到特效精通，轻松创作爆款视频：夸克 | [夸克](https://pan.quark.cn/s/d906c8076611) |
+| 05-22 | 抖音直播打号起号实时录屏，全程4小时起号操作，毫无保留：百度 | [百度](https://pan.baidu.com/s/1rFIdrcQjB6QbxOPkSqJN6w?pwd=ahhh) |
+| 05-20 | 抖音直播打号起号实时录屏，全程4小时起号操作，毫无保留：百度 | [百度](https://pan.baidu.com/s/1rFIdrcQjB6QbxOPkSqJN6w?pwd=ahhh) |
+| 05-19 | 短视频图书口播带货训练营第二期，副业月入1W＋，普通人也能复制的短视频带货玩法：百度 | [百度](https://pan.baidu.com/s/16drBtd4H3fyAs0ebxaI79g?pwd=ahhh) |
+| 05-18 | PR全能风格剪辑系统班，0基础到高阶，近20个案例一步到位：百度 | [百度](https://pan.baidu.com/s/1Unq4yH6ifSzu1X9LT1-W3g?pwd=ahhh) |
+| 05-18 | PR系统调色课程，视频后期调色，纯干货无废话系统讲解：百度 | [百度](https://pan.baidu.com/s/1G-yTv3BC2gRZsnXOOorF8w?pwd=ahhh) |
+| 05-17 | 短视频个人IP带货，七天快速起号，精选2026全新选品方法：百度 | [百度](https://pan.baidu.com/s/1cK1rAguaLeRgl4iilVg-Hw?pwd=ahhh) |
+| 05-17 | 影视解说核心运营课，带你触碰影视解说真正的核心：百度 | [百度](https://pan.baidu.com/s/1cbFk5_-pDCJ5T-8hF6U7Dw?pwd=ahhh) |
+| 05-17 | 剪辑师进阶思维课，让每一次剪辑都有思路、有情绪、有价值：百度 | [百度](https://pan.baidu.com/s/14Tg_Saet2JXXP1k76FWxjw?pwd=ahhh) |
+| 05-13 | 内容时代的全域获客课，从高效精准获客到强人设IP品牌：百度 | [百度](https://pan.baidu.com/s/1-DPKvNYW54FLJH2IlqLMHQ?pwd=ahhh) |
+| 05-13 | 剪映工具视频讲解：夸克 | [夸克](https://pan.quark.cn/s/ef4faa46cdb5) |
+| 05-12 | 裂变营销快速解决企业获客难题：夸克 | [夸克](https://pan.quark.cn/s/78b015b37106) |
+| 05-11 | 剪映风景实操：夸克 | [夸克](https://pan.quark.cn/s/ad52a4166fa7) |
+| 05-11 | 小红书运营引流全系列课程：教你养高权重新号，实操每天引流100精准粉：夸克 | [夸克](https://pan.quark.cn/s/31758af08e5e) |
+| 05-10 | 商业活动快剪直播系统课程，商业快剪系统剪辑手法：百度 | [百度](https://pan.baidu.com/s/1z6_V9xdrIQGY-y1PkPAG3w?pwd=ahhh) |
+| 05-10 | 唐宇老师 短视频剪辑 从入门到精通：夸克 | [夸克](https://pan.quark.cn/s/fb0528853929) |
+| 05-09 | PR秘传技：进阶剪辑的全方位攻略（完结）：夸克 | [夸克](https://pan.quark.cn/s/29ecd2a29c90) |
+| 05-08 | 剪映视频剪辑零基础教程：夸克 | [夸克](https://pan.quark.cn/s/9759b38fcf14) |
+| 05-08 | 影视解说5.0版零基础视频课程：夸克 | [夸克](https://pan.quark.cn/s/b395ec9d7a4c) |
+| 05-07 | 知识付费卖课直播间搭建 零基础搭建虚拟卖课直播间：夸克 | [夸克](https://pan.quark.cn/s/dc855afa320a) |
+| 05-06 | 剪辑思维训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/fafe7dd714b5) |
+| 05-05 | 国际私域选品实战课，蓝海市场由你选择，七分选品三分运营：夸克 | [夸克](https://pan.quark.cn/s/1a122ba43634) |
+| 05-04 | 12节影评变现课，教你写出好玩、涨粉、又赚钱的影评：夸克 | [夸克](https://pan.quark.cn/s/084dffed7c69) |
+| 05-03 | 影视解说流量变现运营课，带你触碰抖音影视真正的核心：夸克 | [夸克](https://pan.quark.cn/s/2c82440cc139) |
+| 05-02 | 私域IP起盘，私域ip建立、起盘、高转化，打造年入千万的私域ip模型：夸克 | [夸克](https://pan.quark.cn/s/56221bcc1e14) |
+| 05-02 | 某社群收费课程，学会安身立命，精通人性，少走人生弯路（77节课）：百度 | [百度](https://pan.baidu.com/s/1mo3LIWRm37DUphN39w7b_w?pwd=ahhh) |
+| 05-01 | 抖音小店爆品打造与矩阵裂变实战课，日卖100单上品技术7，天单品打爆技巧：夸克 | [夸克](https://pan.quark.cn/s/3e0215b7d719) |
+| 05-01 | 自媒体IP课，说人话的自媒体教程：夸克 | [夸克](https://pan.quark.cn/s/9792843cae8f) |
+| 05-01 | 抖音直播技术性走Guang 学习视频集合 690V：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNlyJiJsAE175VZLqEK3Whwlo1) |
+| 04-29 | 剪辑商单实战训练课，真实商单案例分享，在实战中练会剪辑：夸克 | [夸克](https://pan.quark.cn/s/738b6753b7eb) |
+| 04-28 | 剪辑师宝典 视频剪辑思维与案例实战：夸克 | [夸克](https://pan.quark.cn/s/2c07dc4943c1) |
+| 04-27 | 剪辑拍摄特效全能创作课，零基础到全能创作：夸克 | [夸克](https://pan.quark.cn/s/c45fc3e26b10) |
+| 04-27 | 公众号流量主之旅游赛道，受众广流量稳+轻松起号变现：夸克 | [夸克](https://pan.quark.cn/s/a4e38a442a6b) |
+| 04-26 | 剪映电脑版0基础到进阶，跟着案例学操作上手更快：夸克 | [夸克](https://pan.quark.cn/s/725e2e9d317e) |
+| 04-26 | 瓦斯讲故事2025全新影视解说课程：夸克 | [夸克](https://pan.quark.cn/s/27b141765c61) |
+| 04-25 | 新媒体运营高薪升核培养计划，入门-转行-进阶：夸克 | [夸克](https://pan.quark.cn/s/36f6014076c0) |
+| 04-23 | 小红书涨粉+变现硬核干货系统课，带你逆袭小红书：夸克 | [夸克](https://pan.quark.cn/s/23590bdd9b8a) |
+| 04-23 | 剪映专业版剪辑学习教学课程：夸克 | [夸克](https://pan.quark.cn/s/bed5c9b81b81) |
+| 04-22 | 《剪映视频剪辑从小白到大师（电脑版）》教程+PDF+配套素材：夸克 | [夸克](https://pan.quark.cn/s/ebeea5278ab8) |
+| 04-22 | 抖音直播虚拟直播间搭建教程，电脑直播，低成本搭建高清晰虚拟直播间，背景任意换，立显高大上：夸克 | [夸克](https://pan.quark.cn/s/60c0a6bcd43f) |
+| 04-22 | 高清虚拟直播间搭建技术教程，一部手机、一台电脑、一块绿布轻松搭建低成本高清虚拟直播间：夸克 | [夸克](https://pan.quark.cn/s/fca8275101cf) |
+| 04-22 | 小红书养号教程-最强小红薯养号黑科技：夸克 | [夸克](https://pan.quark.cn/s/c6de4e009b93) |
+| 04-22 | 私域顶层商业模式总裁视频课：夸克 | [夸克](https://pan.quark.cn/s/1321f98eb878) |
+| 04-21 | 从零到一的视频剪辑系统课，从0基础–系统掌握–实战进阶，学拍视频剪辑：夸克 | [夸克](https://pan.quark.cn/s/342e80d91663) |
+| 04-21 | 5G短视频抖音实操变现课程，自媒体，无谓引流变现：夸克 | [夸克](https://pan.quark.cn/s/270a8b4cc70d) |
+| 04-21 | AE+Pr 高能秘籍课全集：夸克 | [夸克](https://pan.quark.cn/s/f18eb1876613) |
+| 04-21 | 1000首电影解说背景音乐 短视频影视解说专用BGM：夸克 | [夸克](https://pan.quark.cn/s/0f902c0ae1d7) |
+| 04-20 | 抖音大乘活法赛道实操教学：声音克隆，文案改写、双端剪辑、素材库，快速制作爆款剧情视频：夸克 | [夸克](https://pan.quark.cn/s/ed8b3b129176) |
+| 04-19 | 开车视角短视频制作素材 豪车第一视角视频素材：夸克 | [夸克](https://pan.quark.cn/s/153af24bdff9) |
+| 04-17 | 小白变身老司机的短视频拍摄系统课，让你真正把所学知识运用到工作生活中：夸克 | [夸克](https://pan.quark.cn/s/e7c7c4438a77) |
+| 04-17 | B站精品课《GenJi是真想教会你：PR+AU+AE全能剪辑师入门班》：夸克 | [夸克](https://pan.quark.cn/s/13b4a31aee2e) |
+| 04-16 | 手把手教你同城短视频直播，引爆实体同城流量：夸克 | [夸克](https://pan.quark.cn/s/f4bd6ee61643) |
+| 04-15 | PR从零基础入门到视频剪辑大神教程（100集全）：夸克 | [夸克](https://pan.quark.cn/s/2990d28a0e08) |
+| 04-12 | 短视频0基础起号 拍摄运营高效速成班：夸克 | [夸克](https://pan.quark.cn/s/6b1e2f33346e) |
+| 04-09 | 短视频带货训练营，抖音带货课程+抖音带货数据挖掘+精准获客解决方案：夸克 | [夸克](https://pan.quark.cn/s/08955202b38f) |
+| 04-08 | 小红书高效变现课，快速学习小红书完整体系和具体落地打法：夸克 | [夸克](https://pan.quark.cn/s/414d6e1140aa) |
+| 04-06 | 3天口播速成训练营，会搞钱的设计师IP系列实战课：夸克 | [夸克](https://pan.quark.cn/s/085b2a291975) |
+| 04-04 | 视频号电商起号全案课，0到1微付费自然流起号：夸克 | [夸克](https://pan.quark.cn/s/af5d87ec1464) |
+| 04-03 | 短视频女装带货训练营，投入少风险低，收益天花板高：夸克 | [夸克](https://pan.quark.cn/s/bdcaf84564de) |
+| 03-30 | 小红书自媒体咨询师IP教程，私人定制+高客单：夸克 | [夸克](https://pan.quark.cn/s/b0d2951f9b86) |
+| 03-28 | 手机剪映剪辑教学，小白秒出大片+零基础操作全攻略：夸克 | [夸克](https://pan.quark.cn/s/69f746fec542) |
+| 03-27 | 剪映81套封面预设文件：夸克 | [夸克](https://pan.quark.cn/s/da548ae7757d) |
+| 03-26 | 小红书副业引流变现课，从0-1跑通副业项目，这一定能颠覆你传统的副业思维：夸克 | [夸克](https://pan.quark.cn/s/1a4b1e6ae286) |
+| 03-24 | 小红书虚拟项目特训课6.0，帮你从0到1打造稳定盈利的店铺，抓住流量红利：夸克 | [夸克](https://pan.quark.cn/s/2ed648a26438) |
+| 03-22 | 读书IP短视频变现实操课，读书IP赛道变现指南：夸克 | [夸克](https://pan.quark.cn/s/01ebef0a95b0) |
+| 03-22 | 【速算】高照抖音速算直播课：夸克 | [夸克](https://pan.quark.cn/s/9d9b3b113177) |
+| 03-21 | 开启你的自媒体之路，抖音视频号做口播ip，怎么提升自己的表达能力，小白首选玩法：夸克 | [夸克](https://pan.quark.cn/s/bb307bbe80d9) |
+| 03-21 | PR从零基础入门到视频剪辑大神教程（100集全）：夸克 | [夸克](https://pan.quark.cn/s/015551930cd6) |
+| 03-21 | Pr速成3小时学会视频剪辑：夸克 | [夸克](https://pan.quark.cn/s/e6d644ecf557) |
+| 03-18 | 成人私域实战课程，搭建高活跃度的私域流量池，实现持续稳定的业绩增长：夸克 | [夸克](https://pan.quark.cn/s/d3ad0ca2915e) |
+| 03-16 | 小红书特训课，手把手教你掌握小红书运营全流程，实现流量与变现双丰收：夸克 | [夸克](https://pan.quark.cn/s/3adcf5f2868c) |
+| 03-16 | 爆火全网的手机短视频变现课，0 基础教你拍摄剪辑涨粉运营变现，用一部手机挣钱：夸克 | [夸克](https://pan.quark.cn/s/2609cb16ebf5) |
+| 03-16 | 短视频剪辑运营高手课，入门到精通成为短视频高手：夸克 | [夸克](https://pan.quark.cn/s/23df728c9803) |
+| 03-15 | 私域致胜，从0到1搭建客户成交体系：夸克 | [夸克](https://pan.quark.cn/s/ce88a3d6d740) |
+| 03-13 | PR剪辑技巧进阶课，PR插件+手法进阶课程：夸克 | [夸克](https://pan.quark.cn/s/5070fedc9df8) |
+| 03-13 | Pr 速成3小时学会视频剪辑：夸克 | [夸克](https://pan.quark.cn/s/184ceeac9445) |
+| 03-13 | 影视飓风 只看8节课，用iPhone拍出电影感：夸克 | [夸克](https://pan.quark.cn/s/1b9ab9c06dc9) |
+| 03-12 | 音乐系统剪辑教学，实操展示音乐剪辑过程：夸克 | [夸克](https://pan.quark.cn/s/6a9ae85822a5) |
+| 03-11 | 小白0基础入门短剧剪辑运营培训班，新手小白入门短剧行业的第一课：夸克 | [夸克](https://pan.quark.cn/s/fbd1cf49d2e6) |
+| 03-08 | 从零开始的旅拍vlog指南：夸克 | [夸克](https://pan.quark.cn/s/88c911c4499a) |
+| 03-07 | 时尚酷炫风格剪辑课，系统剪辑手法，一步到位，全程实操：夸克 | [夸克](https://pan.quark.cn/s/dfecb7fdc3b1) |
+| 03-05 | 一个人起盘的底层逻辑，私域流量-直播电商-实体获客，一人起盘的36种賺钱思路：夸克 | [夸克](https://pan.quark.cn/s/5ea94efb88a7) |
+| 03-04 | 短视频直播间如何布光教程，学会如何布光，让直播间画面更吸引人：夸克 | [夸克](https://pan.quark.cn/s/2e52570a42f8) |
+| 03-03 | 视频号直播间单品爆破玩法攻略，像素级拆解一个门槛低，容易复制到直播间玩法：夸克 | [夸克](https://pan.quark.cn/s/224742a86d4b) |
+| 02-28 | 同城相亲抖音运营课，从入门到精通的实战指南，快速高效匹配对象：夸克 | [夸克](https://pan.quark.cn/s/0e110ad0e7db) |
+| 02-28 | 直播带货业财税宝典，帮你彻底搞懂直播带货及财税处理：夸克 | [夸克](https://pan.quark.cn/s/6e8b2fafd1c0) |
+| 02-27 | 小红书ip运营高阶课，小红书运营全流程：夸克 | [夸克](https://pan.quark.cn/s/98a6da8c2b45) |
+| 02-26 | 短视频去重实操教学，口播-软广-硬广-剧情-短剧-带货都可以用，告别低级搬运手法：夸克 | [夸克](https://pan.quark.cn/s/0a0c45861385) |
+| 02-25 | 截流获客从0到1之小红书爆量截流课，每天稳定加100+精准粉，适用于各行业：夸克 | [夸克](https://pan.quark.cn/s/8ff4fb7d78e7) |
+| 02-25 | ⁢⁡​⁤​⁡⁡‌‌⁤⁤​‍⁡⁡​‍⁢‍⁢​​⁢‌⁣⁢​⁣⁢⁣​‌​⁤‌‌⁡‍​⁤截流获客从0到1之抖音爆量截流，每天稳定加100+精准粉，适用于各行业：夸克 | [夸克](https://pan.quark.cn/s/faa02498694d) |
+| 02-25 | 抖音底层认知逻辑实操，零基础抖音认知底层课程：夸克 | [夸克](https://pan.quark.cn/s/958f8ae8906c) |
+| 02-24 | 学力为王《剪映基础教学：从入门到精通实操教程》：夸克 | [夸克](https://pan.quark.cn/s/7b787930a12b) |
+| 02-23 | 手机视频拍摄教程，零基础入门，用手机就能拍出高质量短视频：夸克 | [夸克](https://pan.quark.cn/s/0f2c2579672a) |
+| 02-21 | 手机视频剪辑教程，手机人像视频编辑教程：夸克 | [夸克](https://pan.quark.cn/s/295b559e941c) |
+| 02-21 | 新媒体声音主播训练课教程完结：百度 | [百度](https://pan.baidu.com/s/1PMM0_MKVqsgNSYXrF6a_SQ?pwd=ahhh) |
+| 02-20 | 抖音80W博主沙雕动画文案8天速成班，基础课+直播课，文案助力账号破圈：夸克 | [夸克](https://pan.quark.cn/s/d88b5b2ed071) |
+| 02-17 | 视频号引流变现实战笔记，企业抖音引流与变现，电子书笔记：夸克 | [夸克](https://pan.quark.cn/s/4cf0aaef2fe9) |
+| 02-17 | 剪映电脑版思维案例课，从新手入门到高阶实操，轻松产出高质量作品：夸克 | [夸克](https://pan.quark.cn/s/98c6b5ea7980) |
+| 02-17 | 快手短视频带货，快速掌握快手短视频带货核心能力，适合新手快速上手变现：夸克 | [夸克](https://pan.quark.cn/s/957f4ebcbb1d) |
+| 02-17 | 剪辑实战训练营，多案例拆解与全流程技能提升：百度 | [百度](https://pan.baidu.com/s/1u73cXso3tmO1VgwLoZh1Dw?pwd=ahhh) |
+| 02-16 | 小红书图文精准引流，小红书实战运营变现课程：夸克 | [夸克](https://pan.quark.cn/s/09a98e6229cf) |
+| 02-16 | 【抖音网红篇】一人一首网红成名曲整合500首无损歌曲每一首都曾是热搜榜神曲[WAV+19.9GB]：夸克 | [夸克](https://pan.quark.cn/s/c50eff56b7e1) |
+| 02-12 | 小红书虚拟电商掘金特训营第3期，从0到1带你玩小红书虚拟店铺：夸克 | [夸克](https://pan.quark.cn/s/5f4df24c102b) |
+| 02-12 | 抖音某博主电影剪辑全套实战教学，深入学习电影剪辑：夸克 | [夸克](https://pan.quark.cn/s/5b99cb8b47e7) |
+| 02-12 | 全品类直播自然流起号课，新手快速入局实操指南：夸克 | [夸克](https://pan.quark.cn/s/be2705d0ebd9) |
+| 02-10 | 小红书爆款培训班，小红书获客野路子流量打法，暴力持续获客：夸克 | [夸克](https://pan.quark.cn/s/4b65233780de) |
+| 02-10 | 直播陪跑课，金牌主播自然流打爆直播间，复制高变现玩法：夸克 | [夸克](https://pan.quark.cn/s/776ed82f44a7) |
+| 02-10 | 短视频创业全链路课程，从0到1构建可盈利的短视频事业：夸克 | [夸克](https://pan.quark.cn/s/df1420d425ab) |
+| 01-26 | 抖音短视频带货高级混剪教学，99%过原创，新手做二创混剪必看：夸克 | [夸克](https://pan.quark.cn/s/e506bb527ea8) |
+| 01-20 | 短剧推广项目保姆级教学，授权、收益、流程、剪辑，发布等全流程：夸克 | [夸克](https://pan.quark.cn/s/0503358166b3) |
+| 01-17 | 从0-1如何打造一个小红书爆款IP，少走弯路，保姆级教程：夸克 | [夸克](https://pan.quark.cn/s/39de87fd274b) |
+| 01-16 | 剪辑特效1对1就业营实操：夸克 | [夸克](https://pan.quark.cn/s/58c962cb1ffb) |
+| 01-15 | 抖音封面、快手封面PSD素材：夸克 | [夸克](https://pan.quark.cn/s/d532d59269c9) |
+| 01-12 | 视频号新手实战变现课，从认知、起号、话术、选品、开播到投放的全链路运营：夸克 | [夸克](https://pan.quark.cn/s/80b0d483605d) |
+| 01-11 | 抖音流量认知课，短视频+直播+私域，认知提升，闪电开悟：夸克 | [夸克](https://pan.quark.cn/s/35d513d9f438) |
+| 01-10 | 短视频运营实操课，选品、剪辑、测品、投流，从0到1轻松玩转短视频：夸克 | [夸克](https://pan.quark.cn/s/7ae185c36ec5) |
+| 01-09 | 零基础手机拍摄剪辑高级感短片：夸克 | [夸克](https://pan.quark.cn/s/9e45ce9b5eda) |
+| 01-07 | 从零开始的旅拍vlog指南：夸克 | [夸克](https://pan.quark.cn/s/98d2d0bcb19b) |
+| 01-01 | 新人主播必学的20堂培训课，让主播快速成长的必学课程，帮你直播能力快速打造的实操方法：夸克 | [夸克](https://pan.quark.cn/s/a3d76e871f3b) |
+| 01-01 | 短视频直播8天线下系统课，零基础入门，内容涵盖全面，账号运营，拍摄剪辑，直播电商：夸克 | [夸克](https://pan.quark.cn/s/8758e0f51310) |
+| 01-01 | 财务IP变现营，财务知识变现必修课，全方位助力财务从业者打造个人IP，实现知识变现：夸克 | [夸克](https://pan.quark.cn/s/e07bd6d2dc95) |
+| 01-01 | 7天上手学会图文带货，3天轻松学会图文带货变现，小白必学：夸克 | [夸克](https://pan.quark.cn/s/2507b4f26af5) |
+| 01-01 | 珠宝人小红书0-1运营课程，掌握珠宝行业的小红书多种账号玩法：夸克 | [夸克](https://pan.quark.cn/s/2dca45829f3a) |
+| 01-01 | 从0到1用PPT制作自媒体视频，带你零基础起步，用PPT打造吸睛自媒体视频：夸克 | [夸克](https://pan.quark.cn/s/d34773b699fe) |
+| 01-01 | 电商会计实操课-抖音小店财务教程：夸克 | [夸克](https://pan.quark.cn/s/48df4e484fe9) |
+| 01-01 | 差异化个人IP打造实操课程，实操流量变现方法：夸克 | [夸克](https://pan.quark.cn/s/b9129da7457a) |
+| 01-01 | 自然光电商平铺手机摄影课，0基础轻松上手，拍摄修图剪辑一站式实操教学，用手机也能拍出高级感：夸克 | [夸克](https://pan.quark.cn/s/c550f11214fe) |
+| 01-01 | 小红书广告投放从0到1的实战课，学完即可开始投放，拒绝无效广告消耗：夸克 | [夸克](https://pan.quark.cn/s/e882a12135a4) |
+| 01-01 | 抖音好物带货实操课：夸克 | [夸克](https://pan.quark.cn/s/eff7ecf85a5a) |
+| 01-01 | 烟酒茶实体店短视频矩阵获客教程，快速实现门店营收多翻N倍：夸克 | [夸克](https://pan.quark.cn/s/64033b49eda5) |
+| 01-01 | 短视频带货课，全域投流+随心推全套投流课程+思维导图：夸克 | [夸克](https://pan.quark.cn/s/127551b018f1) |
+| 01-01 | 小红书虚拟店铺0-1变现完整体系：卖学科类虚拟资料，一天6张+，很稳定【已完结】：夸克 | [夸克](https://pan.quark.cn/s/bbcdbf85575a) |
+| 01-01 | 抖音流量快速起号课（起号专用），8天带你做爆自己的账号：夸克 | [夸克](https://pan.quark.cn/s/b41f9399d747) |
+| 01-01 | 个人虚拟直播间的搭建与操作，专业虚拟直播间的打造与操作：夸克 | [夸克](https://pan.quark.cn/s/9d19dc2aec21) |
+| 01-01 | 个人IP全案陪跑线上系统课-双域闭环落地实操课：夸克 | [夸克](https://pan.quark.cn/s/5fd983df4694) |
+| 01-01 | 月入10个的小红书商业爆款私教营，一人公司小红书IP打造，爆款笔记，商业变现秘籍：夸克 | [夸克](https://pan.quark.cn/s/73d2ab00ded8) |
+| 01-01 | 短视频带货超级达人实操课，素人也可以从0到1成为短视频带货领域操盘手：夸克 | [夸克](https://pan.quark.cn/s/f4271871998c) |
+| 01-01 | 剪映高级课程，从入门到精通，掌握视频剪辑核心技能：夸克 | [夸克](https://pan.quark.cn/s/44b9e2b40db7) |
+| 01-01 | 小红书变现年度实战指南：夸克 | [夸克](https://pan.quark.cn/s/0c6146ae5bea) |
+| 01-01 | DTV：跨平台轻量级直播聚合客户端（支持斗鱼/虎牙/抖音/B站）：夸克 | [夸克](https://pan.quark.cn/s/a07dcae7e836) |
+| 01-01 | 小红书运营实战课，从零到一玩賺小红书：夸克 | [夸克](https://pan.quark.cn/s/324eba2fd1c6) |
+| 01-01 | 小红书快速度涨粉变现实操课：夸克 | [夸克](https://pan.quark.cn/s/22e3d4b4438e) |
+| 01-01 | 微信视频号下载助手（WX Channel Downloader）：夸克 | [夸克](https://pan.quark.cn/s/4c3910066708) |
+| 01-01 | 直播电商系统班，同领域差异化运营进阶系统课：夸克 | [夸克](https://pan.quark.cn/s/21d582981b51) |
+| 01-01 | 短视频变现实战课，从0到1系统学习短视频变现：夸克 | [夸克](https://pan.quark.cn/s/1688aae8aed0) |
+| 01-01 | 流量私教全方位运营小红书变现：夸克 | [夸克](https://pan.quark.cn/s/6f69ececaf31) |
+| 01-01 | 小红书第17期带货陪跑营实操课：夸克 | [夸克](https://pan.quark.cn/s/e9f7b9b9aeca) |
+| 01-01 | 盲盒全域全套打法课，盲盒起号、选品、话术、私域等：夸克 | [夸克](https://pan.quark.cn/s/741c352c7353) |
+| 01-01 | 同城短视频直播实战课，手把手教你精准引流，快速激活本地客户：夸克 | [夸克](https://pan.quark.cn/s/9bb256af6129) |
+| 01-01 | 小红书高客单精准获客营销，偷偷做小红书高客单，原来这么香：夸克 | [夸克](https://pan.quark.cn/s/4a58884cb80f) |
+| 01-01 | 短视频电商：短视频变现从0到盈利过W：夸克 | [夸克](https://pan.quark.cn/s/365663d9836e) |
+| 01-01 | 短视频切片剪辑实战指南，轻松实现流量突破与变现：夸克 | [夸克](https://pan.quark.cn/s/c2b90a0ac91f) |
+| 01-01 | 小红书新手精细化运营课程，每天抽空操作三小时，零基础小白轻松上手：夸克 | [夸克](https://pan.quark.cn/s/e7c8bfa0b752) |
+| 01-01 | 直播带货线上课，打造运营型主播，起号、话术、运营，直播带货全方案系统化学习：夸克 | [夸克](https://pan.quark.cn/s/7b81f77082d4) |
+| 01-01 | 从0到1短视频创作变现必修课，跟随时代趋势，人人需要的技能：夸克 | [夸克](https://pan.quark.cn/s/b410e53e3097) |
+| 01-01 | 小红书IP打造课，从0-1陪你做能賺钱小红书博主：夸克 | [夸克](https://pan.quark.cn/s/a44a6496e8ee) |
+| 01-01 | 小红书直播运营0-1实操手册，帮您快速开播起号：夸克 | [夸克](https://pan.quark.cn/s/4d73bfc55a16) |
+| 01-01 | 小红书图书带货10步爆单法，从0到1图书带货玩法：夸克 | [夸克](https://pan.quark.cn/s/5d6fa7606c63) |
+| 01-01 | 自媒体底层心法，深度解析自媒体行业的底层逻辑与实操方法：夸克 | [夸克](https://pan.quark.cn/s/6a5eca556f53) |
+| 01-01 | 个体直播保姆级教程，简单落地、新手必学、全盘实操、只讲干货：夸克 | [夸克](https://pan.quark.cn/s/02df8fc636ff) |
+| 01-01 | 短视频直播带货实操班，实体商家逆袭之路：夸克 | [夸克](https://pan.quark.cn/s/87e738721ced) |
+
+## 💼 职场沟通/管理 (193 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-21 | 《脱不花·30天沟通训练营》（第1期）3：夸克 | [夸克](https://pan.quark.cn/s/78db56739cc4) |
+| 06-20 | 《脱不花·30天沟通训练营》（第1期）：夸克 | [夸克](https://pan.quark.cn/s/ed4c1ad2d0a8) |
+| 06-20 | 500卷卷-顶尖销售的18大基本功：百度 | [百度](https://pan.baidu.com/s/14m7p0E2BXO60r2q0_816aA?pwd=ahhh) |
+| 06-19 | 《脱不花·30天沟通训练营》（第1期）：夸克 | [夸克](https://pan.quark.cn/s/608a5c158879) |
+| 06-19 | 签单王高情商成交话术100问：百度 | [百度](https://pan.baidu.com/s/1ITfuUJfPJpuS4ayWt1NaLw?pwd=ahhh) |
+| 06-18 | 《脱不花·管理者的沟通训练营》-1周年特别版：夸克 | [夸克](https://pan.quark.cn/s/c892844dc0d2) |
+| 06-16 | 媒老板丨销售文案训练营：夸克 | [夸克](https://pan.quark.cn/s/2a6b709b622b) |
+| 06-16 | 《脱不花·管理者的沟通训练营》-第8期升级版：夸克 | [夸克](https://pan.quark.cn/s/0ebb0278b458) |
+| 06-16 | 现金管理表格：夸克 | [夸克](https://pan.quark.cn/s/73d6e3ffd6d5) |
+| 06-15 | 《脱不花·管理者的沟通训练营》-第1期（完结）：夸克 | [夸克](https://pan.quark.cn/s/f9951b166d6a) |
+| 06-15 | 张萌好口才实战课｜一次性解锁八大技能，练就超级演说力：百度 | [百度](https://pan.baidu.com/s/1RHbQekcszMIe7RaszbEqgw?pwd=ahhh) |
+| 06-13 | 【媒老板】3周社群成交实战营：夸克 | [夸克](https://pan.quark.cn/s/9c8a0bf8c998) |
+| 06-13 | 《脱不花·管理者的沟通训练营》-第1期（完结）：夸克 | [夸克](https://pan.quark.cn/s/98981854420c) |
+| 06-13 | 林雨·解读「素书」提升领导力、管理能力的实用解读！：百度 | [百度](https://pan.baidu.com/s/1oAoO_knx2seErx7s5Kp38Q?pwd=ahhh) |
+| 06-12 | 《项目管理训练营》-第4期升级版：夸克 | [夸克](https://pan.quark.cn/s/6bd776a179e6) |
+| 06-12 | 李力刚谈判系列【学习年卡】五门谈判刚需课程：百度 | [百度](https://pan.baidu.com/s/1A-STaMpJCiV7wrjlMPYGnA?pwd=ahhh) |
+| 06-11 | 《项目管理训练营》（完结）：夸克 | [夸克](https://pan.quark.cn/s/37d64a5cdf1a) |
+| 06-11 | 灵彤彤36计精华系列 勾魂夺心36计高情商话术 课程：夸克 | [夸克](https://pan.quark.cn/s/02241a3c3c2d) |
+| 06-10 | 《转行求职集训班》（完结）：夸克 | [夸克](https://pan.quark.cn/s/0c386a997695) |
+| 06-09 | 《职场写作训练营》（完结）4：夸克 | [夸克](https://pan.quark.cn/s/7d9103478ec0) |
+| 06-09 | 即学即用的高情商聊天私房课：夸克 | [夸克](https://pan.quark.cn/s/42bc3b6ec0f3) |
+| 06-08 | 《职场写作训练营》（完结）：夸克 | [夸克](https://pan.quark.cn/s/747108359a3d) |
+| 06-08 | WPS零基础操作入门视频教程：夸克 | [夸克](https://pan.quark.cn/s/e6be152c7350) |
+| 06-08 | 【完结】销售技能提升特训营：百度 | [百度](https://pan.baidu.com/s/13vvmX-uVYGIy-vt9OQQn8A?pwd=ahhh) |
+| 06-07 | 《职场写作训练营》（完结）：夸克 | [夸克](https://pan.quark.cn/s/74279daaf824) |
+| 06-07 | 精准表达沟通训练营第2期：百度 | [百度](https://pan.baidu.com/s/1GEZPirGMG45nX7n9k3EfPA?pwd=ahhh) |
+| 06-06 | 《职场写作训练营》（完结）：百度 | [百度](https://pan.baidu.com/s/1DzBk1TzpOyhw8whQ-ZeU0A?pwd=ahhh) |
+| 06-06 | 《口才训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1tGOQlFTLWe48fnZlLYrKeg?pwd=ahhh) |
+| 06-06 | 顶层人士秘而不宣的人性天书，识人性，破情执，通钱肪，助成长：百度 | [百度](https://pan.baidu.com/s/1rB2glXaCzifBJYnfwY6Euw?pwd=ahhh) |
+| 06-06 | 杨天真的32个高情商公式 133节完结：百度 | [百度](https://pan.baidu.com/s/1tpE5sPukzxwSchQ6_hey9A?pwd=ahhh) |
+| 06-04 | 《优秀员工沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1pY4v30nFpJ8EsKbzGUHdng?pwd=ahhh) |
+| 06-04 | 居家空间管理术，让你的房子越住越大（完结） 共 24 个项目2.8GB：夸克 | [夸克](https://pan.quark.cn/s/d1e72eeec3f6) |
+| 06-03 | 《优秀员工沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1wPhZDhtz4ovVa05XkkIsuA?pwd=ahhh) |
+| 06-03 | 从初入销售到销冠那点事儿，懂得销售，不单单是企业需要，个人的生活工作也需要：百度 | [百度](https://pan.baidu.com/s/1jNYrVdKoZ4xEFhNQNdGG2A?pwd=ahhh) |
+| 06-03 | 【郑慧正NESS乐活健康管理课】共 22 个项目2GB：夸克 | [夸克](https://pan.quark.cn/s/4b46c677fba1) |
+| 06-02 | 《Word高效工作指南教程》：夸克 | [夸克](https://pan.quark.cn/s/b31facb886a8) |
+| 06-02 | 《优秀员工沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/16fS9PG_KRtErgRz89toPVg?pwd=ahhh) |
+| 06-02 | 广告思维36计，人人可学的广告赚钱课：百度 | [百度](https://pan.baidu.com/s/1cpwrLMRwKPYB-WN_m9rkIQ?pwd=ahhh) |
+| 06-02 | 文案写作课，普通人迅速上手的，模块化写作思维课（心修课一文案篇）：百度 | [百度](https://pan.baidu.com/s/1BBmpHZ6o5u741haKltF2nw?pwd=ahhh) |
+| 06-01 | 《中高级管理者沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1w3ZKjfpqUb8mIprHSiEXFw?pwd=ahhh) |
+| 05-31 | 策划思维课：优质思维课程，高效学习，策划思路，学习这套就够了：百度 | [百度](https://pan.baidu.com/s/1a2o4mt24SvhP9zKFBXbeDw?pwd=ahhh) |
+| 05-31 | 《中高级管理者沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1NLYeUk3FKj07sb85tLdGQw?pwd=ahhh) |
+| 05-30 | 《中高级管理者沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1D-NCyDWAmnpFY2kFsAqjcQ?pwd=ahhh) |
+| 05-29 | 《中高级管理者沟通训练营》第1期：百度 | [百度](https://pan.baidu.com/s/1tdp9uL82mUJTAn4ttYKzOw?pwd=ahhh) |
+| 05-28 | 人性商战破局：百度 | [百度](https://pan.baidu.com/s/1IfzMla17SRa6d_W4MbcX5Q?pwd=ahhh) |
+| 05-28 | 超硬核沟通课：关于说话的一切（完结）：夸克 | [夸克](https://pan.quark.cn/s/658556bfdbdc) |
+| 05-27 | 职场沟通训练营：百度 | [百度](https://pan.baidu.com/s/16KXe4nD7d_7cabsoq8lVNw?pwd=ahhh) |
+| 05-26 | 超3亿人都在用的终极思维工具│手绘思维导图·助你效率翻倍：百度 | [百度](https://pan.baidu.com/s/1wY_GG4fNGyPJgdzkX_Iolg?pwd=ahhh) |
+| 05-25 | 郑翔洲-商业模式+资本运营20讲：百度 | [百度](https://pan.baidu.com/s/1pxdrxDALHCEna_pgS9CJiA?pwd=ahhh) |
+| 05-23 | 电商公司的10个岗位绩效考核的底层知识体系+落地方案！：百度 | [百度](https://pan.baidu.com/s/1CJWYwQNbASWR5uwMuZdVuA?pwd=ahhh) |
+| 05-22 | 超级文案课（迭代51节）文案进阶，文案爆款，带你从0-1成为文案爆款创作者：百度 | [百度](https://pan.baidu.com/s/1YJUdiH16_U5UrWPgb8tkYQ?pwd=ahhh) |
+| 05-21 | 吸金文案库，解密文字财富密码，挥笔点字成金，超30万字精华内容：百度 | [百度](https://pan.baidu.com/s/1c35mDHGzzIA6sONFngKBoA?pwd=ahhh) |
+| 05-20 | 文案写作课，普通人迅速上手的，模块化写作思维课（心修课一文案篇）：百度 | [百度](https://pan.baidu.com/s/1BBmpHZ6o5u741haKltF2nw?pwd=ahhh) |
+| 05-19 | 百万IP成交创业大课26年，看懂超级个体的賺钱真相，持续跑出百万结果的真实路径公开：百度 | [百度](https://pan.baidu.com/s/1f68FM-CwGimYFSQ0fX7JxA?pwd=ahhh) |
+| 05-19 | 36节课带你变身情感达人，高情商沟通+告别冷场尬聊：夸克 | [夸克](https://pan.quark.cn/s/23f93e136332) |
+| 05-18 | 卖点 大师，轻松找卖点，产品差异化，卖点找的好销量不会差：百度 | [百度](https://pan.baidu.com/s/1LiHqrHH4qNo3AaCE3iXJdg?pwd=ahhh) |
+| 05-17 | 招商·方案系统实战班：让你获取更多客户，更大市场，更持续的出货量(27节)：百度 | [百度](https://pan.baidu.com/s/1nsGFZfO08kMxw2cnRRIq9A?pwd=ahhh) |
+| 05-17 | 个人商业-实操营年度大课，打造以你为核心的商业模式：百度 | [百度](https://pan.baidu.com/s/1vh6LoIFBEhIPIcN4udrc1g?pwd=ahhh) |
+| 05-13 | 销售基础特训营,让你在日常销售活动里游刃有余：百度 | [百度](https://pan.baidu.com/s/1XHOVBjO7atV-v5cbbdHjYQ?pwd=ahhh) |
+| 05-09 | 产品文案【卖点 大师】：百度 | [百度](https://pan.baidu.com/s/1SPTh7BQV8VhRXjHDB0Fvog?pwd=ahhh) |
+| 05-09 | 跟大佬学说话：央视主持人陈伟鸿的24堂沟通必修课，做一个会说话的人（完结）：夸克 | [夸克](https://pan.quark.cn/s/51244abe5f81) |
+| 05-08 | 魅力 演说课程，演讲是关于“能量”和“场”的游戏：百度 | [百度](https://pan.baidu.com/s/1L-srJKjnKwG1vxRQEijUyQ?pwd=ahhh) |
+| 05-07 | 表情包日入1500+项目实操教学（教程+文案+素材）：夸克 | [夸克](https://pan.quark.cn/s/3efddc7cc2bc) |
+| 05-07 | 北大花花精读写作课 全年龄段学生适用：夸克 | [夸克](https://pan.quark.cn/s/051261fdce74) |
+| 05-05 | 李越15天提高情商视频课程：夸克 | [夸克](https://pan.quark.cn/s/e82aa071c52a) |
+| 05-04 | 万门大学《思维导图·6小时找到适合你的高效学习法》：夸克 | [夸克](https://pan.quark.cn/s/270f59c27f95) |
+| 05-04 | 考研考证各学科各专业思维导图汇总：夸克 | [夸克](https://pan.quark.cn/s/20290e906c97) |
+| 05-03 | 高效人士的Excel必修课：夸克 | [夸克](https://pan.quark.cn/s/6f2085bc049c) |
+| 05-03 | 0基础进阶表格达人：夸克 | [夸克](https://pan.quark.cn/s/26f5f639f4ae) |
+| 05-03 | 蔡康永的201堂情商课【完结】：夸克 | [夸克](https://pan.quark.cn/s/66bd88d21580) |
+| 05-02 | 成甲 如何靠知识管理获得爆发式成长：夸克 | [夸克](https://pan.quark.cn/s/df4a03d64f3d) |
+| 05-01 | 顶尖销售的18大基本功2.0，掌握销售基本功快速成为销售高手：百度 | [百度](https://pan.baidu.com/s/1cDNhVCkhmJFdFHmWQA_gKQ?pwd=ahhh) |
+| 04-27 | 高客单IP课，搞定成交，搞定高客单IP，翻倍变现，轻松卖爆，不销而销：夸克 | [夸克](https://pan.quark.cn/s/06f96967cf04) |
+| 04-27 | 从小学到高中全学科思维导图（可下载打印）：夸克 | [夸克](https://pan.quark.cn/s/6ae960fe515f) |
+| 04-23 | 老A系列精品课程(官场&amp;职场)：夸克 | [夸克](https://pan.quark.cn/s/0c6d729426a6) |
+| 04-23 | TED演讲合集：夸克 | [夸克](https://pan.quark.cn/s/3ef7083abe80) |
+| 04-22 | 管理者必学的领导力课：教你解决团队沟通和激励难题（33节课）：百度 | [百度](https://pan.baidu.com/s/1EJ68BGBdmQRtmXVma9u8_A?pwd=ahhh) |
+| 04-22 | 管理皮肤 这么做才科学：夸克 | [夸克](https://pan.quark.cn/s/df8bba3ea9db) |
+| 04-22 | 金钱自由第一课：“钱包”管理：夸克 | [夸克](https://pan.quark.cn/s/eae2920b917e) |
+| 04-22 | 阮思乔用股权撬动财富 老板必修课 企业股权一体化设计：夸克 | [夸克](https://pan.quark.cn/s/5bf82d38b8d6) |
+| 04-22 | 用搜索提升收入，掌握最热门的职场技能（完结）：夸克 | [夸克](https://pan.quark.cn/s/2b67745b045d) |
+| 04-22 | 闺蜜都不会分享给你的情商真相：夸克 | [夸克](https://pan.quark.cn/s/3af594ad95a9) |
+| 04-21 | 关键对话20讲 – 如何成为沟通高手（完结）：夸克 | [夸克](https://pan.quark.cn/s/0992424f8e0e) |
+| 04-21 | 【销售心法】销售落地实战分享+【销售实战】销售流程实战分享：百度 | [百度](https://pan.baidu.com/s/1NQXVv6gmKilDZJcQxucmHg?pwd=ahhh) |
+| 04-21 | 职场生存指南：深度拆解困住1000万人的52个职场难题：夸克 | [夸克](https://pan.quark.cn/s/2f9f180ddc52) |
+| 04-20 | 尚硅谷MySQL数据库高频面试题，mysql大厂面试题甄选（全面细致解读）：夸克 | [夸克](https://pan.quark.cn/s/22ad0171e24e) |
+| 04-20 | 学而思写作技巧宝典 小学作文：夸克 | [夸克](https://pan.quark.cn/s/64b72322aa33) |
+| 04-20 | 职场人成为千万富豪的赚钱方法完整版绝对的干货：夸克 | [夸克](https://pan.quark.cn/s/5d6c680463ce) |
+| 04-20 | 大厂Java面试 300 题：夸克 | [夸克](https://pan.quark.cn/s/c09b92316a1f) |
+| 04-19 | 养成系IP文案营销密训班，实战中学习真高级营销：夸克 | [夸克](https://pan.quark.cn/s/eadb0d9b4c45) |
+| 04-19 | 七分学堂《嫂子情商课》：夸克 | [夸克](https://pan.quark.cn/s/85fb7d1aad99) |
+| 04-18 | 商业模式 突破与现金流密码，深度剖析赚钱值钱融钱的现金流底层逻辑-无水印：百度 | [百度](https://pan.baidu.com/s/1Fv9BqsjOu0h-dM5N87UntA?pwd=ahhh) |
+| 04-18 | 给职场小白的八大求职防坑术：夸克 | [夸克](https://pan.quark.cn/s/b3abc0bc6ee7) |
+| 04-18 | 互联网Java工程师面试突击训练（3季）：夸克 | [夸克](https://pan.quark.cn/s/e97af882f81a) |
+| 04-16 | 管理者的领导力课，管理自我，管理团队，管理业绩，教你解决团队沟通和激励难题：百度 | [百度](https://pan.baidu.com/s/1gfZ997uYIVdhfsO6DQnGww?pwd=ahhh) |
+| 04-16 | 互联网校招面试笔试题合集：夸克 | [夸克](https://pan.quark.cn/s/ea5b31a9bb51) |
+| 04-15 | 手把手教你零基础写作，业余时间月入过万：夸克 | [夸克](https://pan.quark.cn/s/19e3e03e736c) |
+| 04-14 | 地产 操盘手实战课：解密地产底层逻辑夯实营销技术提升职场价值（24节）：百度 | [百度](https://pan.baidu.com/s/13kyGbVBu0MWzAn24qYb6zw?pwd=ahhh) |
+| 04-14 | 电商会计主管班，职场晋升，技高一筹：夸克 | [夸克](https://pan.quark.cn/s/6c4f24a91198) |
+| 04-13 | 朱老丝逻辑表达课｜结构化说话+说服力提升（职场 演讲 辩论必备）：夸克 | [夸克](https://pan.quark.cn/s/5b7b1220b990) |
+| 04-13 | 职场社交真心计坐上晋升快车：夸克 | [夸克](https://pan.quark.cn/s/11127624091d) |
+| 04-12 | 团队激励 36计-Get 职场竞争力，进阶管理高手（41节课）：百度 | [百度](https://pan.baidu.com/s/15vJQPNS0u95Sbz37xmwdrA?pwd=ahhh) |
+| 04-11 | 开启百万年薪项目管理之路，系统打造高薪的核心能力：夸克 | [夸克](https://pan.quark.cn/s/15a4b771eed9) |
+| 04-11 | 人性 沟通术：职场沟通，先学 人性，再学说话（66节课）：百度 | [百度](https://pan.baidu.com/s/1nYGs7oFnd-R9Xi9ljQYuHA?pwd=ahhh) |
+| 04-11 | 教资面试资源集合通用礼包：夸克 | [夸克](https://pan.quark.cn/s/7220ff4a9aa9) |
+| 04-10 | 影视 综纪-文案高手必修课2.0：百度 | [百度](https://pan.baidu.com/s/1CF3n86Nv_xY2Pi9IrdJ9Eg?pwd=ahhh) |
+| 04-09 | Xmind思维导图模板331个：夸克 | [夸克](https://pan.quark.cn/s/7a6afb7e5191) |
+| 04-09 | 痕迹 识人之沟通篇，向上管理，沟通从心（23节课+资料包）：百度 | [百度](https://pan.baidu.com/s/1AiywI9xHl9FmsWJBquCGcA?pwd=ahhh) |
+| 04-08 | 50个行业 现场设计方案，商业模式方案设计实录现场课（50节课）：百度 | [百度](https://pan.baidu.com/s/1x6Llaic_YNrQ9naXsXPngQ?pwd=ahhh) |
+| 04-05 | 14天朋友圈文案课，打开你对朋友圈的新世界，让你知道朋友圈文案收钱魅力：夸克 | [夸克](https://pan.quark.cn/s/d8d94a6acaf5) |
+| 04-05 | 职场-谋略100讲：百度 | [百度](https://pan.baidu.com/s/1QB1IhZF4IlmlrrtPnjgZ3w?pwd=ahhh) |
+| 04-04 | 人际关系思维提升 职场提升 结交贵人 处事课：百度 | [百度](https://pan.baidu.com/s/15F0Bx01hl98Ol_djzaIcTw?pwd=ahhh) |
+| 04-03 | Word高效办公课程，快速精通文档排版与自动化操作：夸克 | [夸克](https://pan.quark.cn/s/836a6173265e) |
+| 04-01 | 后端校招面试突击课，4年本科基础大复盘助力进大厂【完结】：百度 | [百度](https://pan.baidu.com/s/1NcsdRO_6Hg6xBqPg4_R_wQ?pwd=ahhh) |
+| 04-01 | Java面试突击资料：百度 | [百度](https://pan.baidu.com/s/1C8mHmdCqACrdsLeVSXEwmA?pwd=ahhh) |
+| 03-31 | 事业单位面试题本（考官用25套含答案）：夸克 | [夸克](https://pan.quark.cn/s/9fbf1ac06f1a) |
+| 03-30 | 张丽俊 组织设计之文化与绩效：夸克 | [夸克](https://pan.quark.cn/s/a12e92e0eed4) |
+| 03-30 | 毕业论文写作指南：从开题报告到答辩终稿：夸克 | [夸克](https://pan.quark.cn/s/1b7b501d4557) |
+| 03-21 | 张丽俊 跟阿里专家学组织管理：夸克 | [夸克](https://pan.quark.cn/s/ff96e5532f5d) |
+| 03-21 | 如何用高情商化解婆媳矛盾：夸克 | [夸克](https://pan.quark.cn/s/779e91889539) |
+| 03-20 | 张丽俊《组织管理》18集高清视频：夸克 | [夸克](https://pan.quark.cn/s/2c2a84eb6ed1) |
+| 03-19 | 爆款文案创作变现课：百度 | [百度](https://pan.baidu.com/s/1U5_p0EKjCAwA1mfnkFiIDQ?pwd=ahhh) |
+| 03-18 | 21天思维导图训练营(完结）：夸克 | [夸克](https://pan.quark.cn/s/50e35c39e12d) |
+| 03-18 | 销售心理学深度课：百度 | [百度](https://pan.baidu.com/s/1j-R6NMVlM0OrxIFCIUPZgA?pwd=ahhh) |
+| 03-17 | 毕业求职面试设计素材合集：夸克 | [夸克](https://pan.quark.cn/s/f24318da6b81) |
+| 03-17 | 【提高情商】老梁四大名著情商课《视频课》：夸克 | [夸克](https://pan.quark.cn/s/ce640c7a940f) |
+| 03-17 | 步步为赢10步绝杀成交法：百度 | [百度](https://pan.baidu.com/s/1giV4pbg3QJIaKahrhE1NFw?pwd=ahhh) |
+| 03-16 | 阿里铁军即落地、可复制的销售管理技能，不能拿业绩的管理技能都在扯淡：夸克 | [夸克](https://pan.quark.cn/s/a74af5d00b2d) |
+| 03-16 | 罗振宇2026跨年演讲-时间的朋友：夸克 | [夸克](https://pan.quark.cn/s/38a7d27dfb94) |
+| 03-16 | 爆款文案撰写技巧：百度 | [百度](https://pan.baidu.com/s/1Y29aQuLa2A35rmmOfbqjqA?pwd=ahhh) |
+| 03-16 | 2026年跨年演讲资料：百度 | [百度](https://pan.baidu.com/s/1aMrOFX06WE98NWi8acBFiw?pwd=ahhh) |
+| 03-15 | 市场成交实战经验，从认知觉醒到实操落地，快速掌握市场开拓与成交核心能力：夸克 | [夸克](https://pan.quark.cn/s/81a9b2fa1dbd) |
+| 03-15 | 超级销冠爆单话术指南：百度 | [百度](https://pan.baidu.com/s/1BKWelWWikhO46fszsMVORw?pwd=ahhh) |
+| 03-13 | 天龙八步诊断式销售系统课：百度 | [百度](https://pan.baidu.com/s/19DZ-yIWzn1ZGZ9A6nm-j5Q?pwd=ahhh) |
+| 03-12 | 人性成交36个密码，销售就是通人性，成交就是搞定人：夸克 | [夸克](https://pan.quark.cn/s/1518e3896dd5) |
+| 03-07 | 职场人士必备的实操进阶课：夸克 | [夸克](https://pan.quark.cn/s/ef56a402278e) |
+| 03-07 | 李越 如何提高情商：夸克 | [夸克](https://pan.quark.cn/s/62fd1cc9172f) |
+| 03-06 | 给职场新人的面试指南：夸克 | [夸克](https://pan.quark.cn/s/ed6a76bee1b0) |
+| 03-05 | 销售精英的7步成交课：夸克 | [夸克](https://pan.quark.cn/s/fe273ec0d0dd) |
+| 03-05 | 陈生民《TED演讲的秘密》精读班：夸克 | [夸克](https://pan.quark.cn/s/0f8b7ef5be4a) |
+| 03-04 | 创业者必懂的股权知识 28 讲：夸克 | [夸克](https://pan.quark.cn/s/b95a75f88074) |
+| 03-04 | 开口就是影响力，说话有影响力，是永不过时的时代红利（25节课）：百度 | [百度](https://pan.baidu.com/s/1apJrNcvV9fGTmfTt_IrT9Q?pwd=ahhh) |
+| 03-02 | 吸金成交必杀技，吸金成交魔法-产品销冠天下：夸克 | [夸克](https://pan.quark.cn/s/3385596c7c7f) |
+| 03-02 | 网文力Max 网文写作课，10节干货理论结合案例，开启第二收入：夸克 | [夸克](https://pan.quark.cn/s/a67ccb1850c2) |
+| 03-01 | 电商超强团队管理，组织绩效，到用人执行，分权合伙：夸克 | [夸克](https://pan.quark.cn/s/65785fdd8d75) |
+| 03-01 | 老板必懂的税务实操逻辑，带你盘点税筹逻辑、商业模式、税务稽查、行业实操：夸克 | [夸克](https://pan.quark.cn/s/5b482e9b40a3) |
+| 02-28 | 职场生存指南：深度拆解52个职场难题：夸克 | [夸克](https://pan.quark.cn/s/761340ada181) |
+| 02-27 | 跟叶云燕学保险销售：6个快速成交&amp;法：夸克 | [夸克](https://pan.quark.cn/s/814bf399eece) |
+| 02-27 | 【秋叶】写作内训营：百万级大佬教你如何写一本好书：夸克 | [夸克](https://pan.quark.cn/s/987d1e5c7318) |
+| 02-26 | 跟程智雄学保险销售：怎么卖年金险：夸克 | [夸克](https://pan.quark.cn/s/a179a45ae737) |
+| 02-26 | 邹庆面相学入门课｜识人技巧+职场沟通（零基础速成+高清视频+PDF资料）：夸克 | [夸克](https://pan.quark.cn/s/3a0932c3c956) |
+| 02-26 | 李敖视频演讲合集：阿里 | [阿里](https://www.alipan.com/s/fEkFbfhtYqD) |
+| 02-24 | 爆款文案撰写技巧，100个必火标题文案模版直接套，390条必火文案直接拍：夸克 | [夸克](https://pan.quark.cn/s/2ebf2d1b527d) |
+| 02-24 | 跟吴晋江学保险销售：怎么赢的高端客户：夸克 | [夸克](https://pan.quark.cn/s/4d85632e4eba) |
+| 02-23 | 跟王妮学保险销售：怎么赢的女性客户：夸克 | [夸克](https://pan.quark.cn/s/9d95b26eeedb) |
+| 02-23 | 跟张磊学做tob销售：夸克 | [夸克](https://pan.quark.cn/s/1a1abdc30f1e) |
+| 02-22 | 30 招打造销冠高成交力精品课程：夸克 | [夸克](https://pan.quark.cn/s/667cb2e21837) |
+| 02-22 | 告别健康隐患，给年轻人的健康管理课程：夸克 | [夸克](https://pan.quark.cn/s/955dc0f8cbd5) |
+| 02-21 | 高效信息管理术：夸克 | [夸克](https://pan.quark.cn/s/464bb564474e) |
+| 02-20 | 步步为赢十步绝杀成交系统，所有的成交都是精心设计的结果：夸克 | [夸克](https://pan.quark.cn/s/c584c23a4d69) |
+| 02-19 | 12步通关求职面试：夸克 | [夸克](https://pan.quark.cn/s/5878c5fc6f64) |
+| 02-19 | 朋友圈自动成交文案营，14天拥有自动成交的朋友圈：夸克 | [夸克](https://pan.quark.cn/s/629af555c4af) |
+| 02-14 | 电影解说文案课，从文案多维度学习电影的流量密码：夸克 | [夸克](https://pan.quark.cn/s/397e6c4ac6e1) |
+| 02-14 | 跟罗巍学保险销售：怎么卖家庭保单：夸克 | [夸克](https://pan.quark.cn/s/a58ee82e8106) |
+| 02-08 | 销冠超级爆单话术，把话说出去+把钱收回来：夸克 | [夸克](https://pan.quark.cn/s/f5176d76a4b0) |
+| 01-26 | 《粥左罗教你从零开始学写作》系统实战，即学即用：夸克 | [夸克](https://pan.quark.cn/s/66a4241865e2) |
+| 01-17 | 绝密人性天书 无删减版：夸克 | [夸克](https://pan.quark.cn/s/2369beefc036) |
+| 01-13 | 人人都需要学会的销售攻略：卖出一切你想卖的：夸克 | [夸克](https://pan.quark.cn/s/f6897c22a56f) |
+| 01-12 | 电商战略与管理落地班线下课，教你公司如何从小做到大，如何实现业绩和利润倍增：夸克 | [夸克](https://pan.quark.cn/s/e6cedf665ed8) |
+| 01-11 | 私募股权投资管理与资本运作 21讲：夸克 | [夸克](https://pan.quark.cn/s/e4b619b2b2c4) |
+| 01-08 | 晚情职场掘金课（完结）：夸克 | [夸克](https://pan.quark.cn/s/1879b51ede3a) |
+| 01-05 | 20节风趣幽默表达的秘籍课程：夸克 | [夸克](https://pan.quark.cn/s/87987f037e46) |
+| 01-01 | 销售如何搞定人：夸克 | [夸克](https://pan.quark.cn/s/d5abcae4885b) |
+| 01-01 | 超级聊天术：如何成为沟通高手：夸克 | [夸克](https://pan.quark.cn/s/74d43ded6bab) |
+| 01-01 | Mini Clipboard：轻巧高效的macOS开源剪贴板管理器：网盘 | [网盘](https://pan.quark.cn/s/825908d65fa1) |
+| 01-01 | Notion入手到精通搭建人生管理系统+操作指南：夸克 | [夸克](https://pan.quark.cn/s/c950df3fc5f7) |
+| 01-01 | 品牌管理线上课程，品牌管理是企业变强的必经之路：夸克 | [夸克](https://pan.quark.cn/s/382c8f5080f5) |
+| 01-01 | 酒桌饭局必备的口才套路：夸克 | [夸克](https://pan.quark.cn/s/45452c13434b) |
+| 01-01 | 25年企业财税与股权实战课，从避坑到合规全程指导：夸克 | [夸克](https://pan.quark.cn/s/a9b0e429465a) |
+| 01-01 | 李源·64堂易经情商课（完结）：夸克 | [夸克](https://pan.quark.cn/s/665f1ce7b09a) |
+| 01-01 | 薇安10倍提升沟通力 世界500强高管高教你 情商人士沟通秘籍：夸克 | [夸克](https://pan.quark.cn/s/414a875a2d31) |
+| 01-01 | 【夏鹏】情绪管理课 6讲：夸克 | [夸克](https://pan.quark.cn/s/461ece0e6e92) |
+| 01-01 | 【办公室路主任】知道职场职场必备生存法则：夸克 | [夸克](https://pan.quark.cn/s/6d43804e4911) |
+| 01-01 | DroidDock：在 macOS 上浏览 Android 文件的轻量级 ADB 文件管理器：夸克 | [夸克](https://pan.quark.cn/s/4c9a2c6562b0) |
+| 01-01 | 线上团队搭建课程，省社保，聚人才，降成本，增利润，团队管理必看：夸克 | [夸克](https://pan.quark.cn/s/4af3c4926f16) |
+| 01-01 | 职场生存图鉴：拿下令你心动的offer：夸克 | [夸克](https://pan.quark.cn/s/f50225aab095) |
+| 01-01 | 人人都需要的自我管理课：夸克 | [夸克](https://pan.quark.cn/s/d09db86d26c3) |
+| 01-01 | 体制内生存教科书：公务员与职场人的高情商处世全攻略：夸克 | [夸克](https://pan.quark.cn/s/a914c79b3298) |
+| 01-01 | 中基层管理能力21天训练营：夸克 | [夸克](https://pan.quark.cn/s/daddf3cb8a25) |
+| 01-01 | 小红书商单谈判技巧：夸克 | [夸克](https://pan.quark.cn/s/16fa778c028f) |
+| 01-01 | 刘同：21天成为职场不可替代的人：夸克 | [夸克](https://pan.quark.cn/s/fa37b7f8733a) |
+| 01-01 | 高情商沟通21天训练营：夸克 | [夸克](https://pan.quark.cn/s/e8528632eac9) |
+| 01-01 | 21天影响力倍增的人际沟通术：夸克 | [夸克](https://pan.quark.cn/s/48a78de4b388) |
+
+## 💻 编程开发/技术 (53 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-19 | 于振南-RTOS 从入门到精通（基于 FreeRTOS 实战）：夸克 | [夸克](https://pan.quark.cn/s/8cdbfb775353) |
+| 06-19 | 云原生微服务治理大厂冲刺班56期 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/00f19fce880a) |
+| 06-19 | 云原生微服务治理大厂冲刺班56期 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/66a6076d1e4e) |
+| 06-19 | 新能源汽车BMS开发工程师：夸克 | [夸克](https://pan.quark.cn/s/1b0e999e270c) |
+| 06-11 | 尚硅谷版Python视频教程【课程】【视频】：夸克 | [夸克](https://pan.quark.cn/s/d9b0ca809976) |
+| 06-03 | Spring Boot2.0深度实践 核心原理拆解+源码分析 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/940021a21854) |
+| 05-31 | 少儿编程scratch3.0全套课程：夸克 | [夸克](https://pan.quark.cn/s/39d169a74d69) |
+| 05-28 | Python学习书籍合集：夸克 | [夸克](https://pan.quark.cn/s/e62801adfd81) |
+| 05-28 | 二级python（视频课程+资料）：夸克 | [夸克](https://pan.quark.cn/s/9317283193a1) |
+| 05-22 | Python Flask高级编程之从0到1开发《鱼书》精品项目：夸克 | [夸克](https://pan.quark.cn/s/f97342f13f4b) |
+| 05-21 | Python学习书籍合集：夸克 | [夸克](https://pan.quark.cn/s/549c9001a2b3) |
+| 05-21 | 前端Git教程 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/14a35c86c15c) |
+| 05-21 | Python零基础30天速通（小白定制版）【视频教程】：夸克 | [夸克](https://pan.quark.cn/s/3988892c7d5b) |
+| 05-13 | 耿直哥–深度学习必修课：进击算法工程师100节：夸克 | [夸克](https://pan.quark.cn/s/7d588d70f4ee) |
+| 05-10 | 零基础 零编程 轻松学会微信小游戏制作：夸克 | [夸克](https://pan.quark.cn/s/3b00736f0a10) |
+| 05-10 | Python400集大型视频 带源码课件-尚学堂：夸克 | [夸克](https://pan.quark.cn/s/cce8e4ced3fe) |
+| 05-09 | 6天掌握Mysql基础视频【完整资料】：夸克 | [夸克](https://pan.quark.cn/s/9ca91290be2e) |
+| 05-09 | 极客时间 Vue 开发实战 从 0 开始搭建大型 Vue 项目：夸克 | [夸克](https://pan.quark.cn/s/b0aee8537fe6) |
+| 05-09 | 深度剖析C语言知识体系 原理+实践，一课带你吃透C语言：百度 | [百度](https://pan.baidu.com/s/1uVuNTj2c68-geWrIn-IY2w?pwd=ahhh) |
+| 05-08 | 轻松玩转Linux（完结）：夸克 | [夸克](https://pan.quark.cn/s/666dd6edb243) |
+| 05-07 | HTTP协议原理+实践Web开发工程师必学：夸克 | [夸克](https://pan.quark.cn/s/fd4848f3c7f1) |
+| 05-05 | 300集JAVASE高级精英实战盛宴 java从零到就业全系列课程：夸克 | [夸克](https://pan.quark.cn/s/81e4d957ae6a) |
+| 05-05 | Python零基础30天速通 小白定制版（完结）：夸克 | [夸克](https://pan.quark.cn/s/05b3b6fd92f4) |
+| 05-05 | 黑马PHP 76期（基础班+就业班）108天完整版：百度 | [百度](https://pan.baidu.com/s/1j2G-0b3zNuGLEk6iCa0CoA?pwd=ahhh) |
+| 05-03 | Python基础+数据科学入门课程 深度之眼：夸克 | [夸克](https://pan.quark.cn/s/54d0470b7922) |
+| 05-02 | 微信小程序开发从入门到精通视频课：夸克 | [夸克](https://pan.quark.cn/s/5ebd4e0e21f7) |
+| 04-29 | 畅销3年的Python分布式爬虫课程：夸克 | [夸克](https://pan.quark.cn/s/3c035e3b66f9) |
+| 04-27 | Linux性能分析之CPU实战：夸克 | [夸克](https://pan.quark.cn/s/395ede589215) |
+| 04-27 | 千锋教育Python教程 700集零基础Python入门到精通教程（爬虫+办公自动化+数据分析）：夸克 | [夸克](https://pan.quark.cn/s/6a9107e6f8aa) |
+| 04-26 | 微信小程序开发入门教程：夸克 | [夸克](https://pan.quark.cn/s/234a1fffac66) |
+| 04-26 | Python零基础深度学习爬虫验证码识别：夸克 | [夸克](https://pan.quark.cn/s/bc7380c077e6) |
+| 04-24 | 微专业 Python数据分析：夸克 | [夸克](https://pan.quark.cn/s/375123f67cf2) |
+| 04-23 | Python教程全套 入门到精通Python全栈开发教程：夸克 | [夸克](https://pan.quark.cn/s/ba75b762322c) |
+| 04-20 | Python入门教程完整版视频（懂中文就能学会）：夸克 | [夸克](https://pan.quark.cn/s/cdbb7009a71c) |
+| 04-19 | 高并发 高性能 高可用 MySQL 实战课程：夸克 | [夸克](https://pan.quark.cn/s/2599f864d276) |
+| 04-16 | Web前端高级工程师021期【开课吧】：夸克 | [夸克](https://pan.quark.cn/s/1ff047c3af56) |
+| 04-15 | Python开发就业课 【黑马程序员】：夸克 | [夸克](https://pan.quark.cn/s/cb92190fe548) |
+| 04-15 | 数据结构与算法实战刷题特训营 【幂次学院】：夸克 | [夸克](https://pan.quark.cn/s/093b8c2796a2) |
+| 04-13 | 数据结构与算法特训营二期：夸克 | [夸克](https://pan.quark.cn/s/b7282e9dfc69) |
+| 04-12 | 微专业 – 数据挖掘分析之Python篇：夸克 | [夸克](https://pan.quark.cn/s/1f2f0dab1e94) |
+| 04-04 | 3小时学会用Python处理Excel及各种自动化办公小案例：夸克 | [夸克](https://pan.quark.cn/s/bf1472c2a07d) |
+| 03-29 | 马哥-python全能工程师 挑战年薪30万：百度 | [百度](https://pan.baidu.com/s/19_ksLSm_gjphY-Aj1UGdlg?pwd=ahhh) |
+| 03-27 | JAVA 全系列-百战程序员：百度 | [百度](https://pan.baidu.com/s/139ZejKNZ6NaJ-Ox3-S-SjQ?pwd=ahhh) |
+| 03-26 | 掘金小册（前端小册+后端小册）：阿里 | [阿里](https://www.alipan.com/s/sfNcR7psRsB) |
+| 03-19 | Python大数据开发基础：夸克 | [夸克](https://pan.quark.cn/s/44b6a24c06a4) |
+| 03-02 | 30个小时搞定Python网络爬虫：百度 | [百度](https://pan.baidu.com/s/1Zz0lAz8YyJnzMDDFDD8aDQ?pwd=ahhh) |
+| 02-19 | MySQL8.0.26版课程-轻松入门MySQL数据库：百度 | [百度](https://pan.baidu.com/s/1OiM3K-q13PBApF1iE34TbA?pwd=ahhh) |
+| 02-09 | Java秒杀系统方案优化 掌握海量访问通用解决方案：夸克 | [夸克](https://pan.quark.cn/s/7717f07ffaaa) |
+| 01-16 | Java电商项目从零到企业级实战：百度&nbsp; 提取码：ahhh | [百度](https://pan.baidu.com/s/1Yo0A1ecvEZczpVJ1IzNHkg?pwd=ahhh) |
+| 01-14 | 给程序员的职场情商课：夸克 | [夸克](https://pan.quark.cn/s/980a057b1272) |
+| 01-06 | Python小白也能听懂的入门课：夸克 | [夸克](https://pan.quark.cn/s/8ddc189e640e) |
+| 01-01 | Python分布式爬虫与逆向进阶实战：夸克 | [夸克](https://pan.quark.cn/s/9a0010325a08) |
+| 01-01 | Python数据分析与机器学习实战：夸克 | [夸克](https://pan.quark.cn/s/904013a5d112) |
+
+## 🎨 设计/PS/PPT (98 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-21 | 超小白从0开始学 Ps 教程 ABCD全系列全集 – 带课件素材：夸克 | [夸克](https://pan.quark.cn/s/6a261174af31) |
+| 06-20 | 反传统素描课 用四大基本能力，速成素描之路：夸克 | [夸克](https://pan.quark.cn/s/3befc342e2ff) |
+| 06-19 | 鱼贝课堂PS全套录播课程：夸克 | [夸克](https://pan.quark.cn/s/13ae8673f8c8) |
+| 06-18 | PPT进阶训练营 从零基础到PPT设计师的进阶之路：百度 | [百度](https://pan.baidu.com/s/1PeH0YD6sBydFxiWMFFKEYw?pwd=ahhh) |
+| 06-15 | 饭太稀零基础插画综合课程：夸克 | [夸克](https://pan.quark.cn/s/f4499224826a) |
+| 06-14 | PPT创意动画硬核训练营：夸克 | [夸克](https://pan.quark.cn/s/3f16714c3921) |
+| 06-13 | 修图变现课 10秒修出高点赞照片：夸克 | [夸克](https://pan.quark.cn/s/dc037b49caec) |
+| 06-09 | 修图变现课 10秒修出高点赞照片：夸克 | [夸克](https://pan.quark.cn/s/535585b2f6f3) |
+| 06-07 | iphone手机拍照技巧教程：夸克 | [夸克](https://pan.quark.cn/s/f9f5f0a333b1) |
+| 06-06 | 15天进阶CAD高手（126节课程）：百度 | [百度](https://pan.baidu.com/s/1blfPrjHmDSgxRrcTanV3hA?pwd=ahhh) |
+| 06-01 | 《航拍教程：电影级航拍大师手把手教你航拍，大疆各系无人机学习》：夸克 | [夸克](https://pan.quark.cn/s/fc949e851587) |
+| 06-01 | 《Nuke从入门到入职系统教学》走进Nuke大世界：夸克 | [夸克](https://pan.quark.cn/s/33d6c74283f7) |
+| 05-29 | 人像摄影后期系统化入门（完结）：夸克 | [夸克](https://pan.quark.cn/s/155ce58b4f53) |
+| 05-27 | 15天进阶CAD高手（126节课程）：百度 | [百度](https://pan.baidu.com/s/18jCvu78hmsFrSSM5O5H9Ig?pwd=ahhh) |
+| 05-27 | 修图变现课 10秒修出高点赞照片：夸克 | [夸克](https://pan.quark.cn/s/c161e6fc5fef) |
+| 05-27 | iPad清新治愈质感插画课程：夸克 | [夸克](https://pan.quark.cn/s/ef20bd6a646a) |
+| 05-26 | PPT·一课通·0基础到高手：通俗易懂 快速掌握PPT的各种应用场合：百度 | [百度](https://pan.baidu.com/s/1f27h7e8_pF2Fep605QmTdQ?pwd=ahhh) |
+| 05-22 | PS教程 最新李文全《零基础Photoshop视频教程 (带素材) 》：夸克 | [夸克](https://pan.quark.cn/s/7cd01fb92af8) |
+| 05-17 | 百万粉丝大V的PPT进阶课程，教你如何在工作中用好PPT，提升硬核竞争力：百度 | [百度](https://pan.baidu.com/s/1ounx3XhL5X9hrr-VpKteBw?pwd=ahhh) |
+| 05-17 | 摄影后期调色：给摄影爱好者的色彩课：夸克 | [夸克](https://pan.quark.cn/s/6ce6442acf4f) |
+| 05-12 | 全新手机摄影视频课程：夸克 | [夸克](https://pan.quark.cn/s/d8e7bb8a11b2) |
+| 05-10 | 零基础上手Procreate（完结）：夸克 | [<strong>夸克</strong>](https://pan.quark.cn/s/1c240dad6832) |
+| 05-09 | CAD平面图设计素材：百度 | [百度](https://pan.baidu.com/s/1Y_1UqBaTR_WLQ9ycs3fcQA?pwd=ahhh) |
+| 05-06 | PPT设计进阶 从基础操作到高级创意：夸克 | [夸克](https://pan.quark.cn/s/aa25b82ac09e) |
+| 05-03 | 6个万能公式搞定职场PPT（完结）：夸克 | [夸克](https://pan.quark.cn/s/cf016320354e) |
+| 05-03 | 开口-就是影响力：说出-自信，说出-影响力！解决说话难题，事业生活双开挂：百度 | [百度](https://pan.baidu.com/s/1P8MZhjQ9WT6YMaf3iEKaAw?pwd=ahhh) |
+| 05-03 | 15天进阶CAD高手 126节课 轻松完成建筑图绘制：夸克 | [夸克](https://pan.quark.cn/s/a5d840205c1d) |
+| 05-01 | Office教程合集 Word Excel PPT：夸克 | [夸克](https://pan.quark.cn/s/02bffb6ed6a7) |
+| 05-01 | 48套 情人节PPT模板：夸克 | [夸克](https://pan.quark.cn/s/dfc84783cbec) |
+| 04-30 | SketchUp全能室内设计师养成班：夸克 | [夸克](https://pan.quark.cn/s/a2b26e481c53) |
+| 04-30 | 中艺网校 零基础学摄影+航拍：夸克 | [夸克](https://pan.quark.cn/s/626752477bca) |
+| 04-30 | 上百套圣诞节PPT模版：夸克 | [夸克](https://pan.quark.cn/s/29ecaf87e87c) |
+| 04-29 | 摄影技巧课程 如何给女友拍照 摄影+后期教程：夸克 | [夸克](https://pan.quark.cn/s/4340ebd38451) |
+| 04-29 | PhotoShop从零基础小白到大神：夸克 | [夸克](https://pan.quark.cn/s/a0cb8116779d) |
+| 04-28 | 修图变现课 10秒修出高点赞照片：夸克 | [夸克](https://pan.quark.cn/s/74a097456e68) |
+| 04-28 | 各类付费PPT合集 PPT模版【精整分类，下载即用！】：夸克 | [夸克](https://pan.quark.cn/s/27406b16d90b) |
+| 04-26 | 用手机拍摄专业级视频短片 全套视频课程：夸克 | [夸克](https://pan.quark.cn/s/28084ef60eef) |
+| 04-25 | 自由职业摄影师 PLUS（咔图） 价值3298：夸克 | [夸克](https://pan.quark.cn/s/c045b30ba512) |
+| 04-23 | UI设计师入门指南全套课程 从入门到精通 （视频课程+课件）：夸克 | [夸克](https://pan.quark.cn/s/be8760a3cef4) |
+| 04-23 | Photoshop入门到精通（视频+课件）：夸克 | [夸克](https://pan.quark.cn/s/b9d0341bea92) |
+| 04-18 | 人像摄影美姿系统学习课程：夸克 | [夸克](https://pan.quark.cn/s/dfc580d18893) |
+| 04-17 | 香港奇案系列影视集合：夸克 | [夸克](https://pan.quark.cn/s/32f06bbf72e6) |
+| 04-16 | Office技能提升课程集合 Excel PPT Word：夸克 | [夸克](https://pan.quark.cn/s/06ab8cbc9c1d) |
+| 04-16 | Ps电商海报设计教程：夸克 | [夸克](https://pan.quark.cn/s/4c55dbc2ae05) |
+| 04-15 | 摄影修图电子书（合集）：夸克 | [夸克](https://pan.quark.cn/s/612c859cdf7d) |
+| 04-14 | 860本摄影书籍：夸克 | [夸克](https://pan.quark.cn/s/3c28452d8591) |
+| 04-14 | iPad精美日系少女插画班：夸克 | [夸克](https://pan.quark.cn/s/b19c402889bb) |
+| 04-11 | 摄影教程：人像摄影、光线、道具、构图、色彩：夸克 | [夸克](https://pan.quark.cn/s/360ccf02372f) |
+| 04-11 | 精选设计师必备十万字体库：夸克 | [夸克](https://pan.quark.cn/s/9ecf515bb50d) |
+| 04-11 | PPT素材超级集合(已分类)【1万+ 10000➕】：夸克、阿里 | [夸克](https://pan.quark.cn/s/d93e9a61742f) |
+| 04-10 | 辞退技巧PPT工具包：百度 | [百度](https://pan.baidu.com/s/1f9K5CU9uLUTCAvN8dl0Exw?pwd=ahhh) |
+| 04-07 | 手机修图保姆级教程，从入门到精通，摄影新手别错过：夸克 | [夸克](https://pan.quark.cn/s/34454c3fab27) |
+| 04-05 | 女家摆拍技巧（高级篇）35种新娘家摆拍晨袍秀禾轻纱以及伴娘互动_摩吉影像：夸克 | [夸克](https://pan.quark.cn/s/e8fc2563b05c) |
+| 04-04 | 信息可视化PPT模板合集：夸克 | [夸克](https://pan.quark.cn/s/8b86ccf0a4d4) |
+| 04-01 | 张丽俊 组织设计之人才梯队：夸克 | [夸克](https://pan.quark.cn/s/8d5c8bc811e1) |
+| 03-31 | 张丽俊 组织设计之治理结构（视频课）：夸克 | [夸克](https://pan.quark.cn/s/ea9fece00484) |
+| 03-31 | 27考研计算机408数据结构基础讲义&amp;PPT：夸克 | [夸克](https://pan.quark.cn/s/7f678eb3b1cb) |
+| 03-30 | 摄影创作实战课，多场景全流程实战教学：夸克 | [夸克](https://pan.quark.cn/s/92200c8ce3bd) |
+| 03-30 | 伍伍老师摄影全套：夸克 | [夸克](https://pan.quark.cn/s/53c6b14c5056) |
+| 03-29 | 张丽俊 组织设计之商业设计：夸克 | [夸克](https://pan.quark.cn/s/14d70f37a695) |
+| 03-27 | 70讲PPT速成课程：夸克 | [夸克](https://pan.quark.cn/s/514dc4f0f276) |
+| 03-27 | 张丽俊 顶层架构设计篇：夸克 | [夸克](https://pan.quark.cn/s/9877e373f0ad) |
+| 03-26 | 风景后期修图教学：夸克 | [夸克](https://pan.quark.cn/s/02ea96e38c36) |
+| 03-26 | 电商产品后期精修：夸克 | [夸克](https://pan.quark.cn/s/c02ec0358e34) |
+| 03-26 | 人物后期修图教学：夸克 | [夸克](https://pan.quark.cn/s/15515f4ec315) |
+| 03-25 | 电商产品拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/ef2f7779c523) |
+| 03-25 | 静物拍摄技巧：夸克 | [夸克](https://pan.quark.cn/s/d761fa631c01) |
+| 03-24 | 亲子儿童拍摄：夸克 | [夸克](https://pan.quark.cn/s/6fe19efb8c13) |
+| 03-23 | chentutu陳摄影课：夸克 | [夸克](https://pan.quark.cn/s/152455d2de43) |
+| 03-23 | procreate笔刷：夸克 | [夸克](https://pan.quark.cn/s/314b186bfafb) |
+| 03-23 | 人物si+房拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/88364c457157) |
+| 03-23 | 风景拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/6f7372cdee2f) |
+| 03-23 | 建筑拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/7071c00bc9f6) |
+| 03-22 | 零基础学习摄影构图：夸克 | [夸克](https://pan.quark.cn/s/e5fe7a047fdf) |
+| 03-22 | 人物拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/38eb977c8f88) |
+| 03-22 | 趣味人物拍摄：夸克 | [夸克](https://pan.quark.cn/s/a910af8d3fe4) |
+| 03-21 | 系统性学习摄影专业学习：夸克 | [夸克](https://pan.quark.cn/s/b5406af1b328) |
+| 03-15 | 【PS资料库】PS全套插件库合集资料（证件照+人像修图等）：夸克 | [夸克](https://pan.quark.cn/s/35e94015a3b8) |
+| 03-11 | 三叶老师Photoshop全能大师班，系统掌握核心技法与设计实战：夸克 | [夸克](https://pan.quark.cn/s/2c625a7d3b52) |
+| 03-08 | SPSS数据分析零基础实战课程（完结）：夸克 | [夸克](https://pan.quark.cn/s/f4430b5bb21e) |
+| 03-06 | 摄影师设计师的智能辅助技巧，摄影-设计-建筑-电商-平面：夸克 | [夸克](https://pan.quark.cn/s/ce274b99813a) |
+| 03-01 | PPT逻辑美学：商务演示与视觉技巧：百度 | [百度](https://pan.baidu.com/s/1pBTNc70-w5X4Sdk5iVddOQ?pwd=ahhh) |
+| 02-26 | PPT设计素材资源 13.6G PPT：百度 | [百度](https://pan.baidu.com/s/1Y8A9uF0IEfQdmTOs0vMElg?pwd=ahhh) |
+| 02-25 | 和秋叶一起学Word Excel PPT：阿里 | [阿里](https://www.alipan.com/s/DqkfJXggDxq) |
+| 02-25 | 老照片《哈里森·福尔曼的中国摄影集》：阿里 | [阿里](https://www.alipan.com/s/YFHwbK5sCfi) |
+| 02-21 | 无人机航拍运镜教程 0基础新手从入门到大师：夸克 | [夸克](https://pan.quark.cn/s/e592495d9f30) |
+| 02-17 | 摄影创作实战课：人像风光旅行静物生活纪实 熊熊：夸克 | [夸克](https://pan.quark.cn/s/b47e9577928f) |
+| 02-13 | 如何成为一名专业摄影师：夸克 | [夸克](https://pan.quark.cn/s/41487ee49232) |
+| 02-08 | 手机画意摄影教程，用手机也能拍出充满画意的摄影大片：夸克 | [夸克](https://pan.quark.cn/s/bf69ea5e0a1e) |
+| 01-15 | 2026年日历(精美设计，可做屏保可打印)：夸克 | [夸克](https://pan.quark.cn/s/c31887ba9bc4) |
+| 01-12 | 马年元旦PPT模板合集，200多联欢晚会课件+发言稿：夸克 | [夸克](https://pan.quark.cn/s/d1c148605fc4) |
+| 01-01 | Snapseed从入门到精通，手机修图高手速成，一部手机就能修出摄影大片：夸克 | [夸克](https://pan.quark.cn/s/70e8042676d7) |
+| 01-01 | PPT从菜鸟到高手实用教程：夸克 | [夸克](https://pan.quark.cn/s/c6c942ad1f8e) |
+| 01-01 | 张小翼 – “进阶之路”张小翼的全能摄影班：夸克 | [夸克](https://pan.quark.cn/s/6a0e601f88be) |
+| 01-01 | 无人机航拍运镜教程，0基础新手从入门到大师：夸克 | [夸克](https://pan.quark.cn/s/be0df567ed7c) |
+| 01-01 | 手机修图系统实战课，掌握专业级修图技巧：夸克 | [夸克](https://pan.quark.cn/s/6ef894648be6) |
+| 01-01 | B站-UI设计师的动效入门指南（完结）：夸克 | [夸克](https://pan.quark.cn/s/116e727713fd) |
+| 01-01 | 手机摄影从小白到大师，零基础带你学习手机摄影，拍出朋友圈点赞大片：夸克 | [夸克](https://pan.quark.cn/s/92c6718c14a8) |
+
+## 🧘 健身/瑜伽/减肥 (118 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | 基础，冥想入门10课程：夸克 | [夸克](https://pan.quark.cn/s/ffa852f423e9) |
+| 06-22 | 15分钟瑜伽操：夸克 | [夸克](https://pan.quark.cn/s/abc7fb7514d6) |
+| 06-22 | 四季养生瑜伽：夸克 | [夸克](https://pan.quark.cn/s/06081aa6dab2) |
+| 06-22 | 梁满升职场营销技能42天训练营：百度 | [百度](https://pan.baidu.com/s/1h4I41f2_JxHzgwESwtJfLA?pwd=ahhh) |
+| 06-21 | 瑜伽小合集：夸克 | [夸克](https://pan.quark.cn/s/5cd335446355) |
+| 06-17 | 黄广益羽毛球教学课程，专业技巧与实战训练指南：夸克 | [夸克](https://pan.quark.cn/s/329551ac375a) |
+| 06-17 | 李宇轩羽毛球教学视频：夸克 | [夸克](https://pan.quark.cn/s/dba72a3cb267) |
+| 06-17 | 【完结】当众讲话训练营：百度 | [百度](https://pan.baidu.com/s/1027dy1jguiZxr2PygToBqQ?pwd=ahhh) |
+| 06-16 | 30天精力提升训练营：百度 | [百度](https://pan.baidu.com/s/1uAoc3eVNS6drvSWWmXiIoQ?pwd=ahhh) |
+| 06-09 | 20堂营养学课，帮你调节饮食越吃越美（完结）：夸克 | [夸克](https://pan.quark.cn/s/6646279aa5a1) |
+| 06-07 | Koko面部瑜伽初阶课：夸克 | [夸克](https://pan.quark.cn/s/0b0767b9eb1e) |
+| 06-07 | KOKO面部瑜伽正骨课：夸克 | [夸克](https://pan.quark.cn/s/a7a89f0eff4e) |
+| 06-04 | 12天中标训练营，轻松拿下百万大单，摆平对手的实夺单秘笈：百度 | [百度](https://pan.baidu.com/s/1TT5MzI_3tu4Wra5jx3Dy-w?pwd=ahhh) |
+| 06-03 | 30天跑姿改善计划（完结）：夸克 | [夸克](https://pan.quark.cn/s/a5523c4fa5fb) |
+| 06-03 | 30天整容级减肥训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/fd16f1208f83) |
+| 06-03 | 跑步研习社–21天突破人生首个10KM（完结）：夸克 | [夸克](https://pan.quark.cn/s/8bfd07caab62) |
+| 06-02 | 魏巍普拉提：夸克 | [夸克](https://pan.quark.cn/s/daa2248e13f6) |
+| 06-01 | Jo·28天大基数暴汗燃脂：夸克 | [夸克](https://pan.quark.cn/s/7d2c83177ca5) |
+| 06-01 | 瘦身·瑜伽课程·全套：夸克 | [夸克](https://pan.quark.cn/s/03030fa07f04) |
+| 06-01 | 十点课堂《国际超模的极简瘦身课》：夸克 | [夸克](https://pan.quark.cn/s/faee2b4a11c7) |
+| 06-01 | 凯圣王《健身训练营全套课程 (一二三四) 》：夸克 | [夸克](https://pan.quark.cn/s/8a17766b3d85) |
+| 06-01 | 体态评估矫正课程视频教程姿势修复运动康复体型纠正教学骨盆脊柱：夸克 | [夸克](https://pan.quark.cn/s/1a92eb220840) |
+| 05-30 | 恶魔奶爸职场破局训练营1.0：百度 | [百度](https://pan.baidu.com/s/1dMFW1wFzEmcbsi7PJbz0AA?pwd=ahhh) |
+| 05-30 | 范李猿：14天体态矫正计划｜上身篇（完结）：夸克 | [夸克](https://pan.quark.cn/s/31a46a75ba13) |
+| 05-28 | 爆款文案创作变现训练营：百度 | [百度](https://pan.baidu.com/s/1iOwJsbwL7SOtlXWV6Mt9Fg?pwd=ahhh) |
+| 05-28 | DD硬度锻炼指南：夸克 | [夸克](https://pan.quark.cn/s/c31c252bd40b) |
+| 05-23 | 快乐燃脂塑身操：让你狂力甩肉，越跳越瘦！：夸克 | [夸克](https://pan.quark.cn/s/42782959bb70) |
+| 05-22 | 华为人才战略训练营：百度 | [百度](https://pan.baidu.com/s/1nrv79gYR7R4-54Iv6ngVjQ?pwd=ahhh) |
+| 05-22 | 猫叔的大基数燃脂课-28天零损伤减重计划（25年升级版）：夸克 | [夸克](https://pan.quark.cn/s/9e17f66377a7) |
+| 05-22 | 养生保健图书：夸克 | [夸克](https://pan.quark.cn/s/afbf58e7bab5) |
+| 05-21 | 颈椎保养课-保重身体要紧：夸克 | [夸克](https://pan.quark.cn/s/1a63508343ae) |
+| 05-21 | 21天瑜伽减肥训练营（男女适用）：夸克 | [夸克](https://pan.quark.cn/s/7ba91a5e62df) |
+| 05-21 | 健身新手入门训练经验视频课程：夸克 | [夸克](https://pan.quark.cn/s/7d9ee31c7969) |
+| 05-20 | 上班族必备的瑜伽减肥训练营【完结】：夸克 | [夸克](https://pan.quark.cn/s/53821eeabac6) |
+| 05-20 | 快乐燃脂塑身操：让你狂力甩肉，越跳越瘦！：夸克 | [夸克](https://pan.quark.cn/s/42782959bb70) |
+| 05-20 | 乒乓球教学篇：夸克 | [夸克](https://pan.quark.cn/s/241a9c006948) |
+| 05-20 | 刘恒 21天增高训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/67d478464c2a) |
+| 05-19 | 陈冰 30个体态调整私教课：百度 | [百度](https://pan.baidu.com/s/1hbT4Zlo3Ucz86tNtzxSvpQ?pwd=ahhh) |
+| 05-19 | 陈康-全套训练课程–全套课程：夸克 | [夸克](https://pan.quark.cn/s/6b342a0f5aad) |
+| 05-18 | 多位韩国瑜伽老师1000+高清教学视频：夸克 | [夸克](https://pan.quark.cn/s/40bcf197f9f5) |
+| 05-18 | 古法健身操：夸克 | [夸克](https://pan.quark.cn/s/6d6ef1cd5839) |
+| 05-18 | 范李猿：14天体态矫正计划【下身篇】（完结）：夸克 | [夸克](https://pan.quark.cn/s/2fea9f265c39) |
+| 05-18 | 打造完美身材，健身房增肌减脂全方案：夸克 | [夸克](https://pan.quark.cn/s/351d4d91e74d) |
+| 05-17 | 家庭理财魔法训练营，从0-1建立理财体系，持续创造睡后收入：百度 | [百度](https://pan.baidu.com/s/1TubdRrwyzaqPA7TIYC8l7w?pwd=ahhh) |
+| 05-17 | 闫帅奇：男性腹肌打造瘦肚子全方案（完结）：夸克 | [夸克](https://pan.quark.cn/s/75c2f47e4259) |
+| 05-17 | 闫帅奇女性马甲线打造减脂瘦肚子方案（完结）：夸克 | [夸克](https://pan.quark.cn/s/647181f4bb5f) |
+| 05-17 | 欧阳春晓：18天体态矫正·腰臀比雕刻（完结）：夸克 | [夸克](https://pan.quark.cn/s/768c9b9dc46d) |
+| 05-10 | X爱大师训练馆 从X爱小白变身Q趣高手：夸克 | [夸克](https://pan.quark.cn/s/26c0a23b5003) |
+| 05-07 | 瘦身女王郑多燕全程带练：32天Robics魅力瘦身操（完结）：夸克 | [夸克](https://pan.quark.cn/s/a4d46805f3c5) |
+| 05-06 | B站 闫帅奇 28天极速减脂计划：夸克 | [夸克](https://pan.quark.cn/s/b0c9169f7285) |
+| 05-04 | 新帕梅拉健身全集 新手低强度全天高效减脂塑形合集：夸克 | [夸克](https://pan.quark.cn/s/c0b15e795a7b) |
+| 05-03 | 面部瑜伽：夸克 | [夸克](https://pan.quark.cn/s/65199e8c2d84) |
+| 05-01 | 下半身锻炼法 增田丰 PDF（解压密码：ahhhhfs）：夸克 | [夸克](https://pan.quark.cn/s/a2b827d21e2d) |
+| 04-30 | 中医瑜伽减脂塑形双休提气质：夸克 | [夸克](https://pan.quark.cn/s/39d775d6b420) |
+| 04-29 | 气质女人 优雅体态四步曲：夸克 | [夸克](https://pan.quark.cn/s/f77caae1c2c9) |
+| 04-29 | 叔贵 X 谷传玲 易瘦饮食养成课（完结）：夸克 | [夸克](https://pan.quark.cn/s/daa8e495dc05) |
+| 04-28 | 卓叔增重：增肌入门教学课（完结）：夸克 | [夸克](https://pan.quark.cn/s/0c5feb312719) |
+| 04-27 | 模型树训练营·第九期，做知识体系高效率学习看这个：百度 | [百度](https://pan.baidu.com/s/1orWyFQV4rVEqP9V0Vn4gKQ?pwd=ahhh) |
+| 04-27 | 现代女性冥想瑜伽课，做温柔有力量的大女主【完结】：夸克 | [夸克](https://pan.quark.cn/s/088c70eb7b8c) |
+| 04-27 | 颈椎保养课-保重身体要紧：夸克 | [夸克](https://pan.quark.cn/s/58ac1e3e610b) |
+| 04-26 | 职业遛狗师全能训练课，轻松开启宠物赛道副业：夸克 | [夸克](https://pan.quark.cn/s/117aee2cf63e) |
+| 04-24 | 抖音恋爱班主任小怡子《社交吸引力训练营》：夸克 | [夸克](https://pan.quark.cn/s/defe41a7b1af) |
+| 04-24 | 帕梅拉燃脂全集 健身课程：夸克 | [夸克](https://pan.quark.cn/s/12b905bd83c3) |
+| 04-23 | 越吃越瘦 减脂餐 课程：夸克 | [夸克](https://pan.quark.cn/s/bd084048a46b) |
+| 04-22 | 新帕梅拉健身全集高清课程【28GB】：夸克 | [夸克](https://pan.quark.cn/s/9ccad2c5b216) |
+| 04-21 | 30天整容级减肥训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/82d6ebc1ac79) |
+| 04-20 | 中华健身养生合集（电子书、视频）：夸克 | [夸克](https://pan.quark.cn/s/6892b9ba91eb) |
+| 04-20 | keep运动健身教程合集 会员付费：夸克 | [夸克](https://pan.quark.cn/s/4d99b6fcd390) |
+| 04-19 | 每天10分钟，训练PC肌，提升xing福力（完结）：夸克 | [夸克](https://pan.quark.cn/s/a68c96661276) |
+| 04-15 | 付费健身VIP课程大合集：夸克 | [夸克](https://pan.quark.cn/s/8458e560ea77) |
+| 04-13 | 男同学加强训练课，解决男同学的“根本”问题：夸克 | [夸克](https://pan.quark.cn/s/768e98c04729) |
+| 04-12 | 瑜伽课程合集(七大系列)：夸克 | [夸克](https://pan.quark.cn/s/ea1a98f349fb) |
+| 04-11 | 男同学身体锻炼手册：夸克 | [夸克](https://pan.quark.cn/s/a70edef20078) |
+| 04-08 | 瘦身·瑜伽课程·全套（超全超详细）：夸克 | [夸克](https://pan.quark.cn/s/9726ec0d367d) |
+| 04-01 | 带你成为IP和成交高手的训练营，打造100%持续收钱系统：夸克 | [夸克](https://pan.quark.cn/s/976146b61af2) |
+| 04-01 | 飞书多维表格自动化训练营，手把手教你告别重复处理，用多维表格开启高效办公新模式：夸克 | [夸克](https://pan.quark.cn/s/b4efb6a7158f) |
+| 03-31 | 中医古法婴幼养生课：夸克 | [夸克](https://pan.quark.cn/s/b198f03e22df) |
+| 03-25 | 四季养生食疗课：夸克 | [夸克](https://pan.quark.cn/s/83d3645e5c03) |
+| 03-24 | 营销训练营，轻理论，重实战，轻概念，重本质：百度 | [百度](https://pan.baidu.com/s/1OxdDeyqgctyaVc_pQ-80lQ?pwd=ahhh) |
+| 03-23 | IP合伙人计划实战训练，手把手带你轻松Get知识变现：夸克 | [夸克](https://pan.quark.cn/s/d7113977997f) |
+| 03-20 | 30天认知训练营 第三季：夸克 | [夸克](https://pan.quark.cn/s/3e2f4f100986) |
+| 03-20 | 销售训练营，直接销售核心本质，助力财富增长：百度 | [百度](https://pan.baidu.com/s/1qkY-mM9sAOxvY5Csq948wg?pwd=ahhh) |
+| 03-19 | 抖音引流变现实战训练营，抖音创业粉引流：夸克 | [夸克](https://pan.quark.cn/s/2812f7194233) |
+| 03-18 | 30天认知训练营第二季：夸克 | [夸克](https://pan.quark.cn/s/3e2f4f100986) |
+| 03-17 | 30天认知训练营 第一季：夸克 | [夸克](https://pan.quark.cn/s/3e2f4f100986) |
+| 03-13 | 暖石《知乎带货变现训练营》：夸克 | [夸克](https://pan.quark.cn/s/b893158ee96e) |
+| 03-12 | 《颈椎保养课 保重身体要紧》视频课程 坐办公室 看电脑多的必备身体调节：夸克 | [夸克](https://pan.quark.cn/s/c78830f5e8b1) |
+| 03-12 | 男女通用零基础减脂塑性课，居家训练+体型重塑指南：夸克 | [夸克](https://pan.quark.cn/s/351c2e4905c6) |
+| 03-10 | 轻松冥想&nbsp; 冥想一下，轻松一天：夸克 | [夸克](https://pan.quark.cn/s/6a0846c99c44) |
+| 03-09 | 哈佛商业评论人的10节思维训练课，让你学会高效解决问题：夸克 | [夸克](https://pan.quark.cn/s/7fc7b098d70b) |
+| 03-09 | 小白速成电商实战训练课，电商平面设计实战课零基础轻松学：夸克 | [夸克](https://pan.quark.cn/s/d343730daacd) |
+| 03-09 | 中华传统健身功法合集：夸克 | [夸克](https://pan.quark.cn/s/0dc20ec2d579) |
+| 03-03 | 《金陵十三钗》演员形体仪态指导老师：14节体态魅力修炼课，教你绽放独特东方美：夸克 | [夸克](https://pan.quark.cn/s/b82d88beb2a9) |
+| 02-24 | 八段锦：古法养生补元气，摆脱亚健康：夸克 | [夸克](https://pan.quark.cn/s/71fa613e2861) |
+| 02-21 | 彭祖强肾功｜男性健康调理课程（中医强肾法+补肾食疗+运动疗法）：夸克 | [夸克](https://pan.quark.cn/s/105975a8effe) |
+| 02-21 | 点燃你健身动力的十堂课（完结）：夸克 | [夸克](https://pan.quark.cn/s/cbebed6a647b) |
+| 02-18 | 28天根本性减脂课程：夸克 | [夸克](https://pan.quark.cn/s/84ec7a342b7f) |
+| 02-11 | 轻松减肥训练营：告别健身房，10000+人亲测有效的减肥法：夸克 | [夸克](https://pan.quark.cn/s/f8eee564612d) |
+| 02-10 | 心理减肥术：不自虐，做得到的高效瘦身法：夸克 | [夸克](https://pan.quark.cn/s/9bec02e5f7a4) |
+| 01-19 | 直播运营陪跑训练营，教你快速开播，新人小白快速落地实操：夸克 | [夸克](https://pan.quark.cn/s/9df7001f0d47) |
+| 01-19 | 海外广告投放训练营，学会后轻松月薪过万，转行就业轻松搞定：夸克 | [夸克](https://pan.quark.cn/s/54043ad8ed62) |
+| 01-14 | 小红书训练营高阶班，从流量到变现的增长飞轮系统课：夸克 | [夸克](https://pan.quark.cn/s/49034d6e0302) |
+| 01-03 | 30天运动跑姿改善计划：夸克 | [夸克](https://pan.quark.cn/s/fd887bfc40e7) |
+| 01-01 | 小红书带货第二期训练营，普通人月收过W的带货课，时间自由，零门槛无压货，一部手机即可操作：夸克 | [夸克](https://pan.quark.cn/s/5623152e50ad) |
+| 01-01 | 小红书训练营一起成为賺钱的博主，小红书是最适合普通人的风口：夸克 | [夸克](https://pan.quark.cn/s/8cfdd31544f5) |
+| 01-01 | 小红书陪跑训练营，带你快速入门+副业变现，做个賺钱的小博主：夸克 | [夸克](https://pan.quark.cn/s/25625a161302) |
+| 01-01 | 社媒独立站训练营，跑通独立站0-1，3天0基础入门：夸克 | [夸克](https://pan.quark.cn/s/c1487ad6da4a) |
+| 01-01 | 销售基础训练课，建立销售基础专业能力，让你在日常销售活动里游刃余：夸克 | [夸克](https://pan.quark.cn/s/ede174d467ef) |
+| 01-01 | 小红书虚拟电商14天变现训练营，虚拟产品，2025年普通人在小红书最后的搞钱机会：夸克 | [夸克](https://pan.quark.cn/s/b14ef2869af5) |
+| 01-01 | 叔贵的减脂训练课：夸克 | [夸克](https://pan.quark.cn/s/2c75e625b6ce) |
+| 01-01 | 叔贵的马甲线练课：夸克 | [夸克](https://pan.quark.cn/s/1dd9922e0679) |
+| 01-01 | 【健身】每周3小时，拥有完美身材：夸克 | [夸克](https://pan.quark.cn/s/89ea8281dfbd) |
+| 01-01 | 杨澜、王力宏倾情推荐：21天健身轻食计划，每天8分钟见证改变：夸克 | [夸克](https://pan.quark.cn/s/146dbad7abf2) |
+| 01-01 | 超模私教天团：21天瘦身训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/fa8321be7cc2) |
+| 01-01 | 21天会计职称拿证训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/c8a24bdaf1c3) |
+| 01-01 | 梁晓玲：21天行动力强化训练营（完结）：夸克 | [夸克](https://pan.quark.cn/s/62fc2b13a810) |
+| 01-01 | 21天瑜伽减肥训练营：随时随地，陪你全方位打造迷人体态：夸克 | [夸克](https://pan.quark.cn/s/d86d78b258e4) |
+| 01-01 | Dify商业变现训练营，帮助普通人升职加薪，获得副业收入：夸克 | [夸克](https://pan.quark.cn/s/e19e3a7be2b1) |
+
+## 💕 情感/两性关系 (85 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | 男士体能提升课，10节课帮你提升战斗力：夸克 | [夸克](https://pan.quark.cn/s/68ad4935d40c) |
+| 06-22 | 约会升级关系30天内部直播课：夸克 | [夸克](https://pan.quark.cn/s/8f394e71f829) |
+| 06-21 | 灵彤彤玉望挽回完整版：夸克 | [夸克](https://pan.quark.cn/s/283fbb3c81d9) |
+| 06-20 | 学校不教的某种课 (BookDNA情感书系) by 走走：夸克 | [夸克](https://pan.quark.cn/s/9a276b38993a) |
+| 06-19 | 小灯塔：给女孩的X教育课（全）：夸克 | [夸克](https://pan.quark.cn/s/4c9994388ff4) |
+| 06-18 | 幸福撩男术 撩男悦己的正确姿势：夸克 | [夸克](https://pan.quark.cn/s/61e32b915f36) |
+| 06-17 | 麻辣情医吴迪 100天告别单身 喜马拉雅课程：夸克 | [夸克](https://pan.quark.cn/s/ecada7c8c3f2) |
+| 06-16 | 灵彤彤挽回爱情必修：抓住男人弱点，营造有安全感的高质量爱情：夸克 | [夸克](https://pan.quark.cn/s/2ecff102571f) |
+| 06-13 | 女性必备的20堂Q趣指南课（完结）：夸克 | [夸克](https://pan.quark.cn/s/c01648c305de) |
+| 06-12 | 灵彤彤勾魂夺心36计之 魅惑撒娇术10节：夸克 | [夸克](https://pan.quark.cn/s/d442c167d6ec) |
+| 06-10 | 影视综纪·文案必修」写文案，就是谈恋爱：百度 | [百度](https://pan.baidu.com/s/1RXBDyusIl-hZTrtFJowL_w?pwd=ahhh) |
+| 06-10 | 让挽回变成倒追的撩妹秘诀：夸克 | [夸克](https://pan.quark.cn/s/0fbd29ecda15) |
+| 06-09 | 张琦《新商业魅力领导成长大课》29节视频课抖音618：百度 | [百度](https://pan.baidu.com/s/1WiCtxM0wLLWMx69Ilgl3Uw?pwd=ahhh) |
+| 06-08 | 参哥情感课程10：百度 | [百度](https://pan.baidu.com/s/1KLifEPWSgd6IYG-kPfle4w?pwd=ahhh) |
+| 06-07 | 12堂家居花艺绿植课，教你小成本住出好心情（完结）：夸克 | [夸克](https://pan.quark.cn/s/5bcaf7ae5e00) |
+| 06-07 | 男同学持久技巧指南：夸克 | [夸克](https://pan.quark.cn/s/c3ebe08a5a7d) |
+| 06-06 | SVIP 房中技巧班 高级研修班（解压密码：ahhhhfs）：阿里 | [阿里](https://www.alipan.com/s/mj2hJ5M874b) |
+| 06-04 | 柯恩杰 闪电把妹术：夸克 | [夸克](https://pan.quark.cn/s/af61451335a2) |
+| 06-02 | 参哥情感课程8：百度 | [百度](https://pan.baidu.com/s/18bQfNcjPfUUzAiJp_4DQ_w?pwd=ahhh) |
+| 06-01 | 女生呵护指南 一定要知道的关于女生的那些事儿：夸克 | [夸克](https://pan.quark.cn/s/636b244150da) |
+| 05-31 | 化身魅惑女王 攻陷优质多金男：夸克 | [夸克](https://pan.quark.cn/s/62ee1ebb4035) |
+| 05-30 | 指男针-老岸：夸克 | [夸克](https://pan.quark.cn/s/d967f2312141) |
+| 05-29 | 10节全面养成高性商，让你由内而外释放女性魅力：百度 | [百度](https://pan.baidu.com/s/1wfNHe8RNjRu7uEsSbucVlg?pwd=ahhh) |
+| 05-27 | 参哥情感课程6：百度 | [百度](https://pan.baidu.com/s/101eSecH8z2f0g_FvdhVklQ?pwd=ahhh) |
+| 05-27 | 世界巡回撩妹 梵公子 艳遇全球十一期打包套餐课程：夸克 | [夸克](https://pan.quark.cn/s/59a77f967e5b) |
+| 05-27 | 撩妹追女神顶级教学课程：夸克 | [夸克](https://pan.quark.cn/s/2a5c78ec8f1f) |
+| 05-25 | 坏男人 女性无法抵御的诱惑、历险与征服：百度 | [百度](https://pan.baidu.com/s/1_ZMelY1Bx-vgQKZ3YYTLFQ?pwd=ahhh) |
+| 05-24 | 泡妞专家 怒沧流氓记者：夸克 | [夸克](https://pan.quark.cn/s/52fdc740eb38) |
+| 05-23 | 素女经 今译图文版 扫描版：夸克 | [夸克](https://pan.quark.cn/s/b522d9872700) |
+| 05-23 | Xing福加油站 教你充满Y望的调Q秘籍：夸克 | [夸克](https://pan.quark.cn/s/cfc7f0ff0b0c) |
+| 05-22 | 男人不“坏”女人不爱 女人爱坏男人情感研究：百度 | [百度](https://pan.baidu.com/s/1J1FCQE4nhJBMAmMSzimdug?pwd=ahhh) |
+| 05-21 | 参哥情感课程4：百度 | [百度](https://pan.baidu.com/s/1zdoMWrSWCnqhM-zKtpbfeQ?pwd=ahhh) |
+| 05-20 | 女性多重高朝 女人都该知道的秘诀 謝明德：夸克 | [夸克](https://pan.quark.cn/s/af8e2cc3fb05) |
+| 05-20 | 恋爱脱单课程 脱单急救术：夸克 | [夸克](https://pan.quark.cn/s/079de5fac9ce) |
+| 05-19 | 我还没有男朋友：社交时代恋爱秘籍：百度 | [百度](https://pan.baidu.com/s/1BQ4dHiukhr8UKwOE4EKbGw?pwd=ahhh) |
+| 05-19 | 李银河的爱情课：中国青年的情感与婚姻（完结）：夸克 | [夸克](https://pan.quark.cn/s/59c0640ef751) |
+| 05-19 | 科学脱单指南：如何让你爱的人爱上你：夸克 | [夸克](https://pan.quark.cn/s/96fced1d748d) |
+| 05-19 | 绝世好男调J术 把握好时机 调J效果事半功倍：夸克 | [夸克](https://pan.quark.cn/s/370f350cdd85) |
+| 05-12 | 女性·财智升级-思维破局的6门必修课，线上视频课程（40节课）：百度 | [百度](https://pan.baidu.com/s/1lpYHlnmZ5vq4V23TIuknkw?pwd=ahhh) |
+| 05-12 | 深夜保健室全集：夸克 | [夸克](https://pan.quark.cn/s/46bc7be8f506) |
+| 05-12 | 吴小飘15堂G dian愉悦手册 打开高巢新世界【完结】：夸克 | [夸克](https://pan.quark.cn/s/10e8f14630f4) |
+| 05-08 | 新手创业实操课：构建商业底层逻辑，实战性强（45节课）：百度 | [百度](https://pan.baidu.com/s/12j7vqpXcCnGeTuQnHu6ePg?pwd=ahhh) |
+| 05-08 | 女同学其实都想要 50招某技巧：夸克 | [夸克](https://pan.quark.cn/s/a1f41a1800b5) |
+| 05-08 | 贝克书 教你怎麼成為有魅力的男人 全套课程：夸克 | [夸克](https://pan.quark.cn/s/52ba79823484) |
+| 05-07 | 灵彤彤36计精华系列 13 独门x爱秘籍 10招教你登顶至完美x福：夸克 | [夸克](https://pan.quark.cn/s/0d32da805e8b) |
+| 05-06 | 前x手册 By熙墨爱经：夸克 | [夸克](https://pan.quark.cn/s/bff89720a0eb) |
+| 05-04 | 一套持久实战秘籍 大学同学版：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNo3lMm39q5iFTBPcbLFDs-Io1) |
+| 05-02 | 精品恋爱课程 入房术 情叔叔：夸克 | [夸克](https://pan.quark.cn/s/20c645c7b769) |
+| 05-02 | 读懂男人看清女人（解压密码：ahhhhfs）：PikPan网盘 | [PikPan网盘](https://mypikpak.com/s/VNmQjggCgPJz7uTCzry8zKa5o1) |
+| 04-29 | 超实用婚姻经营课，解决90%的家庭问题：夸克 | [夸克](https://pan.quark.cn/s/10eed9348b4a) |
+| 04-28 | 社会学爱情思维课+音频+资料（66节）：夸克 | [夸克](https://pan.quark.cn/s/b22424c683a4) |
+| 04-26 | 魅力男神系列课程：夸克 | [夸克](https://pan.quark.cn/s/fbdd835462a6) |
+| 04-26 | 8个女同学图片学习资料：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNiVlSEE3S9WELdqoLtAhV-mo1) |
+| 04-25 | 绝版男生恋爱书籍：撩道1-5系列：夸克 | [夸克](https://pan.quark.cn/s/c3866f8f0a51) |
+| 04-23 | 恋爱学堂 情圣大卫PDF 33本：夸克 | [夸克](https://pan.quark.cn/s/7ae3c93bb8f9) |
+| 04-23 | 男同学技能宝典14招：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNiPt_ETP7BGFCDw5cOBhsUoo1) |
+| 04-22 | 婚姻心理学精品课音频（5节）：夸克 | [夸克](https://pan.quark.cn/s/542632b919dc) |
+| 04-20 | 直男聊天终极解药课程 脱单师木木：夸克 | [夸克](https://pan.quark.cn/s/54dd4a7f9874) |
+| 04-16 | 人生三见心性成长课，见天地众生自己，搞透人性安顿身心，活出清晰自我，内在富足无价：夸克 | [夸克](https://pan.quark.cn/s/2b4a521d83b7) |
+| 04-16 | 儿童x教育课程集合：夸克 | [夸克](https://pan.quark.cn/s/7c242eb46826) |
+| 04-12 | 12堂实用脱单穿搭技巧课，轻松吸引理想伴侣：夸克 | [夸克](https://pan.quark.cn/s/d53973b9c042) |
+| 04-08 | 牲产队丨体制内人情世故（完结）：夸克 | [夸克](https://pan.quark.cn/s/054baf0f5388) |
+| 04-01 | 陈见：如何释放姓魅力（完结）：夸克 | [夸克](https://pan.quark.cn/s/a2e13948207e) |
+| 03-27 | 赛道和属性2.0：如何找到自己的属性与赛道，赚钱的方式是做自己：百度 | [百度](https://pan.baidu.com/s/1lFvKeK_DZebP9OJr9MGXcw?pwd=ahhh) |
+| 03-26 | 情感操控与反操控：夸克 | [夸克](https://pan.quark.cn/s/e3497092953f) |
+| 03-15 | 亲子人性权谋思维与心法修炼营，不用卷娃，不用鸡娃：夸克 | [夸克](https://pan.quark.cn/s/ee0eaec0737b) |
+| 03-12 | 全国三支一扶CG【全国版+看省情】：夸克 | [夸克](https://pan.quark.cn/s/0c60ec1ac4c1) |
+| 03-11 | 魔鬼约会学升级版5.0：夸克 | [夸克](https://pan.quark.cn/s/99b6ccfe813e) |
+| 03-11 | 人性需求洞察实战课 掌握深度共能能力 成为人际关系中的引导者：百度 | [百度](https://pan.baidu.com/s/1Zqy45T5JX91g39PLSF4RXw?pwd=ahhh) |
+| 03-06 | 情圣大卫恋爱学堂会员：夸克 | [夸克](https://pan.quark.cn/s/7fc703058725) |
+| 03-06 | 【如何让男人爽出声】120.85MB：百度 | [百度](https://pan.baidu.com/s/1lXDa6WOliMS-eTyB-w9Y9Q?pwd=ahhh) |
+| 03-01 | 教你超实用的魅力提升术，系统提升个人魅力的实用指南：夸克 | [夸克](https://pan.quark.cn/s/cfc88d91270e) |
+| 02-25 | 男士个人形象班VIP课程：夸克 | [夸克](https://pan.quark.cn/s/7d344de269a5) |
+| 02-25 | 找女朋友的方法：夸克 | [夸克](https://pan.quark.cn/s/fbd7ef6d980e) |
+| 02-25 | 【视频】女神克拉拉ClaraLee：阿里 | [阿里](https://www.alipan.com/s/HFS5cu33Uka) |
+| 02-24 | 女士个人形象VIP课程：夸克 | [夸克](https://pan.quark.cn/s/66a489f29f58) |
+| 02-23 | 【极客湾】手机游戏性能大横评：厂商作弊太疯狂！：夸克 | [夸克](https://pan.quark.cn/s/094f12723a78) |
+| 02-23 | 12堂实用脱单穿搭技巧课：夸克 | [夸克](https://pan.quark.cn/s/a7a69f23dd27) |
+| 02-22 | 承情《万场约会大师课》：夸克 | [夸克](https://pan.quark.cn/s/541f9ee134f1) |
+| 02-21 | 姜振宇主讲MBTI性格分析课程：夸克 | [夸克](https://pan.quark.cn/s/6d62eab7d620) |
+| 02-21 | 大鹏撩妹高级聊天术，会员专属沟通课程：夸克 | [夸克](https://pan.quark.cn/s/1bd938c4aebe) |
+| 02-21 | AEO 1.0 课程，从SEO到AE0的基命性转变，手把手教会你用AnswerEngineOptimization技术抢回流量：夸克 | [夸克](https://pan.quark.cn/s/7ff01b2c72c4) |
+| 01-16 | 明日恋爱《解读女人心》：夸克 | [夸克](https://pan.quark.cn/s/cfbe3fae4877) |
+| 01-01 | 【大侠老师】人人都需要的人性底层驾驭术：夸克 | [夸克](https://pan.quark.cn/s/354458cb11cd) |
+| 01-01 | 人妻约会指南 李新野：夸克 | [夸克](https://pan.quark.cn/s/4429d3fa1da9) |
+
+## 🍳 美食/生活技能 (34 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-22 | B站家庭面食面点教程，从揉面到造型+做出专业级面点：夸克 | [夸克](https://pan.quark.cn/s/f1f3fc6079a9) |
+| 06-19 | B站付费课程【教做饭的姜较瘦】从负数到90分的厨艺课：夸克 | [夸克](https://pan.quark.cn/s/6cd8f0d4b62a) |
+| 06-14 | 《西式简餐60例》胡秀钟：夸克 | [夸克](https://pan.quark.cn/s/b5a63f81197f) |
+| 06-14 | 《手把手教学-14道超赞的法式甜点》视频课：夸克 | [夸克](https://pan.quark.cn/s/6f33bc3f0225) |
+| 06-14 | 《龙隐小吃街小吃教程大全》视频教学美食做法 价值上千：夸克 | [夸克](https://pan.quark.cn/s/93df50c40c92) |
+| 06-14 | 《家庭保健药膳制作400法》【居家旅行必备·食补药膳】：夸克 | [夸克](https://pan.quark.cn/s/500c048f5d82) |
+| 06-13 | 【训犬教程】专业训犬教程（140节课）：夸克 | [夸克](https://pan.quark.cn/s/60a063625121) |
+| 06-12 | 巴黎贝甜60款经典面包配方流程 烘焙技术资料：夸克 | [夸克](https://pan.quark.cn/s/f9c454f63784) |
+| 06-10 | 大连辽B小串 技术配方、实体教程：夸克 | [夸克](https://pan.quark.cn/s/5b9784669e6b) |
+| 06-10 | 各系包子做法：夸克 | [夸克](https://pan.quark.cn/s/220d9606cfe4) |
+| 06-10 | 国宴大师教做菜（120道菜合集）：夸克 | [夸克](https://pan.quark.cn/s/0c5add25d90b) |
+| 06-10 | 各种酿酒教程合集：夸克 | [夸克](https://pan.quark.cn/s/88930d4f037d) |
+| 06-09 | 八十种各种快餐类美食做法技术大全：夸克 | [夸克](https://pan.quark.cn/s/1c59b5687f35) |
+| 06-09 | 86道菜谱 烹饪指南：夸克 | [夸克](https://pan.quark.cn/s/3eaf2fd0aa6c) |
+| 06-09 | 创意面点工作室甜品类75套【18.5GB】：夸克 | [夸克](https://pan.quark.cn/s/0617d8383d43) |
+| 06-06 | 每个人都该学会的急救知识：夸克 | [夸克](https://pan.quark.cn/s/cc2abc2d6e7b) |
+| 06-02 | 比尔盖南：99套小吃配方+创业落地指南：夸克 | [夸克](https://pan.quark.cn/s/a55b49699b24) |
+| 06-02 | 【超100种收纳方法】整理出一个舒心惬意的家【1.38G】：夸克 | [夸克](https://pan.quark.cn/s/94879f6c722d) |
+| 05-27 | 【训犬教程】专业训犬教程（140节课）：夸克 | [夸克](https://pan.quark.cn/s/fe42b8b59efd) |
+| 05-12 | 科目一到科目四 全套学车教程 全是细节干货：夸克 | [夸克](https://pan.quark.cn/s/b2b4ddf34aec) |
+| 05-08 | 中国手语培训教程 国家通用标准规范手语 零基础学起：夸克 | [夸克](https://pan.quark.cn/s/fffa4884e980) |
+| 05-07 | 美甲详细基础课 从基础到考证：夸克 | [夸克](https://pan.quark.cn/s/bfd9f581b038) |
+| 05-05 | 小餐饮小吃行业创业培训课程：夸克 | [夸克](https://pan.quark.cn/s/41e13c023f9a) |
+| 05-01 | 科一到科四全套讲解，零基础教学，助你轻松学车考驾照：夸克 | [夸克](https://pan.quark.cn/s/feb58246b4cd) |
+| 04-28 | 全国进货渠道大全：夸克 | [夸克](https://pan.quark.cn/s/7c5b20053985) |
+| 04-26 | 专业美甲视频课程 独角兽专业美甲教学：夸克 | [夸克](https://pan.quark.cn/s/fddb0da07c7a) |
+| 04-05 | 25教资上L姨急救班：夸克 | [夸克](https://pan.quark.cn/s/9900176ebe4a) |
+| 04-04 | 【价值2万技术可创业】32套各类烧烤炭烤小吃技术合集）：夸克 | [夸克](https://pan.quark.cn/s/a51276da8019) |
+| 04-03 | 学做菜高价购买菜谱高清视频教程(132套)：夸克 | [夸克](https://pan.quark.cn/s/656b1c9cd957) |
+| 03-24 | 美食拍摄教学：夸克 | [夸克](https://pan.quark.cn/s/aded858d76fb) |
+| 03-01 | 一秒打开就能照做的急救指南：夸克 | [夸克](https://pan.quark.cn/s/ce8fed1d86fd) |
+| 02-12 | 百洋轻松美食家经典菜谱：夸克 | [夸克](https://pan.quark.cn/s/f8e8e13aab5e) |
+| 01-18 | 跟南城香学做快餐连锁：百度 | [百度](https://pan.baidu.com/s/1zjoP3EW2v01Ft-aGJ4K1Qg?pwd=ahhh) |
+| 01-01 | 家居收纳课：教你一次整理，永不复乱：夸克 | [夸克](https://pan.quark.cn/s/13f36507bed7) |
+
+## 📚 考试/学习/语言 (164 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-21 | 全网最全-付费声乐技巧 唱歌技巧 乐理课程 视唱练耳教程合集：夸克 | [夸克](https://pan.quark.cn/s/89fec6f52340) |
+| 06-20 | 《新版轻松学古筝教程》(全61集)：夸克 | [夸克](https://pan.quark.cn/s/e727d566e0b5) |
+| 06-17 | 跟着迪士尼电影学习英语｜外教精讲课：夸克 | [夸克](https://pan.quark.cn/s/669c74328b1b) |
+| 06-17 | 2027考研【双语外刊精读】：夸克 | [夸克](https://pan.quark.cn/s/560fd39f7179) |
+| 06-16 | 【系列教程】粤语：夸克 | [夸克](https://pan.quark.cn/s/149c74fb2b1a) |
+| 06-15 | TE英语精读26年：百度 | [百度](https://pan.baidu.com/s/1AglfbvkwMJaq8JlKCZ7CDQ?pwd=ahhh) |
+| 06-12 | 叶老师英语 语法精讲：夸克 | [夸克](https://pan.quark.cn/s/85c4b96b5db8) |
+| 06-11 | 学习高手必修课：超实用的100+方法让你学习力翻10倍！：百度 | [百度](https://pan.baidu.com/s/1Pc-HGvjuX2VycUbgoV0pAA?pwd=ahhh) |
+| 06-09 | 高考志愿：夸克 | [夸克](https://pan.quark.cn/s/348d8283067c) |
+| 06-09 | 高考志愿填报指南合集——张雪峰、名校学姐等权威大师全套资源：夸克 | [夸克](https://pan.quark.cn/s/ad3bc5228dea) |
+| 06-07 | 2027考研【每日外刊精读】：夸克 | [夸克](https://pan.quark.cn/s/501e4e67d824) |
+| 06-04 | 一辈子够用的英语万用单词20000.李文昊：夸克 | [夸克](https://pan.quark.cn/s/0bb5eb91cea0) |
+| 05-29 | susan英语汇总：夸克 | [夸克](https://pan.quark.cn/s/237a135b2e71) |
+| 05-29 | 中国政法大学刘建清教授：犯罪心理课：夸克 | [夸克](https://pan.quark.cn/s/11f5bf61311e) |
+| 05-29 | 艾宾浩斯记忆遗忘曲线复习计划表：夸克 | [夸克](https://pan.quark.cn/s/f7f6656dfe92) |
+| 05-27 | 世界记忆大师考证班，3个月带你成就最强大脑：百度 | [百度](https://pan.baidu.com/s/1szg03zgrl8suL6fTdTBnCA?pwd=ahhh) |
+| 05-25 | 新概念英语戴安娜老师1-4册精讲全套视频：夸克 | [夸克](https://pan.quark.cn/s/de19abb19c47) |
+| 05-25 | 488集零基础英语口语【抖音爆火】：夸克 | [夸克](https://pan.quark.cn/s/45d3130eb3eb) |
+| 05-24 | 一分钟速算8课时：夸克 | [夸克](https://pan.quark.cn/s/6fa61e8dd1b0) |
+| 05-24 | 做自己的职业规划师，掌控你的职场人生：夸克 | [夸克](https://pan.quark.cn/s/c0c8cea3a80c) |
+| 05-13 | 零基础完美英语口语速成攻略：夸克 | [夸克](https://pan.quark.cn/s/30a57ba9861c) |
+| 05-12 | 超级个体：如何运作一家賺钱的代理公司，Iman Gadzhi核心精华（双语字幕）：百度 | [百度](https://pan.baidu.com/s/1Bs9FPiLtbFvgnfY9S5CiJQ?pwd=ahhh) |
+| 05-11 | 新东方日语学习课程 (62.09G)：夸克 | [夸克](https://pan.quark.cn/s/51db2985dce3) |
+| 05-11 | 英语六级全程班课程：夸克 | [夸克](https://pan.quark.cn/s/058127dc5fef) |
+| 05-09 | 普通话考试资料：夸克 | [夸克](https://pan.quark.cn/s/b3d046d47ce1) |
+| 05-09 | 各地区各学科历年中考试卷真题: 百度 | [百度](https://pan.baidu.com/s/1nfZmA8uyFQLgyWelGrYGxw?pwd=ahhh) |
+| 05-06 | 剑桥顶级教材Unlock 0-5级听说读写 (PDF+视频+音频)：夸克 | [夸克](https://pan.quark.cn/s/4abbec52b45b) |
+| 05-06 | 10小时刷完考研核心母词990：夸克 | [夸克](https://pan.quark.cn/s/720179597d50) |
+| 05-06 | 日语红宝书蓝宝书教辅资料与配套音频：夸克 | [夸克](https://pan.quark.cn/s/3734edda683e) |
+| 05-06 | 考研英语全程班 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/0a70cb6aec4c) |
+| 05-06 | 七龙珠合集：1986 七龙珠.1-6季+22部剧场版+漫画 1080p：夸克 | [夸克](https://pan.quark.cn/s/e36d21a2ed4d) |
+| 05-05 | 琪琪老师手绘漫画速成班：夸克 | [夸克](https://pan.quark.cn/s/e06f729b0c6f) |
+| 05-04 | 音标课《超级有趣的50节音标课程》：夸克 | [夸克](https://pan.quark.cn/s/76c3375186d8) |
+| 05-04 | 从小学到初中寒假教辅资料大全：夸克 | [夸克](https://pan.quark.cn/s/a4c81aa43fe9) |
+| 05-03 | 剑桥雅思专题资料：夸克 | [夸克](https://pan.quark.cn/s/13b08c6d073f) |
+| 05-03 | 考公上岸大礼包（申论行测真题解析、复习题库、选岗对照表）：夸克 | [夸克](https://pan.quark.cn/s/48f9bf4eca19) |
+| 05-02 | 考研英语 星火英语专题：夸克 | [夸克](https://pan.quark.cn/s/20caa9bdae68) |
+| 05-02 | 教你零基础写出一手漂亮好字 完结：夸克 | [夸克](https://pan.quark.cn/s/d419fd99b5bf) |
+| 05-01 | 27考研计划表：夸克 | [夸克](https://pan.quark.cn/s/6d2070a36023) |
+| 05-01 | 张雪峰高考志愿填报课程：夸克 | [夸克](https://pan.quark.cn/s/b746fdd95dbc) |
+| 05-01 | 【张雪峰】峰阅万卷 高考押题卷：夸克 | [夸克](https://pan.quark.cn/s/4e4b05bd7f1c) |
+| 05-01 | 斯坦福科学学习法 学霸养成指南：夸克 | [夸克](https://pan.quark.cn/s/a8df7c2b2168) |
+| 05-01 | Tiger谭秋娟的吉他弹唱入门课（完结）：夸克 | [夸克](https://pan.quark.cn/s/b85c380e4a99) |
+| 05-01 | 新概念英语 全套教学视频+音频（83GB)：夸克 | [夸克](https://pan.quark.cn/s/f6c06fabd33f) |
+| 05-01 | 16堂顶级外教实用口语课，让你的英语脱口而出（完结）：夸克 | [夸克](https://pan.quark.cn/s/0f52034eba7c) |
+| 04-29 | 托福冲110高端旗舰版全套课程：夸克 | [夸克](https://pan.quark.cn/s/9467d369bfc5) |
+| 04-29 | 英语口语系统学习班：夸克 | [夸克](https://pan.quark.cn/s/108bb0bde8f6) |
+| 04-29 | 少儿动画课 学霸高效阅读方法：夸克 | [夸克](https://pan.quark.cn/s/b75a8ec4a44d) |
+| 04-28 | 【2027考研333】丹丹全程班！：夸克 | [夸克](https://pan.quark.cn/s/d44ef7dc0609) |
+| 04-28 | 日语零基础课程-N1全套学习资源：夸克 | [夸克](https://pan.quark.cn/s/123bd994a98f) |
+| 04-27 | 一个月记忆20000单词+象形记忆+词根词缀+美语发音英语学习视频：夸克 | [夸克](https://pan.quark.cn/s/f032ff5be2db) |
+| 04-27 | 英语兔 英语词汇音标发音学习课程：夸克 | [夸克](https://pan.quark.cn/s/388537408bc1) |
+| 04-27 | 王力宏线上唱歌教程：夸克 | [夸克](https://pan.quark.cn/s/6db81aeaf2d7) |
+| 04-26 | 趣味动画轻松学汉字，幼小衔接必备识字课：夸克 | [夸克](https://pan.quark.cn/s/f846b6624c53) |
+| 04-26 | 黄冈小状元系列教辅汇总：夸克 | [夸克](https://pan.quark.cn/s/ea5e19bddb52) |
+| 04-24 | 小升初英语资料超全汇总合集：夸克 | [夸克](https://pan.quark.cn/s/8c6ef25f6c34) |
+| 04-23 | 董宇辉全套英语课程：夸克 | [夸克](https://pan.quark.cn/s/24c69749e8f0) |
+| 04-22 | 全国导游证考试课程资料（稀有）：夸克 | [夸克](https://pan.quark.cn/s/b3f2cedcee91) |
+| 04-21 | 学好英语让你月入50w 教你把英语用起来：夸克 | [夸克](https://pan.quark.cn/s/f75591a629c8) |
+| 04-21 | 学而思系列教辅汇总 学而思秘籍：夸克 | [夸克](https://pan.quark.cn/s/e03619d00c7e) |
+| 04-21 | 钢琴练习曲 基础入门曲谱：夸克 | [夸克](https://pan.quark.cn/s/264c1a489054) |
+| 04-20 | 高考英语3500词学习资料包：夸克 | [夸克](https://pan.quark.cn/s/013f5b91a37e) |
+| 04-20 | 考虫最新寒假雅思系统班：夸克 | [夸克](https://pan.quark.cn/s/fc5845b77637) |
+| 04-20 | BEC商务英语PDF资料：夸克 | [夸克](https://pan.quark.cn/s/be145dabbc2c) |
+| 04-19 | 6个月零基础学会英语：夸克 | [夸克](https://pan.quark.cn/s/8981a578bda4) |
+| 04-19 | 动物王国大冒险全集 英语启蒙动画 视频+音频：夸克 | [夸克](https://pan.quark.cn/s/eafdbd8de188) |
+| 04-19 | 英语能力系统提升班 极简英语：夸克 | [夸克](https://pan.quark.cn/s/a9817bf4a626) |
+| 04-19 | 恶魔奶爸 sam 影响100万人的英语学习方法：夸克 | [夸克](https://pan.quark.cn/s/13b2c733010d) |
+| 04-19 | 英语学渣逆袭班：夸克 | [夸克](https://pan.quark.cn/s/04c90f7b34d9) |
+| 04-18 | 新普通话水平测试课程（完）：夸克 | [夸克](https://pan.quark.cn/s/86dbb8c1457f) |
+| 04-18 | 零基础英语语法 腾讯课堂：夸克 | [夸克](https://pan.quark.cn/s/838722069da9) |
+| 04-18 | 马思瑞的口语私教视频课程 带讲义：夸克 | [夸克](https://pan.quark.cn/s/ce44a17d3b27) |
+| 04-18 | 20小时快速掌握英语核心秘诀：夸克 | [夸克](https://pan.quark.cn/s/c8bd3be116df) |
+| 04-18 | 新概念英语 剑桥英语课程集合：夸克 | [夸克](https://pan.quark.cn/s/58ee2bb15661) |
+| 04-17 | 英语单词记忆方法总汇【小学至大学】：夸克 | [夸克](https://pan.quark.cn/s/e23df70fa2d2) |
+| 04-17 | 幼儿学前教辅资料集合【7.43GB】：夸克 | [夸克](https://pan.quark.cn/s/285acc7c3e42) |
+| 04-17 | IELTS 新东方在线 雅思备考大礼包：夸克 | [夸克](https://pan.quark.cn/s/937ca7209760) |
+| 04-16 | 【英语提升】「488集零基础英语口语【抖音爆火】」暑假练口语必备2G：夸克 | [夸克](https://pan.quark.cn/s/ce78ae90ee2d) |
+| 04-16 | 人教版高中英语全套学习资料：夸克 | [夸克](https://pan.quark.cn/s/ccb2bb84415a) |
+| 04-16 | 雪梨老师自然拼读音标课语法课新概念全套：夸克 | [夸克](https://pan.quark.cn/s/e8806e276b19) |
+| 04-15 | 英语零基础到听说流利：夸克 | [夸克](https://pan.quark.cn/s/7d97ef1bfb71) |
+| 04-15 | 考研资料专题集合 考研数学 政治 英语：夸克 | [夸克](https://pan.quark.cn/s/ea06e5c1e50b) |
+| 04-14 | 钢琴纯音乐迷必备歌单：夸克 | [夸克](https://pan.quark.cn/s/00749cf413eb) |
+| 04-14 | 高考志愿报考提前看提前学：夸克 | [夸克](https://pan.quark.cn/s/3e70ad670cd3) |
+| 04-14 | 2025年高考志愿填报避坑指南汇总：夸克 | [夸克](https://pan.quark.cn/s/f6b8dd7cda71) |
+| 04-14 | 红宝书 考研英语：夸克 | [夸克](https://pan.quark.cn/s/4d3bcf253d43) |
+| 04-14 | 专升本英语课程资料 22.50GB：夸克 | [夸克](https://pan.quark.cn/s/9df420d569f8) |
+| 04-14 | 考研英语 新东方全程班：夸克 | [夸克](https://pan.quark.cn/s/1de77c2945ed) |
+| 04-14 | 高效磨耳朵 英语听力练习资源：夸克 | [夸克](https://pan.quark.cn/s/8532a9360c6b) |
+| 04-13 | 英语四六级真题（2015~2025）：夸克 | [夸克](https://pan.quark.cn/s/5154b9dca90c) |
+| 04-13 | 世界记忆大师考证班，3个月带你成就最强大脑（视频教学）：夸克 | [夸克](https://pan.quark.cn/s/f06353d4230b) |
+| 04-13 | 英语单词记忆方法总汇（小学至大学）：夸克 | [夸克](https://pan.quark.cn/s/ba5882852b43) |
+| 04-13 | 英语留学相关电子书汇总：夸克 | [夸克](https://pan.quark.cn/s/303792355f77) |
+| 04-13 | 学前类教辅汇总【10.97GB】：夸克 | [夸克](https://pan.quark.cn/s/d2f3ceb097a0) |
+| 04-13 | 各科考研电子书集合：夸克 | [夸克](https://pan.quark.cn/s/01dea1b8fdc1) |
+| 04-13 | 日语N1历年真题：夸克 | [夸克](https://pan.quark.cn/s/f3a99accd67e) |
+| 04-13 | 考虫英语四级VIP全程班：夸克 | [夸克](https://pan.quark.cn/s/576d927cc996) |
+| 04-13 | 七彩英语 全站电子书 3750册：夸克 | [夸克](https://pan.quark.cn/s/2b4b315e464c) |
+| 04-12 | 飞飞老师27考研英语全程班：夸克 | [夸克](https://pan.quark.cn/s/4c9334518f07) |
+| 04-12 | 英语词库上千本词书大全：夸克 | [夸克](https://pan.quark.cn/s/8475702b148f) |
+| 04-12 | 英语语法全程课 零基础适用（全集50讲）：夸克 | [夸克](https://pan.quark.cn/s/d181b7e45e7d) |
+| 04-12 | 高中英语3500词 31.6GB【全网最全整理】：夸克 | [夸克](https://pan.quark.cn/s/5ce317596670) |
+| 04-12 | 最好英语合集 TED-ED 700集：夸克 | [夸克](https://pan.quark.cn/s/4494006db7f7) |
+| 04-11 | 英语48个《国际音标每日打卡彩色小纸条》28天：夸克 | [夸克](https://pan.quark.cn/s/bf1432681f2e) |
+| 04-11 | 决战行测5000题 公务员考试：夸克 | [夸克](https://pan.quark.cn/s/f9beee6bebc4) |
+| 04-10 | 100篇科技类英语时文阅读轻松搞定英语3500词：夸克 | [夸克](https://pan.quark.cn/s/4c8482622589) |
+| 04-10 | 脑洞英语自然拼读 互动课件全套：夸克 | [夸克](https://pan.quark.cn/s/8cb9ee952632) |
+| 04-09 | 特级教师手绘 英语：夸克 | [夸克](https://pan.quark.cn/s/d245da88dad2) |
+| 04-09 | 新东方日语零基础直达N1全程班：百度 | [百度](https://pan.baidu.com/s/17Eaigwh58fxaa9bp0trQOQ?pwd=ahhh) |
+| 04-08 | 老明读书《终结你的拖延症》，高效行动力提升计划：夸克 | [夸克](https://pan.quark.cn/s/19c4964ff81c) |
+| 04-05 | 【英语语法全程课】零基础适用（全集50讲）【视频】：夸克 | [夸克](https://pan.quark.cn/s/944d87f827a7) |
+| 04-04 | 2026刘晓艳六级：夸克 | [夸克](https://pan.quark.cn/s/8eac87e7f5f5) |
+| 04-01 | 全国导游证考试课程资料：夸克 | [夸克](https://pan.quark.cn/s/3a99c48069dd) |
+| 03-31 | 《24个绘本阅读秘籍》提升孩子阅读力：夸克 | [夸克](https://pan.quark.cn/s/77b05a53c9b6) |
+| 03-31 | 吴彦祖英语课：夸克 | [夸克](https://pan.quark.cn/s/0a42eb6fcb99) |
+| 03-30 | 刘晓艳三部高考英语教程：夸克 | [夸克](https://pan.quark.cn/s/6fe96f08ecac) |
+| 03-30 | 数字IC视频：百度 | [百度](https://pan.baidu.com/s/1DJtIeoApmRBVvtkwIbPsSw?pwd=ahhh) |
+| 03-28 | 计算机一级考试资料：夸克 | [夸克](https://pan.quark.cn/s/393a56547ac4) |
+| 03-27 | 用英语说中国：夸克 | [夸克](https://pan.quark.cn/s/94bb48033448) |
+| 03-26 | 雅思A类 4-17真题+音频+精讲：夸克 | [夸克](https://pan.quark.cn/s/f152b18636c5) |
+| 03-26 | 斐然英语突破高考必背词汇3500：夸克 | [夸克](https://pan.quark.cn/s/d9f7d43785fb) |
+| 03-26 | Eva老师《高中英语语法专练》：夸克 | [夸克](https://pan.quark.cn/s/8069b5b9ae14) |
+| 03-25 | 张雪峰高考志愿填报合集：夸克、阿里、百度 | [夸克](https://pan.quark.cn/s/6b1c4fe0a39b) |
+| 03-25 | 张雪峰高考志愿填报合集：夸克、阿里、百度 | [阿里](https://www.alipan.com/s/fksFAoxuowZ) |
+| 03-25 | 张雪峰高考志愿填报合集：夸克、阿里、百度 | [百度](https://pan.baidu.com/s/1iU1tVLlQIKKZUflbD_oaaw?pwd=ahhh) |
+| 03-25 | 一门课一个亿的法方论第16期2026年2月深圳线下课，录音+字幕+配套资料：夸克 | [夸克](https://pan.quark.cn/s/92bdf2b778b2) |
+| 03-25 | 【2027考研英语】哔哩唐迟全程班！：夸克 | [夸克](https://pan.quark.cn/s/2c735b4aa6f4) |
+| 03-25 | 英语资料 104篇短文高效积累2000词：夸克 | [夸克](https://pan.quark.cn/s/24d4aaf0debe) |
+| 03-25 | 跟NHK学简明日语：夸克 | [夸克](https://pan.quark.cn/s/18aa20c0890c) |
+| 03-24 | 法律英语证书(lec)学习资料：百度 | [百度](https://pan.baidu.com/s/1y8VL_4NvxrpHdGhy5gDdUw?pwd=ahhh) |
+| 03-23 | 零基础钢琴教程｜从零开始学钢琴（视频课程+五线谱资料+圆梦钢琴）：夸克 | [夸克](https://pan.quark.cn/s/3f7b94aa8c86) |
+| 03-22 | 贪心记[从零开始学八字]：夸克 | [夸克](https://pan.quark.cn/s/d46f44247660) |
+| 03-22 | 【2027考研英语】KiKi英语大迈保姆！：夸克 | [夸克](https://pan.quark.cn/s/d32a303ccb49) |
+| 03-20 | 四六级真题（2015~2025）：夸克 | [夸克](https://pan.quark.cn/s/a84026550ec9) |
+| 03-19 | 姬广亮-提高五倍记忆力的8个秘诀：夸克 | [夸克](https://pan.quark.cn/s/9ba83d023874) |
+| 03-18 | 爱打篮球的公考人资料分析加速度（速算＋理论+专项刷题）：夸克 | [夸克](https://pan.quark.cn/s/441af3aa714e) |
+| 03-18 | 小学-高中 星火英语系列：夸克 | [夸克](https://pan.quark.cn/s/f21a91583740) |
+| 03-18 | 特级教师手绘-英语：夸克 | [夸克](https://pan.quark.cn/s/083c564fbb81) |
+| 03-17 | BBC英文数字启蒙动画《数字虫 The Numtums (1-3季) 》：夸克 | [夸克](https://pan.quark.cn/s/e25ec35dbcff) |
+| 03-15 | BOSS直聘全流程运营实战指南，从注册到高效招聘的落地技巧：夸克 | [夸克](https://pan.quark.cn/s/e0f2a9449419) |
+| 03-15 | Tiffany外教英语：夸克 | [夸克](https://pan.quark.cn/s/0a00dd436daf) |
+| 03-15 | 英语四六级资料：夸克 | [夸克](https://pan.quark.cn/s/a6188ad080e5) |
+| 03-12 | 全国导游证考试课程资料 （稀有）：夸克 | [夸克](https://pan.quark.cn/s/fc3baed7936b) |
+| 03-12 | 喜马拉雅童老师牛津阅读树1-9级视频+资料 BIG 50G：夸克 | [夸克](https://pan.quark.cn/s/0a0099935df7) |
+| 03-12 | 每日英语小短文100篇》附带文本＋音频＋视频：夸克 | [夸克](https://pan.quark.cn/s/1d530ea24241) |
+| 03-10 | 简易八字大师版：夸克 | [夸克](https://pan.quark.cn/s/34a658085a3f) |
+| 03-08 | 李井奎《财富的起源》精读班（湛庐阅读）：夸克 | [夸克](https://pan.quark.cn/s/8ca91b51ddc0) |
+| 03-06 | 《衡水中学资料大全》重构版 考试资料&nbsp; 小学 初中 高中 最强学习资料 学霸笔记 ：夸克 | [夸克](https://pan.quark.cn/s/5b77ecc3fa95) |
+| 03-06 | 剑雅真题1-19，真题＋新方法解析＋音频：夸克 | [夸克](https://pan.quark.cn/s/407db7b62e67) |
+| 03-05 | 颉斌斌考研英语：夸克 | [夸克](https://pan.quark.cn/s/e526a110b45e) |
+| 03-02 | 袁文魁 记忆魔法师（疯狂大脑共12集）：夸克 | [夸克](https://pan.quark.cn/s/92660417eb5d) |
+| 02-28 | 声乐魔法课：让你唱出动听歌声，秒变KTV麦霸：夸克 | [夸克](https://pan.quark.cn/s/5b4ef91d2b83) |
+| 02-27 | 跟脑科学家提升专注力：夸克 | [夸克](https://pan.quark.cn/s/c5d7b017ee55) |
+| 02-23 | 6个月零基础学会英语：夸克 | [夸克](https://pan.quark.cn/s/e0c57c72f387) |
+| 02-19 | 范蕙萍如何开发孩子的英语潜力：百度 | [百度](https://pan.baidu.com/s/1pxyipFlf6i14PuljrMQZNA?pwd=ahhh) |
+| 02-18 | 记忆大师卢菲菲：如何快速提高记忆力（上中下全集）：夸克 | [夸克](https://pan.quark.cn/s/6527947fbdc5) |
+| 02-18 | V叔钢琴基础入门课，零基础到流畅弹奏的系统教程：夸克 | [夸克](https://pan.quark.cn/s/c5c663b621d3) |
+| 02-13 | 边睡边记英语基础口语1000句：夸克 | [夸克](https://pan.quark.cn/s/d28fb294ff14) |
+| 01-01 | 超级高效术，让你的人生效率快人10倍：夸克 | [夸克](https://pan.quark.cn/s/a4a30e110b83) |
+| 01-01 | Sunny老师讲英语《看电影学零基础英语 (四维系统课) 》：夸克 | [夸克](https://pan.quark.cn/s/2d3b6e61c66e) |
+| 01-01 | Go 语言从入门到实战：夸克 | [夸克](https://pan.quark.cn/s/baf5ea03b300) |
+| 01-01 | B站-零基础入门日语：夸克 | [夸克](https://pan.quark.cn/s/f6ded4d4831f) |
+| 01-01 | 2026考研名师资料合集（持续更新）：夸克 | [夸克](https://pan.quark.cn/s/ecaeee5bf1b0) |
+| 01-01 | 21天带你写出一手漂亮好字：夸克 | [夸克](https://pan.quark.cn/s/81932dcf31b5) |
+
+## 🏢 华为管理专题 (45 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-02 | 汤小洁 揭秘华为的任职资格：百度 | [百度](https://pan.baidu.com/s/1xpDcJELN7u8FkvBxaSIPIQ?pwd=ahhh) |
+| 05-23 | 陆音·《得到案例课·华为的选择》：百度 | [百度](https://pan.baidu.com/s/1DwLD268o2RI8ZQWcihISPQ?pwd=ahhh) |
+| 05-21 | 陶矜-华为股权激励的九字方针：百度 | [百度](https://pan.baidu.com/s/1Rv1eCbcqm75NVIbqyid_IQ?pwd=ahhh) |
+| 05-20 | 汤小洁 揭秘华为的任职资格：百度 | [百度](https://pan.baidu.com/s/1xpDcJELN7u8FkvBxaSIPIQ?pwd=ahhh) |
+| 05-19 | 卞志汉 学习华为分钱智慧 科学分钱18讲：百度 | [百度](https://pan.baidu.com/s/1MOT3eTQ7n_8ngwCnIJ3cog?pwd=ahhh) |
+| 05-18 | 宝洪江- 华为的绩效实战 音频微课：百度 | [百度](https://pan.baidu.com/s/1RS0Fn1nreS5CNeH4DIGpbA?pwd=ahhh) |
+| 05-17 | 宝洪江 华为任职资格体系建设（二）30讲：百度 | [百度](https://pan.baidu.com/s/1hYpw54AHPB-W010BHM0Lhw?pwd=ahhh) |
+| 05-17 | 宝洪江-华为的任职资格体系建设 (一)：百度 | [百度](https://pan.baidu.com/s/10y9KNGa0MJ7Wdb11xl2MvQ?pwd=ahhh) |
+| 05-17 | 黄飞宏 华为人力资源管理体系解读：百度 | [百度](https://pan.baidu.com/s/1uE8YwLXk8umBFTAm-Fvisw?pwd=ahhh) |
+| 05-17 | 冉涛 华为的干部管理与培养：百度 | [百度](https://pan.baidu.com/s/1pgw_-JHOxj9lZ7EZLeA3Gg?pwd=ahhh) |
+| 05-13 | 冉涛 华为人力资源体系建设的三个时期：百度 | [百度](https://pan.baidu.com/s/19o7oCuNS9DQtPBST0t07iQ?pwd=ahhh) |
+| 05-11 | 张宏煜 华为培训学院院长亲授 华为人力资源管理内部课：百度 | [百度](https://pan.baidu.com/s/1_2yNkCzjcUCm4GyErAN15Q?pwd=ahhh) |
+| 05-10 | 学习华为高效工作法：百度 | [百度](https://pan.baidu.com/s/1hdf45AqbDy19zc-K54NITw?pwd=ahhh) |
+| 05-09 | 谢宁 组织激活课-向华为学习BLM战略解码：百度 | [百度](https://pan.baidu.com/s/1BOQ7J7i0qh0l762IYDnpZw?pwd=ahhh) |
+| 05-08 | 芮斌 华为终端：战略视角看企业转型增长：百度 | [百度](https://pan.baidu.com/s/14xgtEGOu9j956JFOR7sn1Q?pwd=ahhh) |
+| 05-07 | 柏翔 华为如何做到专注与多元化统一：百度 | [百度](https://pan.baidu.com/s/179JWcf0oBxz7Vv8dQtwqtg?pwd=ahh) |
+| 05-06 | 薛云奎-带你发现好公司：华为、美的、腾讯：百度 | [百度](https://pan.baidu.com/s/162o_KRDzzgYMkvQji4ftng?pwd=ahhh) |
+| 05-05 | 华为管理工具包：夸克 | [夸克](https://pan.quark.cn/s/0b9058770976) |
+| 05-04 | 徐力 学华为的绩效管理-提升团队战斗力：夸克 | [夸克](https://pan.quark.cn/s/633d21fa0641) |
+| 05-03 | 企业家必修课：任正非华为管理体系：夸克 | [夸克](https://pan.quark.cn/s/9b4966f32d03) |
+| 05-02 | 肖克-华为客户关系管理，构建持续赢单的销售系统：夸克 | [夸克](https://pan.quark.cn/s/fad1c0c3e6e2) |
+| 05-01 | 芮斌-华为终端：战略视角看企业转型增长：夸克 | [夸克](https://pan.quark.cn/s/422b142d4a01) |
+| 04-29 | 胡彦平-浅淡华为组织成长的动力机制：夸克 | [夸克](https://pan.quark.cn/s/dc585a8ea7df) |
+| 04-28 | 王星原 华为企业文化 30讲：夸克 | [夸克](https://pan.quark.cn/s/9bd6b8d4a068) |
+| 04-27 | 柏翔-华为业绩持续成长的顶层设计：夸克 | [夸克](https://pan.quark.cn/s/575a8fb46556) |
+| 04-25 | 辛童-华为供应链管：夸克 | [夸克](https://pan.quark.cn/s/e46b8d2fffe1) |
+| 04-24 | 冉涛-华为人才管理：夸克 | [夸克](https://pan.quark.cn/s/816610146d17) |
+| 04-22 | 祝登甲-华为十年HR教你改进组织氛围：夸克 | [夸克](https://pan.quark.cn/s/8837df009cf1) |
+| 04-21 | 宝洪江-解读华为干部管理之道：夸克 | [夸克](https://pan.quark.cn/s/6f6e3e9ec46c) |
+| 04-20 | 刘春华-左手华为营销 右手海尔创客：夸克 | [夸克](https://pan.quark.cn/s/2173717e87c7) |
+| 04-19 | 王奇诊-华为员工激励密码：夸克 | [夸克](https://pan.quark.cn/s/ccccdf4914fe) |
+| 04-18 | 郝伟臣-华为人力资源管理纲要：夸克 | [夸克](https://pan.quark.cn/s/731ae8e86e5e) |
+| 04-17 | 郝伟臣 华为基本法：夸克 | [夸克](https://pan.quark.cn/s/79bc2385ecee) |
+| 04-16 | 祁生胜 华为绩效管理、绩效考核：夸克 | [夸克](https://pan.quark.cn/s/56e2486a0f28) |
+| 04-15 | 祁生胜 华为人力资源管理体系与实践：夸克 | [夸克](https://pan.quark.cn/s/6ed568de4bbb) |
+| 04-14 | 王育琨-华为成就的深层要素：夸克 | [夸克](https://pan.quark.cn/s/69b60e9501c9) |
+| 04-13 | 王育琨-华为的故事：夸克 | [夸克](https://pan.quark.cn/s/d30dd8242efd) |
+| 04-12 | 程东升-任正非经营理念 60讲：夸克 | [夸克](https://pan.quark.cn/s/944e47ae8f31) |
+| 04-11 | 程东升-华为企业文化30讲：夸克 | [夸克](https://pan.quark.cn/s/7f6a3f715c50) |
+| 04-10 | 洪千武-学习华为股权设计、股权激励、科学分钱：夸克 | [夸克](https://pan.quark.cn/s/4edd65ba6597) |
+| 04-08 | 王占刚-向华为学习销售管理密码：夸克 | [夸克](https://pan.quark.cn/s/083229044dbe) |
+| 04-07 | 王占刚-华为客户关系管理：夸克 | [夸克](https://pan.quark.cn/s/d65e41e4e2ed) |
+| 04-06 | 吴建国-华为人才密度管理：夸克 | [夸克](https://pan.quark.cn/s/0249d3f80a72) |
+| 04-05 | 吴建国-向华为学习人才管理之道：夸克 | [夸克](https://pan.quark.cn/s/b957232c5c88) |
+| 04-03 | 吴建国-任正非的管理智慧：夸克 | [夸克](https://pan.quark.cn/s/ce6f3506bc1b) |
+
+## 📦 资源合集/其他 (181 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-16 | 100本哲学书单全收录：夸克 | [夸克](https://pan.quark.cn/s/84ee1a79177d) |
+| 06-15 | 【专项施工方案大全】：夸克 | [夸克](https://pan.quark.cn/s/8d5c15075989) |
+| 06-14 | 一些19类型的有声小说：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNpB3uosXWE10iIxKxDM6difo1) |
+| 06-13 | 2026《美加墨世界杯》合集：百度 | [百度](https://pan.baidu.com/s/1qxnyCVGy67v9d4RZM8qt7Q?pwd=ahhh) |
+| 06-03 | 丁香医生人体调查组电子版电子书：夸克 | [夸克](https://pan.quark.cn/s/42113a65e0d0) |
+| 05-31 | 乐姐餐饮课程合集：夸克 | [克](https://pan.quark.cn/s/0b78e6ce6514) |
+| 05-31 | 杂志大合集（读者、青年文摘、意林、商界少年等等）：夸克 | [夸克](https://pan.quark.cn/s/e5ca8716104c) |
+| 05-26 | 房屋租赁合同模板合集，最全实用租房合同范本：夸克 | [夸克](https://pan.quark.cn/s/8f2f309eb950) |
+| 05-22 | BBC少儿幽默科普节目《可怕的科学 Horrible Science (音视频+电子书) 》：夸克 | [夸克](https://pan.quark.cn/s/30aae931d218) |
+| 05-20 | DK百科全书（560本）：夸克 | [夸克](https://pan.quark.cn/s/df4d3a4472b7) |
+| 05-13 | 电脑台式机笔记本维修教程合集：夸克 | [夸克](https://pan.quark.cn/s/569b413a7554) |
+| 05-13 | 美册软件教程：夸克 | [夸克](https://pan.quark.cn/s/bf38e047f70f) |
+| 05-13 | 小剪刀呕吐软件教程：夸克 | [夸克](https://pan.quark.cn/s/e176de20f7ba) |
+| 05-13 | 小海豚软件教程：夸克 | [夸克](https://pan.quark.cn/s/8b3fb14ccccb) |
+| 05-13 | 剧本杀剧本100套：夸克 | [夸克](https://pan.quark.cn/s/bd65948ecfd3) |
+| 05-10 | 网文-通关课-签约小说写作投稿男女频通用，95%签约过稿率，系统写作投稿：百度 | [百度](https://pan.baidu.com/s/1rIZowBE9bwNZN9xSpsGmxw?pwd=ahhh) |
+| 05-10 | 执业药师课程合集 中药+西药：夸克 | [夸克](https://pan.quark.cn/s/8fd08d286608) |
+| 05-10 | 淘宝买家秀合集：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNqN_GTNTtMWewkhvnRw_gHio1) |
+| 05-09 | 人生亏钱指南 PDF：夸克 | [夸克](https://pan.quark.cn/s/9099dcd2c584) |
+| 05-09 | 100个施工进度计划模板: 百度 | [百度](https://pan.baidu.com/s/1RBGUBjnNVZ9nDUlRglHSdg?pwd=ahhh) |
+| 05-09 | Adobe全家桶软件下载+视频教程：夸克 | [夸克](https://pan.quark.cn/s/5a4539aba444) |
+| 05-08 | 求职避坑大全 过来人给出的40条求职建议：夸克 | [夸克](https://pan.quark.cn/s/9e0090ae91f4) |
+| 05-08 | 汽车维修与保养60关键点 电子书 PDF：夸克 | [夸克](https://pan.quark.cn/s/d1e954b6324e) |
+| 05-07 | 事业单位资料大合集：夸克 | [夸克](https://pan.quark.cn/s/1d6b49242cdb) |
+| 05-05 | 李一舟全套课程合集（目前全网已下架）89.5GB：夸克 | [夸克](https://pan.quark.cn/s/15c6fb858f32) |
+| 05-05 | 几张精选壁纸集合：夸克 | [夸克](https://pan.quark.cn/s/501442053ae1) |
+| 05-04 | 小学 初中 高中 新版 老版课本PDF：夸克 | [夸克](https://pan.quark.cn/s/fc83cd7ccefd) |
+| 05-04 | 热门付费短剧130部：夸克 | [夸克](https://pan.quark.cn/s/8eaac760d7f0) |
+| 05-03 | 全网音乐下载软件合集：夸克 | [夸克](https://pan.quark.cn/s/93db5bc83196) |
+| 05-03 | 行业报告合集（附科技发展趋势系列报告）：夸克 | [夸克](https://pan.quark.cn/s/b6f6c7622bb5) |
+| 05-03 | 经济学书籍合集：夸克 | [夸克](https://pan.quark.cn/s/8cdc32a8c951) |
+| 05-03 | 古本红楼梦系列 稀缺资源：夸克 | [夸克](https://pan.quark.cn/s/ae214bbea35a) |
+| 05-03 | 韩国车展 Show girl 饭拍秀学习资源 4K（解压密码：ahhhhfs）：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNn-ohab24sT1ZD2tJl58K1-o1) |
+| 05-03 | ASMR主播大合集：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNnLIIbwMbJjUUv9aWg30x9_o1) |
+| 05-02 | 图解经典 系列合集 易经 风水书籍：夸克 | [夸克](https://pan.quark.cn/s/8a35be40ba81) |
+| 05-02 | 苹果手机软件35款合集 解锁版ipa软件资源：夸克 | [夸克](https://pan.quark.cn/s/fa2cdc8786ab) |
+| 05-02 | 情人节 特别推荐 小说合集1700+：夸克 | [夸克](https://pan.quark.cn/s/72ba53abca54) |
+| 05-01 | 经典香港电影合集未删减版本【150部343GB】：夸克 | [夸克](https://pan.quark.cn/s/6ae6a317ba5d) |
+| 05-01 | 得到每天听本书 合集：夸克 | [夸克](https://pan.quark.cn/s/a65548ce442c) |
+| 05-01 | 考证资料合集：夸克 | [夸克](https://pan.quark.cn/s/edc0c631c8e4) |
+| 05-01 | 知乎文大合集（书单排行榜+付费文合集）（1500+本）：夸克 | [夸克](https://pan.quark.cn/s/126512efae2e) |
+| 04-30 | 曾仕强最全合集：夸克 | [夸克](https://pan.quark.cn/s/a5c96355232e) |
+| 04-30 | 推荐 8部绝境逃生类型的电影：夸克 | [夸克](https://pan.quark.cn/s/72d1b79b54d4) |
+| 04-30 | 电视直播软件APP集合+电视盒子TV软件安装教程：夸克 | [夸克](https://pan.quark.cn/s/cee99b9c8b2c) |
+| 04-30 | 简历模板集合：夸克 | [夸克](https://pan.quark.cn/s/d2b906927d96) |
+| 04-30 | 豆瓣TOP 250电影蓝光：夸克 | [夸克](https://pan.quark.cn/s/f116e567acba) |
+| 04-30 | 三老师的写真集 PDF版：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNkBKmdCo_RXoW3S4taIYuSjo1) |
+| 04-29 | 韩国最出色的十一部R限制电影：夸克 | [夸克](https://pan.quark.cn/s/401097676cf1) |
+| 04-29 | 德云社相声大全：夸克 | [夸克](https://pan.quark.cn/s/502a970ebc0f) |
+| 04-29 | 风水 算命系列课程9合集：夸克 | [夸克](https://pan.quark.cn/s/948d91a1f21c) |
+| 04-29 | 一本书：我的身体 我的心 SM实用教程 1-2季 PDF 下载：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VO2Lrkps0SW_tIw0MjKOjmE4o1) |
+| 04-28 | 300+套分类电子手账笔记模板：夸克 | [夸克](https://pan.quark.cn/s/ab2a6a4f66a2) |
+| 04-27 | 免费简历模版大全 doc：夸克 | [夸克](https://pan.quark.cn/s/e70df0737353) |
+| 04-27 | 精整上千款实用软件 解锁版：夸克 | [夸克](https://pan.quark.cn/s/e55bbae7e49b) |
+| 04-26 | 豆瓣读书榜单 电子书整理：夸克网盘 | [夸克网盘](https://pan.quark.cn/s/b2c206934f5f) |
+| 04-25 | 小白创业指南新时代老板商业必修课，你的私家创业实操大全：百度 | [百度](https://pan.baidu.com/s/1fL1f8bkcfv9gg9SjB9ntDQ?pwd=ahhh) |
+| 04-25 | CIA绝密思维工具：助你迅速从月入5K到年入100W 全套课程：夸克 | [夸克](https://pan.quark.cn/s/91ee0b7504d7) |
+| 04-25 | 500份心理学方面书籍资料合集：夸克 | [夸克](https://pan.quark.cn/s/e5e0124dace5) |
+| 04-25 | 欧美大chi度电影60部：夸克 | [夸克](https://pan.quark.cn/s/ce36bb59f820) |
+| 04-25 | 经典旧连环画报集合：夸克 | [夸克](https://pan.quark.cn/s/b84aa3a9f728) |
+| 04-25 | 80套PS付费课程资料合集 973GB：阿里 | [阿里](https://www.alipan.com/s/oMW3jmvM8b1) |
+| 04-24 | 天涯神贴合集PDF（解压密码：ahhhhfs）：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VOAbSmhYYzfGvsBJ1ikQFzSMo1) |
+| 04-24 | 故事会全集 PDF：夸克 | [夸克](https://pan.quark.cn/s/ba26da5c45e3) |
+| 04-24 | 喜马拉雅最新付费课程合集：夸克 | [夸克](https://pan.quark.cn/s/77cd5331408d) |
+| 04-24 | 抖音热门BGM 音乐合集汇总 ：夸克 | [夸克](https://pan.quark.cn/s/bbc910d4e0b3) |
+| 04-23 | 怎样不受气PDF 方州：夸克 | [夸克](https://pan.quark.cn/s/1c4a3e3124c1) |
+| 04-23 | Excel函数宝典 收藏模板：夸克 | [夸克](https://pan.quark.cn/s/58b4cf80a45e) |
+| 04-23 | 精选可商用字体合集：夸克 | [夸克](https://pan.quark.cn/s/b04ed55e76c4) |
+| 04-23 | 各家太极功法说明大全：夸克 | [夸克](https://pan.quark.cn/s/0cd9511a8e9e) |
+| 04-23 | 1900套计算机专业毕设项目代码资料大合集：PikPak | [PikPak](https://mypikpak.com/s/VNg3iPQ4aIE2kkY7mr66jOyDo1) |
+| 04-22 | 年会素材合集：夸克 | [夸克](https://pan.quark.cn/s/8ddd88e80f29) |
+| 04-22 | 快手抖音小程序 热门爽文短剧合集 国语：夸克 | [夸克](https://pan.quark.cn/s/38436b581220) |
+| 04-22 | 100本设计师必看的设计电子书【PDF】：夸克 | [夸克](https://pan.quark.cn/s/41dde3d14680) |
+| 04-21 | 900+知乎赚钱案例大合集：夸克 | [夸克](https://pan.quark.cn/s/665c5801e5e4) |
+| 04-21 | 香港大学推荐的50本经典书籍：夸克 | [夸克](https://pan.quark.cn/s/4a1ad4ad5dc6) |
+| 04-21 | 黑莲花上位手册短剧全集：夸克 | [夸克](https://pan.quark.cn/s/c2c715080d78) |
+| 04-21 | 726个宏伟震撼人心电影大鼓声背景音乐 音效素材：夸克 | [夸克](https://pan.quark.cn/s/59798d8e81ef) |
+| 04-21 | 1111歌手无损音乐资源 合集：夸克 | [夸克](https://pan.quark.cn/s/edb6d58918cb) |
+| 04-21 | 电视TV应用 电视盒子APP集合：夸克 | [夸克](https://pan.quark.cn/s/b911ee9e7e3d) |
+| 04-20 | 40部央视荐读书单：夸克 | [夸克](https://pan.quark.cn/s/1f6dd42144a4) |
+| 04-20 | 得到课程资源 付费群流出：夸克 | [夸克](https://pan.quark.cn/s/91a3aed535e6) |
+| 04-20 | 心理学课程 心理学电子书合集：夸克 | [夸克](https://pan.quark.cn/s/3bdf9a39a3be) |
+| 04-20 | 34种行业分类电子书大全.Epub格式：夸克 | [夸克](https://pan.quark.cn/s/8aa3fe966d69) |
+| 04-20 | 机械工业出版社电子书资源6000册：夸克 | [夸克](https://pan.quark.cn/s/0fd100feb6cf) |
+| 04-20 | 付费爽文短剧 合集：夸克 | [夸克](https://pan.quark.cn/s/9a1887eb80d3) |
+| 04-20 | 有声读物大全 转存即听：夸克 | [夸克](https://pan.quark.cn/s/85fa59257074) |
+| 04-19 | 韩语学习课程资源集合：夸克 | [夸克](https://pan.quark.cn/s/39cbecdb95b0) |
+| 04-19 | 医学工具书资源集合：夸克 | [夸克](https://pan.quark.cn/s/51bf008b5c80) |
+| 04-19 | 工作中实用的EXCEI 表格模板及函数讲解：夸克 | [夸克](https://pan.quark.cn/s/c0d67906fc8d) |
+| 04-19 | 人物传记电子书合集1000+：夸克 | [夸克](https://pan.quark.cn/s/e1b41e0a9c9c) |
+| 04-18 | 200套装修必看知识避坑资料大全：夸克 | [夸克](https://pan.quark.cn/s/38652078ac50) |
+| 04-18 | 2020-2025 豆瓣年度书籍合集 一站式集齐 6 年豆瓣高分年度好书：夸克 | [夸克](https://pan.quark.cn/s/1435f904a002) |
+| 04-18 | 古籍风水资源集合：夸克 | [夸克](https://pan.quark.cn/s/751023deb81a) |
+| 04-17 | 风水玄学专题资源集合 35.7GB：夸克 | [夸克](https://pan.quark.cn/s/7a46df33658b) |
+| 04-17 | 知乎、豆瓣、当当书籍榜单合集：夸克 | [夸克](https://pan.quark.cn/s/5103217304ad) |
+| 04-17 | 网易云评论超10万的歌曲合集896首：夸克 | [夸克](https://pan.quark.cn/s/86a28dcbf3a3) |
+| 04-16 | 推理 恐怖 悬疑类小说合集：夸克 | [夸克](https://pan.quark.cn/s/b0c53afdb9b9) |
+| 04-16 | 创业必备手册资料大全：夸克 | [夸克](https://pan.quark.cn/s/b6470a0b0ce6) |
+| 04-16 | 学习外语课程大合集：夸克 | [夸克](https://pan.quark.cn/s/7672d155d87f) |
+| 04-16 | 360部爽文短剧大合集（连播版）：夸克 | [夸克](https://pan.quark.cn/s/836bdcbb36df) |
+| 04-15 | 银行从业资料合集【195GB】：夸克网盘 | [夸克网盘](https://pan.quark.cn/s/04cdf3a44bba) |
+| 04-15 | 知乎盐选付费文章合集3000篇：夸克 | [夸克](https://pan.quark.cn/s/b9b803b75e45) |
+| 04-15 | 西游记 英文版动画全集 视频+音频+剧本+生词注解：夸克 | [夸克](https://pan.quark.cn/s/7be965fa7d41) |
+| 04-15 | 教师招聘资料合集【49.3GB】：夸克 | [夸克](https://pan.quark.cn/s/f15700d75db6) |
+| 04-15 | 财新周刊PDF资源免费分享 1-38期全：夸克 | [夸克](https://pan.quark.cn/s/adff803dc7a7) |
+| 04-15 | 汪峰无损歌曲合集 全部18专辑32CD 无损FLAC+MP3：夸克 | [夸克](https://pan.quark.cn/s/8e9aec66fd4e) |
+| 04-14 | 上千本医学类书籍大合集【47.8GB】：夸克 | [夸克](https://pan.quark.cn/s/28d502379fb9) |
+| 04-14 | 豆瓣高分电子书集合：夸克 | [夸克](https://pan.quark.cn/s/47331cad9032) |
+| 04-14 | 孩子成长课外读物大全：夸克 | [夸克](https://pan.quark.cn/s/ead63b74b00e) |
+| 04-14 | 经典科普书籍合集30套近300部 精校全插图收藏版：夸克 | [夸克](https://pan.quark.cn/s/d861c54844fe) |
+| 04-14 | 知乎盐选付费文章合集【2888部5.03GB】：夸克 | [夸克](https://pan.quark.cn/s/5ec0d3ba546d) |
+| 04-14 | 图片壁纸资源集合【69.1GB】：夸克 | [夸克](https://pan.quark.cn/s/2906762c06f5) |
+| 04-13 | 自动跳过APP开屏广告软件合集：夸克 | [夸克](https://pan.quark.cn/s/30da92716dc4) |
+| 04-13 | 荣誉证书模板 源文件+预览图：夸克 | [夸克](https://pan.quark.cn/s/f9f40a2a7280) |
+| 04-13 | 丁香医生：护肤攻略和护肤品电子书合集：夸克 | [夸克](https://pan.quark.cn/s/b2ec9d80fca5) |
+| 04-12 | 最新450个搞钱玩法合集（网赚）：夸克 | [夸克](https://pan.quark.cn/s/d6dbc8c32e02) |
+| 04-12 | CSDN会员免费电子书1000本：夸克 | [夸克](https://pan.quark.cn/s/36f1226b3f3b) |
+| 04-11 | 无人直播项目教学【工具+素材+教程】：夸克、百度 | [夸克](https://pan.quark.cn/s/d1fdff9945a2) |
+| 04-11 | 无人直播项目教学【工具+素材+教程】：夸克、百度 | [百度](https://pan.baidu.com/s/1CklXJnNRoCPHdQdMgwyAVg?pwd=ahhh) |
+| 04-11 | 李玟同名专辑+MTV合集：夸克、阿里 | [夸克](https://pan.quark.cn/s/ade72f0c166e) |
+| 04-11 | 金瓶没各版本大合集：夸克 | [夸克](https://pan.quark.cn/s/96202a1e8dc6) |
+| 04-11 | iPhone历代壁纸大全 超全集合：夸克 | [夸克](https://pan.quark.cn/s/a6a796db18f7) |
+| 04-09 | 知乎文大合集（书单排行榜+付费文合集）（1500+本）：夸克 | [夸克](https://pan.quark.cn/s/1d36cb94e066) |
+| 04-07 | SONY 华语1000道歌曲合集flac：夸克 | [夸克](https://pan.quark.cn/s/fbeaa9d9a99a) |
+| 04-07 | 绝版古籍电子书合集（13大类）：夸克 | [夸克](https://pan.quark.cn/s/69f68e8dc65d) |
+| 04-07 | 当当年度好书榜单电子书：夸克、阿里 | [夸克](https://pan.quark.cn/s/6dc7af945989) |
+| 04-01 | 国内旅游攻略合集：夸克 | [夸克](https://pan.quark.cn/s/21501da7e737) |
+| 03-30 | 风水玄学资料大合集 资料+符咒+视频课程：夸克 | [夸克](https://pan.quark.cn/s/a3ff3c488173) |
+| 03-30 | 看完就写爆的文案模板课：百度 | [百度](https://pan.baidu.com/s/1tLNniXggab4efjbDhYb_Nw?pwd=ahhh) |
+| 03-28 | 情商专题 34合集：阿里 | [阿里](https://www.alipan.com/s/yQeoZBQQeDS) |
+| 03-27 | 车载试音碟HiFi音质金曲，发烧级无损音乐合集：夸克 | [夸克](https://pan.quark.cn/s/5cf8b476a00c) |
+| 03-27 | 2025导游证电子版资料合集：夸克 | [夸克](https://pan.quark.cn/s/5de23af4e6e7) |
+| 03-26 | 中医躺瘦合集：夸克 | [夸克](https://pan.quark.cn/s/1d5946edee2b) |
+| 03-26 | 张丽俊《人力资源是CEO的第一工程》：夸克 | [夸克](https://pan.quark.cn/s/36ee5ad019a8) |
+| 03-25 | 14本学习工具词典合集：夸克 | [夸克](https://pan.quark.cn/s/387c75e40e7c) |
+| 03-23 | 必听的20部有声剧：百度 | [百度](https://pan.baidu.com/s/1v3S9tL1kicrMQrzpFhh99g?pwd=ahhh) |
+| 03-19 | 《中国历代书法大全》：夸克 | [夸克](https://pan.quark.cn/s/3efb8fa53c7e) |
+| 03-18 | 2026第98届奥斯卡获奖影片完整合集：夸克 | [夸克](https://pan.quark.cn/s/0c58cea35d0d) |
+| 03-17 | 适合小朋友的经典寓言故事-视频217集：夸克 | [夸克](https://pan.quark.cn/s/97dc7ec5fc7c) |
+| 03-16 | 800+首顶级可商用音效BGM素材合集！全中文分类，精选素材：夸克 | [夸克](https://pan.quark.cn/s/e648dd3cf653) |
+| 03-15 | 【有声书】叔本华《人生的智慧》：夸克 | [夸克](https://pan.quark.cn/s/07ed2c4e8cdd) |
+| 03-15 | 25年法考刷题竹马app题库：夸克 | [夸克](https://pan.quark.cn/s/36c8416ca09c) |
+| 03-13 | 玩转AppleLog课程-教学素材：夸克 | [夸克](https://pan.quark.cn/s/e2db611a21a3) |
+| 02-25 | Seedance2.0保姆级教程5套合集，从入门到精通的最全攻略：夸克 | [夸克](https://pan.quark.cn/s/a32b6a412802) |
+| 02-23 | 小说推文之影视图文营销号玩法保姆级教学，不含水，全程干货：夸克 | [夸克](https://pan.quark.cn/s/0616a21ea70b) |
+| 02-18 | 萌新UP主必备，一键三连求支持视频素材合集：夸克 | [夸克](https://pan.quark.cn/s/b359ff4a2fc9) |
+| 02-18 | 销转王校长合集，销转课，把公开课做成印钞机，送王校长印钞机课：夸克 | [夸克](https://pan.quark.cn/s/493cd36a00b3) |
+| 02-14 | 盗墓系列电影.鬼吹灯系列：阿里 | [阿里](https://www.alipan.com/s/LfSmVbX9C3p) |
+| 02-13 | 朋友圈包装素材合集，高赞文案+氛围感图片：夸克 | [夸克](https://pan.quark.cn/s/a0b60484e83b) |
+| 02-12 | 《天涯神贴》高阶合集：夸克 | [夸克](https://pan.quark.cn/s/d80ff1f64feb) |
+| 02-12 | 《天涯社区优质书籍52本合集》，均是超几百万阅读量的精品：夸克 | [夸克](https://pan.quark.cn/s/0a41f4637979) |
+| 01-16 | Taylor Swift霉霉专辑大全 无损音乐Flac：夸克 | [夸克](https://pan.quark.cn/s/6a4a3e0c00ea) |
+| 01-16 | 车载无损环绕音效音乐合集：夸克 | [夸克](https://pan.quark.cn/s/16f44abd4dac) |
+| 01-16 | 无损音乐合集 125套收藏版专辑 94.1GB：夸克 | [夸克](https://pan.quark.cn/s/f7c863d8ff4b) |
+| 01-16 | Beyond音乐合集：夸克 | [夸克](https://pan.quark.cn/s/f1499995b6c0) |
+| 01-16 | 五月天音乐合集：夸克 | [夸克](https://pan.quark.cn/s/ced21d29f1c3) |
+| 01-16 | 60-90年代经典老歌1100首【转存即听】：夸克 | [夸克](https://pan.quark.cn/s/b012fe26702e) |
+| 01-16 | QQ音乐付费经典华语200首 无损音乐：：夸克 | [夸克](https://pan.quark.cn/s/87be73e143c7) |
+| 01-16 | 华语流行乐坛歌手精选1264首经典歌曲无损音质合集[FLAC]：夸克 | [夸克](https://pan.quark.cn/s/cc90069363ee) |
+| 01-16 | 车载无损环绕音效音乐合集 (视频版)：夸克 | [夸克](https://pan.quark.cn/s/72918af23ac4) |
+| 01-16 | 900款免费商用字体合集：百度&nbsp; 提取码：ahhh | [百度](https://pan.baidu.com/s/1gtzSwcShxl0Px3gdchGSJQ?pwd=ahhh) |
+| 01-12 | 🔥《知乎知识类问答合集》(3300多篇)：夸克 | [夸克](https://pan.quark.cn/s/e5dd1f728c3f) |
+| 01-03 | 《电脑爱好者》期刊全部合集：夸克 | [夸克](https://pan.quark.cn/s/a06bd6b3a1df) |
+| 01-01 | TextGO：开源跨平台划词助手与文本处理工具（PopClip / SnipDo 平替）：网盘 | [<strong>网盘</strong>](https://pan.quark.cn/s/8a17e9487c71) |
+| 01-01 | 全能三维软件Blender快速入门视频教程：夸克 | [夸克](https://pan.quark.cn/s/1f10aa7bf6fb) |
+| 01-01 | 2025年12月2日 精选付费短剧推荐：夸克 | [夸克](https://pan.quark.cn/s/ca26c3386301) |
+| 01-01 | Caesium Image Compressor 图片压缩工具：网盘 | [网盘](https://pan.quark.cn/s/68c6b78d58ff) |
+| 01-01 | 短剧陪跑普通人逆袭的新赛道：夸克 | [夸克](https://pan.quark.cn/s/0a17a0113062) |
+| 01-01 | [360首]KTV点唱率最高的热门歌曲合集：夸克 | [夸克](https://pan.quark.cn/s/138ee4a36535) |
+| 01-01 | 推理悬疑书单大合集：夸克 | [夸克](https://pan.quark.cn/s/0785ede202b7) |
+| 01-01 | AudioVisual：功能强大的跨平台视频聚合与解析工具 免VIP观看全平台视频：AudioVisual | [AudioVisual](https://pan.quark.cn/s/6641a1a4f745) |
+| 01-01 | 电商会计-全平台对账模板-120个文件：夸克 | [夸克](https://pan.quark.cn/s/4e9bd4a177e9) |
+| 01-01 | WiFi 密码po解工具：百度&nbsp;&nbsp; 提取码：ahhh、夸克 | [百度](https://pan.baidu.com/s/1f0IkGQ2it28XTCj_fCtNQg?pwd=ahhh) |
+| 01-01 | WiFi 密码po解工具：百度&nbsp;&nbsp; 提取码：ahhh、夸克 | [夸克](https://pan.quark.cn/s/f793197d9c96) |
+| 01-01 | 真国漫4K壁纸，不怕放大，真4k分型享：夸克 | [夸克](https://pan.quark.cn/s/007bd59a2664) |
+| 01-01 | Windows Insider 11 周年纪念壁纸：夸克 | [夸克](https://pan.quark.cn/s/d428e76fb762) |
+| 01-01 | doro 表情包合集：夸克 | [夸克](https://pan.quark.cn/s/bb7782be13b0) |
+| 01-01 | HR必备表格工具包（500份）：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/1ce5b056cf8b) |
+| 01-01 | HR必备表格工具包（500份）：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/10q9RZroC4okwE5-cNPbyDg?pwd=ahhh) |
+| 01-01 | 最近比较火的 iOS 26 时钟入水壁纸：夸克 | [夸克](https://pan.quark.cn/s/c07e406b8844) |
+| 01-01 | CrossDesk：开源跨平台远程桌面软件：夸克 | [夸克](https://pan.quark.cn/s/fbaff3d46b7a) |
+
+## 📌 其他 (421 条)
+
+| 日期 | 资源名称 | 链接 |
+|------|---------|------|
+| 06-21 | 墨菲定律：避开人生倒霉的20个坑：夸克 | [夸克](https://pan.quark.cn/s/abcc03e76f7a) |
+| 06-21 | 《实用中医方药手册》精选经方验方1000余个：夸克 | [夸克](https://pan.quark.cn/s/711c1368ce96) |
+| 06-21 | 人人必修的新商业思维课：百度 | [百度](https://pan.baidu.com/s/1Yd5MO6kJ5fsNwXhvzgVawg?pwd=ahhh) |
+| 06-20 | 国际象棋入门 修订本_棋牌图书编委会_吉林科技_扫描版：夸克 | [夸克](https://pan.quark.cn/s/0ab8dcef6fcc) |
+| 06-20 | 费俊峰变态心理学课｜20讲系统化教学（异常行为分析+临床案例+心理治疗技巧）：夸克 | [夸克](https://pan.quark.cn/s/6340a1f21a19) |
+| 06-19 | 15堂占星入门全攻略：夸克 | [夸克](https://pan.quark.cn/s/79999b9245f4) |
+| 06-18 | 潘毅·中医文化必修课：夸克 | [夸克](https://pan.quark.cn/s/5df432f63da6) |
+| 06-17 | 6大高薪行业分析报告与行业分析方法：夸克 | [夸克](https://pan.quark.cn/s/87993fa5f425) |
+| 06-17 | 冰鉴 面相识人术：夸克 | [夸克](https://pan.quark.cn/s/bf7f356affde) |
+| 06-16 | 打官司法律必备常识：夸克 | [夸克](https://pan.quark.cn/s/6d85cfd6ad0e) |
+| 06-15 | 财务分析与决策培训视频教程：夸克 | [夸克](https://pan.quark.cn/s/35dc810a950f) |
+| 06-15 | 【科普课程】解锁土豆逗严肃科普全集，趣味与严谨并存：夸克 | [夸克](https://pan.quark.cn/s/cc82d0d4cf8d) |
+| 06-15 | 2026年度大课《自我操盘课》，即刻掌握如何以经济、政治、军事、哲学思维实现自我操盘：夸克 | [夸克](https://pan.quark.cn/s/0cc326614e7f) |
+| 06-15 | 香蕉草莓果汁 带你玩转香蕉草莓（解压密码：ahhhhfs）：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNpAKsF8Z8KWDGSx442vPVO2o1) |
+| 06-14 | 『开悟』2.0—成功者不愿透露的秘密：百度 | [百度](https://pan.baidu.com/s/19SxNl512ss9apqpLMuuEpA?pwd=ahhh) |
+| 06-08 | XR图片No.3484-3060：PikPak | [PikPak](https://mypikpak.com/s/VOuauz3BEhWnQpcBSaHyMYXso2) |
+| 06-06 | 电商涉税新规及电商财税合规方案，电商财务教程：百度 | [百度](https://pan.baidu.com/s/1YZSHwqKkdIpp-fz8a48ZVA?pwd=ahhh) |
+| 06-06 | 【不用蚊香不用药】【消灭蚊虫苍蝇小诀窍】共3集【28.6M】：夸克 | [夸克](https://pan.quark.cn/s/91a509461cbd) |
+| 06-06 | 睡眠白噪音：夸克 | [夸克](https://pan.quark.cn/s/b5de3cdd53f4) |
+| 06-03 | 10节课系统拆解跑后拉伸问题（完结）：夸克 | [夸克](https://pan.quark.cn/s/b0bddc24443f) |
+| 06-03 | 张富源让你健康瘦脸课程18节课：夸克 | [夸克](https://pan.quark.cn/s/133b88ee49fd) |
+| 06-03 | 某博主某密圈学习资料 1-15期（解压密码：ahhhhfs）：夸克 | [夸克](https://pan.quark.cn/s/60d614977b82) |
+| 06-02 | 图片：PikPak | [PikPak](https://mypikpak.com/s/VOu6xLIy7li-EQ0-DE32vuQjo2) |
+| 06-01 | 裸K体系、三点体系、三板体系三套系统课程，从基础到进阶，助力交易者构建系统化交易思路：百度 | [百度](https://pan.baidu.com/s/1p-CHSuBEJ42spi1jC6Uo7A?pwd=ahhh) |
+| 05-31 | 宠物赛道精选课程，从新手快速成长为行业能手，抢占宠物赛道红利：百度 | [百度](https://pan.baidu.com/s/1ENwQ2gc74L0RbA0trORzFQ?pwd=ahhh) |
+| 05-31 | 心理学通识与新知（完结）：夸克 | [夸克](https://pan.quark.cn/s/4a3c88b4e3da) |
+| 05-29 | 提升财富思维学习+认知破局：快速了解有钱人的思维，助你财富一生！：百度 | [百度](https://pan.baidu.com/s/1aKLnQ9r0roBjpTHBcBM54g?pwd=ahhh) |
+| 05-29 | 上岸学长学姐经验分享：夸克 | [夸克](https://pan.quark.cn/s/db22fa7442b3) |
+| 05-29 | 内购1-9：MyPikPak | [MyPikPak](https://mypikpak.com/s/VOtn5V60c3o4x-r1q9f4vKZAo2) |
+| 05-28 | 税务筹划及涉税风险防范：夸克 | [夸克](https://pan.quark.cn/s/18fd5b9b461b) |
+| 05-28 | 电商企业会计处理与涉税实务：夸克 | [夸克](https://pan.quark.cn/s/ba6e11248cd7) |
+| 05-28 | 零基础学会计：夸克 | [夸克](https://pan.quark.cn/s/a35a4189dbac) |
+| 05-27 | 白金游戏工作室：爆款游戏 创作心法（完结）：夸克 | [夸克](https://pan.quark.cn/s/633220298eea) |
+| 05-26 | 4招双人xx大法，15分钟睡服她：百度 | [百度](https://pan.baidu.com/s/1sW-DHlHdLAzOhNGCGc3BRA?pwd=ahhh) |
+| 05-26 | 中医诊断学：朱文锋-湖南中医药大学（全75集·完整版）：夸克 | [夸克](https://pan.quark.cn/s/8d43ab69900b) |
+| 05-26 | 孟晖讲宋朝美学：看得见的大宋文明（完结）：夸克 | [夸克](https://pan.quark.cn/s/78ffe1248c88) |
+| 05-25 | 某收费课程《玩赚客户V1.0》全套课程价值998元：百度 | [百度](https://pan.baidu.com/s/1u7-lwZ31JIqPI8B943FnQA?pwd=ahhh) |
+| 05-25 | 钻石主播闪电成长营，快速打造能赚会播的主播：夸克 | [夸克](https://pan.quark.cn/s/9ea7688c5cb7) |
+| 05-25 | 从0开始学会做标书：新手学习做标书制作必修（95节课）：夸克 | [夸克](https://pan.quark.cn/s/6541a576ac3d) |
+| 05-25 | 体育人物传记解说教学，撸伙伴计划+精选收益：夸克 | [夸克](https://pan.quark.cn/s/31a9298ff721) |
+| 05-25 | 陈嘉映教授：从哲学到人生（完结）：夸克 | [夸克](https://pan.quark.cn/s/77897a05b299) |
+| 05-25 | HuaYang图片：PikPak | [PikPak](https://mypikpak.com/s/VOtTkK46wdgh5oSifB7I-Dnto2) |
+| 05-24 | 村西边老王本质心法7.0，​视频课+《本质心法》电子版：百度 | [百度](https://pan.baidu.com/s/1Yl4egSYS8KHCQIaFOOsN8w?pwd=ahhh) |
+| 05-24 | 营销实操培训班：简单实用落地有效，价值百万的品牌营销底层逻辑：百度 | [百度](https://pan.baidu.com/s/1K4mBZJ3F2iWMczGl9i-ATg?pwd=ahhh) |
+| 05-24 | 陈平的跨学科思维课（完结）：夸克 | [夸克](https://pan.quark.cn/s/a4dea49a4052) |
+| 05-24 | 口 爱 Joy of Oral Se_ 許佑生：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNr_jAM-fo4LHJXX_0ahgW3Ho1) |
+| 05-23 | 清华大学靳卫萍老师：经济学思维30讲-[B站]：夸克 | [夸克](https://pan.quark.cn/s/0d8df1bd476c) |
+| 05-23 | 超实用Word隐藏技巧：夸克 | [夸克](https://pan.quark.cn/s/c5b73c6dc3d2) |
+| 05-21 | 复旦徐英瑾教授：认知世界的20个哲学命题：夸克 | [夸克](https://pan.quark.cn/s/2f9349a73a26) |
+| 05-21 | 10节气质跑者的形象修炼课：夸克 | [夸克](https://pan.quark.cn/s/e123f70c5978) |
+| 05-20 | 费俊峰教授：变态心理学20讲：夸克 | [夸克](https://pan.quark.cn/s/37b2babe8877) |
+| 05-19 | 人人必修的新商业思维课，真正能改变命运的恰恰是那些看起来没什么用的知识：百度 | [百度](https://pan.baidu.com/s/1K3H7PjQ_6vKhWWkCnqY2-w?pwd=ahhh) |
+| 05-19 | 《认知破局：优化努力的34条思维原则》：夸克 | [夸克](https://pan.quark.cn/s/206e152e4448) |
+| 05-19 | 《老爸评测：你的健康呵护指南》：夸克 | [夸克](https://pan.quark.cn/s/ae2b8f269c07) |
+| 05-19 | 一病一讲生活实用健康课：夸克 | [夸克](https://pan.quark.cn/s/a37d32a29bdf) |
+| 05-19 | xiu人图片：MyPikPak | [MyPikPak](https://mypikpak.com/s/VOsz86Kcwdght1f1GpHnjEeco2) |
+| 05-18 | 般若心宗之强力补肾技术(全本）：夸克 | [夸克](https://pan.quark.cn/s/f4c5b4d1df96) |
+| 05-17 | 26年如何通过知识付费月入10万+：百度 | [百度](https://pan.baidu.com/s/1zxWN0N9x5OK1oJyPRuVmrA?pwd=ahhh) |
+| 05-17 | 低风险股票实操营：零基础入门，实战落地不空谈：百度 | [百度](https://pan.baidu.com/s/1DRH6M0pqM7R6Y93RB6P7Bw?pwd=ahhh) |
+| 05-17 | 营销实践课：百度 | [百度](https://pan.baidu.com/s/1ja_8eqhseTRPeVeuzpBjsA?pwd=ahhh) |
+| 05-13 | 一个技巧让你幽默感倍增社交必备：夸克 | [夸克](https://pan.quark.cn/s/754d03e84829) |
+| 05-12 | 赵越 乔布斯的禅宗智慧–创新与营销：百度 | [百度](https://pan.baidu.com/s/1kKYyL2_12Kf9NzDZPuJVtw?pwd=ahhh) |
+| 05-12 | 人物速写：风格化角色创作实战（完结）：夸克 | [夸克](https://pan.quark.cn/s/f72e55c3d010) |
+| 05-12 | 从一线到高管你必须知道的知识：夸克 | [夸克](https://pan.quark.cn/s/a3193d52eefc) |
+| 05-11 | 阿国随笔三个赚钱术，讲怎么搞流量，怎么服务客户：百度 | [百度](https://pan.baidu.com/s/18IRnZ2z0r9cYHz99dUuxoQ?pwd=ahhh) |
+| 05-11 | 人体绘画：从0开始角色创作（完结）：夸克 | [夸克](https://pan.quark.cn/s/7e51d1d12f52) |
+| 05-11 | 72节课 跟李锐学Excel 从入门到精通：夸克 | [夸克](https://pan.quark.cn/s/36d5a2be8a73) |
+| 05-10 | 全合伙新模式从超级单店到快速连锁：夸克 | [夸克](https://pan.quark.cn/s/01ab0a597f21) |
+| 05-10 | 台球全系列学习视频教程：夸克 | [夸克](https://pan.quark.cn/s/60455a5662a8) |
+| 05-10 | 世界顶级畅销书900本：夸克 | [夸克](https://pan.quark.cn/s/bdff31955394) |
+| 05-10 | 顶级互联网工程师的计算机思维课(完结)：夸克 | [夸克](https://pan.quark.cn/s/7bd1f110c09d) |
+| 05-09 | 中国历史朝代跨度表高清图：夸克 | [夸克](https://pan.quark.cn/s/942a7f3c4b9e) |
+| 05-09 | 某大佬分享付费网赚课程：夸克 | [夸克](https://pan.quark.cn/s/3821285e999c) |
+| 05-09 | MBA商业逻辑基础班课程 12个模块：百度 | [百度](https://pan.baidu.com/s/1xFxQsVOTFot_BuldHtBMOA?pwd=ahhh) |
+| 05-09 | 鱼神 维密圈会员图包学习资料 无水印（解压密码：ahhhhfs）：夸克 | [夸克](https://pan.quark.cn/s/90e56aa01073) |
+| 05-08 | 打工人的法律必修课（完结）：夸克 | [夸克](https://pan.quark.cn/s/06229ba69583) |
+| 05-08 | 如何通过个人经验 能力 爱好进行副业赚钱：夸克 | [夸克](https://pan.quark.cn/s/f39b21e21d55) |
+| 05-08 | 中医古籍珍稀抄本精选10本：夸克 | [夸克](https://pan.quark.cn/s/a886131ba200) |
+| 05-07 | 中医典籍医著秘方偏方土方：夸克 | [夸克](https://pan.quark.cn/s/9555c923bab2) |
+| 05-07 | 一本书：你不可不学习的资料 101式 繁体版：夸克 | [夸克](https://pan.quark.cn/s/3f8e32d5572d) |
+| 05-06 | 超硬核-创业实操落地方案（完整版），正本清源 了解世界本质（121节课）：百度 | [百度](https://pan.baidu.com/s/1-kGXPNiQczXvWAiztkin2w?pwd=ahhh) |
+| 05-06 | 15节教你如何一张漂亮的电子表格：夸克 | [夸克](https://pan.quark.cn/s/61b115b99945) |
+| 05-06 | 揭秘109个送礼暗坑：夸克 | [夸克](https://pan.quark.cn/s/12b45abff08b) |
+| 05-05 | 海外视频营销YouTube油管系列课程，吸引海外优质客户：夸克 | [夸克](https://pan.quark.cn/s/b05dee582079) |
+| 05-05 | 互联网职业通识20讲（完结）：夸克 | [夸克](https://pan.quark.cn/s/9dc81debccfc) |
+| 05-05 | 天涯神贴210篇全(解压密码：ahhhhfs，exe文件直接解压即可)：夸克 | [夸克](https://pan.quark.cn/s/d574b36759e6) |
+| 05-05 | 真无损音乐5.1声道：百度 | [百度](https://pan.baidu.com/s/1smv7IPRpojtCbobCCGoeog?pwd=ahhh) |
+| 05-05 | 电视盒子刷机固件集合：百度 | [百度](https://pan.baidu.com/s/1H222f9b9N_HaN6AElt_DCg?pwd=ahhh) |
+| 05-05 | 五年级网校学而思+培优课：百度 | [百度](https://pan.baidu.com/s/1SCCno90eZ_u7F_cw40hiag?pwd=ahhh) |
+| 05-05 | 二十八堂课 某技巧真人演示视频教程（解压密码：ahhhhfs）：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNoTRNqcXHjSC_wPtTCchqeTo1) |
+| 05-04 | 摆脱内耗的12个行动指南（完结）：夸克 | [夸克](https://pan.quark.cn/s/22fa952c510f) |
+| 05-04 | 《十万个为什么》600集视频 ：夸克 | [夸克](https://pan.quark.cn/s/b85577eb049a) |
+| 05-04 | 27项·餐桌社交 全攻略：教你会说话、会办事、办成事（28节课）：百度 | [百度](https://pan.baidu.com/s/1hQty8-FtbqO0li0RmnFDjA?pwd=ahhh) |
+| 05-04 | 易中天全套资料：夸克 | [夸克](https://pan.quark.cn/s/c0946f9ce2d0) |
+| 05-04 | 梅花易数 实战方法 系列相关书籍：夸克 | [夸克](https://pan.quark.cn/s/98345852b17b) |
+| 05-03 | 40天陪跑打造个人商业系统，一人公司，用SOP系统跑出百W变现：夸克 | [夸克](https://pan.quark.cn/s/9ba62d8794b1) |
+| 05-03 | 面部拨筋：夸克 | [夸克](https://pan.quark.cn/s/77f8cb82b7d9) |
+| 05-03 | 如何成为一个年赚100W的副业高手：夸克 | [夸克](https://pan.quark.cn/s/5ab53c03bfcb) |
+| 05-03 | 手机游戏集合 解锁版 已分类：夸克 | [夸克](https://pan.quark.cn/s/f968384910ed) |
+| 05-02 | 【韩国化妆80款教程，多元风格美妆完整指南】 2.4GB：夸克 | [夸克](https://pan.quark.cn/s/e313ab806844) |
+| 05-02 | 被Excel打过的耳光，24招帮你还回去：夸克 | [夸克](https://pan.quark.cn/s/29f729f4c851) |
+| 05-02 | 一千小时 李笑来开源书籍：夸克 | [夸克](https://pan.quark.cn/s/c44d32f092b1) |
+| 05-01 | 【王德峰】王阳明心学及其现代意义1.02GB：夸克 | [夸克](https://pan.quark.cn/s/e899b64c1005) |
+| 05-01 | 天涯社区优质书籍：夸克 | [夸克](https://pan.quark.cn/s/db1050757070) |
+| 05-01 | 难病奇方系列丛书：夸克 | [夸克](https://pan.quark.cn/s/103ec9917300) |
+| 04-30 | 1400多套农村自建房 别墅图纸：夸克 | [夸克](https://pan.quark.cn/s/d25cf6fe93de) |
+| 04-30 | Paul Graham 2006-2023 精选文集（中英对照）：夸克 | [夸克](https://pan.quark.cn/s/82cbf6df8e19) |
+| 04-30 | 小白思维破圈《互联网赚钱的底层逻辑》：夸克 | [夸克](https://pan.quark.cn/s/20e83c50b902) |
+| 04-30 | 1~12年级数学尖子生高分题库：夸克 | [夸克](https://pan.quark.cn/s/f7ab67eeafdd) |
+| 04-29 | 【完结】少儿护眼必修课：夸克 | [夸克](https://pan.quark.cn/s/7c9467450216) |
+| 04-29 | 计划力从小白到大神S：百度 | [百度](https://pan.baidu.com/s/1syA_QmSD1mIjTPuFVwFz5g?pwd=ahhh) |
+| 04-29 | 如何让你的产品疯狂自增长：夸克 | [夸克](https://pan.quark.cn/s/609f56f319e4) |
+| 04-29 | 马士兵严选商城项目 视频课程：夸克 | [夸克](https://pan.quark.cn/s/847608c87ac3) |
+| 04-28 | 全合伙新模式，从超级单店到快速连锁：百度 | [百度](https://pan.baidu.com/s/14hlgZgK6pPEzBO23DzzMBw?pwd=ahhh) |
+| 04-28 | 超效率指南：如何掌控你的时间和未来：夸克 | [夸克](https://pan.quark.cn/s/2abf7a5dc36b) |
+| 04-28 | 古妆汉服仙服零基础美妆教学课：夸克 | [夸克](https://pan.quark.cn/s/212bb6c0678a) |
+| 04-28 | 做LOL陪玩 月入3w+ 边玩游戏边收钱(附接单流程)：夸克 | [夸克](https://pan.quark.cn/s/00acbce1687e) |
+| 04-28 | 豆瓣最佳图书：夸克 | [夸克](https://pan.quark.cn/s/971fa97afd4d) |
+| 04-28 | 学而思初中全套资料：夸克 | [夸克](https://pan.quark.cn/s/8eb80e8cbb6a) |
+| 04-27 | 琳子博士-强大心态自信营（13节完结）：夸克 | [夸克](https://pan.quark.cn/s/efedeff83bee) |
+| 04-27 | 互联网人Al化转型实操能力课，人人都能听懂的Al课程：夸克 | [夸克](https://pan.quark.cn/s/61f10241c209) |
+| 04-27 | 零基础一站式Android逆向课程 小肩膀：夸克 | [夸克](https://pan.quark.cn/s/92eceddc96ab) |
+| 04-27 | 400套付费套装书籍 价值上万：夸克 | [夸克](https://pan.quark.cn/s/77b5be43cf11) |
+| 04-27 | 禽暴科长 实用家居风水课程：夸克 | [夸克](https://pan.quark.cn/s/0ad6cc87d96f) |
+| 04-27 | 香蕉公社教学视频：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNidfz1QG_0fLIjr6wPKFjO0o1) |
+| 04-26 | 32个-高增长模型：让你的产品立刻卖，持续一直卖，一直卖：百度 | [百度](https://pan.baidu.com/s/1cXdbM3_4vvXc-eq5iOXszA?pwd=ahhh) |
+| 04-26 | 双色球中奖分析与擒号秘技全图解 实用EXCEL分析版：夸克 | [夸克](https://pan.quark.cn/s/b28d662fc309) |
+| 04-26 | 网易云音乐年度最热单曲Top100：夸克 | [夸克](https://pan.quark.cn/s/75c3b6a5ad46) |
+| 04-26 | 500个民间怪闻故事.佚名.演播国之学文化：夸克 | [夸克](https://pan.quark.cn/s/b050547a0bde) |
+| 04-26 | 16种民族医资料：夸克 | [夸克](https://pan.quark.cn/s/a5af7ddbaa13) |
+| 04-26 | 车载U盘，无损高音质Mp3格式【41GB】：夸克 | [夸克](https://pan.quark.cn/s/31ff96c42962) |
+| 04-25 | Vegas交易技术项目：普通人成为黄金操盘手的实战之路：夸克 | [夸克](https://pan.quark.cn/s/d56fc9b75256) |
+| 04-25 | 【草根正骨】58种疑难杂症，实战面授班：夸克 | [夸克](https://pan.quark.cn/s/556d21a35d3b) |
+| 04-25 | 橙啦 宝爷万词班 22000词汇速记营：夸克 | [夸克](https://pan.quark.cn/s/194c049add23) |
+| 04-25 | 尚硅谷 在线支付开发 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/2aecf77c29b3) |
+| 04-25 | 掌阅精品出版书籍（3600册）：夸克 | [夸克](https://pan.quark.cn/s/a5e5b1e08881) |
+| 04-25 | 周思乔图片学习资料：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNiLBHJeqGFLc0_qELIvIAJho1) |
+| 04-24 | 洞悉真相 强者-思维：百度 | [百度](https://pan.baidu.com/s/1JcpG7u3qgyHKOXKGyrI70g?pwd=ahhh) |
+| 04-24 | 2026年更新纪录片：百度 | [百度](https://pan.baidu.com/s/1M6pDnTj-0DZwFAq3ENOG_w?pwd=ahhh) |
+| 04-24 | 下班后易学易做100个赚钱小生意：夸克 | [夸克](https://pan.quark.cn/s/39c263eaea41) |
+| 04-24 | Oracle数据库工程师入门培训实战：夸克 | [夸克](https://pan.quark.cn/s/4d7344fe55b8) |
+| 04-24 | 中医类课程笔记图解合辑（10册）：夸克 | [夸克](https://pan.quark.cn/s/f8f1636f5171) |
+| 04-24 | 米小圈全系列：夸克 | [夸克](https://pan.quark.cn/s/37bbe551519f) |
+| 04-24 | 全球商业简史30讲（完结）：夸克 | [夸克](https://pan.quark.cn/s/4bf53443e41f) |
+| 04-24 | 1985年-2021年裁判文书全量数据 8500万：夸克 | [夸克](https://pan.quark.cn/s/cf673030d1f8) |
+| 04-24 | 微信读书榜单（精整分类）：夸克 | [夸克](https://pan.quark.cn/s/e7b4aecd0a99) |
+| 04-23 | 白酒全套资料：夸克 | [夸克](https://pan.quark.cn/s/e10ec507e824) |
+| 04-23 | 725本世界名著(英汉双语)：夸克 | [夸克](https://pan.quark.cn/s/4335b3db12f4) |
+| 04-23 | 网络收藏医学类书籍（珍藏）：夸克 | [夸克](https://pan.quark.cn/s/d7035b3216cf) |
+| 04-22 | 中医动画全集：百度 | [百度](https://pan.baidu.com/s/1pDOgAcHK42Apopaju7DnUg?pwd=ahhh) |
+| 04-22 | 百家讲坛《千古中医故事》16集全：百度 | [百度](https://pan.baidu.com/s/1kqkVsecVK05is4evSiANSQ?pwd=ahhh) |
+| 04-22 | 计算机黑皮书(191本)：夸克 | [夸克](https://pan.quark.cn/s/58da5962f331) |
+| 04-22 | 知识星球 付费课程（400篇）：夸克 | [夸克](https://pan.quark.cn/s/c9a4b0c56ed1) |
+| 04-22 | 零基础系统学习网络安全教程100讲-昇腾教育：夸克 | [夸克](https://pan.quark.cn/s/fc409d620824) |
+| 04-21 | 专业咖啡师教学-咖啡设备及花式咖啡的制作：夸克 | [夸克](https://pan.quark.cn/s/fa72f4877573) |
+| 04-21 | 茶艺课程全套：夸克 | [夸克](https://pan.quark.cn/s/29011e2825f4) |
+| 04-21 | 解码36个营销心理学：夸克 | [夸克](https://pan.quark.cn/s/8b5cf0038c32) |
+| 04-21 | 学霸状元笔记类资料汇总：夸克 | [夸克](https://pan.quark.cn/s/27c45d9e092e) |
+| 04-21 | 甲骨文系列精品图书（300册）：夸克 | [夸克](https://pan.quark.cn/s/414c2a04431e) |
+| 04-21 | 沪江网校网课课程 98G：夸克 | [夸克](https://pan.quark.cn/s/12f63c8e16e8) |
+| 04-20 | 超实用Word隐藏技巧：夸克 | [夸克](https://pan.quark.cn/s/97af70b15d4f) |
+| 04-20 | 品牌策划-体系课程3.0升级版，品牌体系学习，简单学做品牌（高清无水印）：百度 | [百度](https://pan.baidu.com/s/10bb46Upl89Sh7ai9P7cWSw?pwd=ahhh) |
+| 04-19 | 新经济IP品牌营销方法论，每一个人每一家企业都应该打造自己IP品牌：夸克 | [夸克](https://pan.quark.cn/s/24d30dd3a85c) |
+| 04-19 | 【商业 即模型】100个-改变你人生的思维模型思维课-20节-无水印：百度 | [百度](https://pan.baidu.com/s/1pcwZAldwPuW66__5xgvDYA?pwd=ahhh) |
+| 04-19 | 36个小而美的赚钱金点子：告别死工资，轻松月入5万：夸克 | [夸克](https://pan.quark.cn/s/e311e94ee09e) |
+| 04-19 | 60款国潮古风背景视频素材：夸克 | [夸克](https://pan.quark.cn/s/fb71a3a5fe82) |
+| 04-18 | 清华大学出版社正版图书2237册：夸克 | [夸克](https://pan.quark.cn/s/ce90dc0c4c43) |
+| 04-18 | 罗南希体位教程 真人教学（解压密码：ahhhhfs）：夸克 | [夸克](https://pan.quark.cn/s/dda2e100fa63) |
+| 04-18 | C4D教程宝典 重制版 从基础入门到进阶高手：夸克 | [夸克](https://pan.quark.cn/s/b9e609b849c5) |
+| 04-18 | 知识付费创业项目第2期：如何出自己的第1套网课：夸克 | [夸克](https://pan.quark.cn/s/636b0105fdd6) |
+| 04-18 | 大人用品项目赚钱赛道：夸克 | [夸克](https://pan.quark.cn/s/fe677cff2849) |
+| 04-18 | 宣传片背景音乐（无版权可商用视频素材）：夸克 | [夸克](https://pan.quark.cn/s/a9c143389582) |
+| 04-18 | 陈奕迅无损音乐：夸克 | [夸克](https://pan.quark.cn/s/ff63a550e26d) |
+| 04-17 | 新营销操盘战术，十倍增长的内核技能，让利润倍增：百度 | [百度](https://pan.baidu.com/s/1hJIcoPDwMXhYgdT0Z7V1Vw?pwd=ahhh) |
+| 04-17 | 车载HIFI音乐靓碟 无损音质【89.3GB】：夸克 | [夸克](https://pan.quark.cn/s/73f27c911cab) |
+| 04-17 | 权志龙 BigBang组合无损音乐集合：夸克 | [夸克](https://pan.quark.cn/s/0c31e0abbbb2) |
+| 04-17 | 高画质街拍 3000张：夸克 | [夸克](https://pan.quark.cn/s/adf313419c19) |
+| 04-16 | 五一假期旅游攻略旅行社内部版(超详细，省钱省时省力，更新至2025年4月份)：夸克 | [夸克](https://pan.quark.cn/s/be5b69e8af37) |
+| 04-16 | 各行业创业计划书样本模版 110份：夸克 | [夸克](https://pan.quark.cn/s/da5b477bda43) |
+| 04-16 | 精选儿童绘本1000本：夸克 | [夸克](https://pan.quark.cn/s/6b08e5fec47a) |
+| 04-16 | 1-12年级奥数教程：夸克 | [夸克](https://pan.quark.cn/s/0c0d14d3ff60) |
+| 04-15 | 开悟觉醒三部曲：百度 | [百度](https://pan.baidu.com/s/1Va7zwqN2vLimqOya9dPzJw?pwd=ahhh) |
+| 04-15 | 大人科普知识丛书-新婚夫妇指南：夸克 | [夸克](https://pan.quark.cn/s/388e087e6125) |
+| 04-15 | 崇祯往事 : 明帝国最后的图景：夸克 | [夸克](https://pan.quark.cn/s/f09b9b8682f9) |
+| 04-15 | 王者荣耀23个热门英雄付费教学【详细无比】：夸克 | [夸克](https://pan.quark.cn/s/9a3d8cecaa62) |
+| 04-15 | 就是阿朱啊学习资料集合（解压密码：ahhh）：PinPak网盘 | [PinPak网盘](https://mypikpak.com/s/VNhavnQ5eeIUPoRard7lStmfo1) |
+| 04-14 | 中信图书出版社全部书籍617本：夸克 | [夸克](https://pan.quark.cn/s/86b926ee13d3) |
+| 04-14 | 新婚夫妇必读（第二次修订版）：夸克 | [夸克](https://pan.quark.cn/s/e731318b1167) |
+| 04-13 | 【地摊卖水果】摆摊创业卖水果 必学技巧：夸克 | [夸克](https://pan.quark.cn/s/cedeef572bcb) |
+| 04-13 | 电商会计速成班，电商会计全程处理的技能：夸克 | [夸克](https://pan.quark.cn/s/4ad429a04b97) |
+| 04-13 | 中信图书出版社全部书籍617本：夸克 | [夸克](https://pan.quark.cn/s/86b926ee13d3) |
+| 04-13 | 不止教搭配的色彩商业实战课：夸克 | [夸克](https://pan.quark.cn/s/e59dda8ff347) |
+| 04-13 | 学透鬼谷子谋略丨21堂最全攻心术：百度 | [百度](https://pan.baidu.com/s/1PafoEEv_9ddOaOYXr-yS7g?pwd=ahhh) |
+| 04-13 | 高级催乳师精品课程：夸克 | [夸克](https://pan.quark.cn/s/eda172fff201) |
+| 04-13 | 初中九科学霸笔记（无水印）：夸克 | [夸克](https://pan.quark.cn/s/db1b77f14d35) |
+| 04-13 | 高中各科学习资料包汇总：夸克 | [夸克](https://pan.quark.cn/s/3666e679f613) |
+| 04-13 | 十年广交会名录：夸克 | [夸克](https://pan.quark.cn/s/f5b84fa6eaae) |
+| 04-12 | 强身健体专题学习资料：夸克 | [夸克](https://pan.quark.cn/s/e334c3438e3a) |
+| 04-12 | 电商运营表格集合：夸克 | [夸克](https://pan.quark.cn/s/40a723ae6b12) |
+| 04-12 | 财务报表分析技能课 微淼：夸克 | [夸克](https://pan.quark.cn/s/b6fbd1f1350b) |
+| 04-12 | 一本书：康纳PUA玩家手册：夸克 | [夸克](https://pan.quark.cn/s/88807d5e0015) |
+| 04-12 | 高中必刷题【5.05 GB】：夸克 | [夸克](https://pan.quark.cn/s/de9b0b0ccf42) |
+| 04-12 | 各类计算机技术书籍集合：夸克 | [夸克](https://pan.quark.cn/s/7403ca109d39) |
+| 04-11 | Seedance2.0学习资料包 (全攻略+提示词)：夸克 | [夸克](https://pan.quark.cn/s/7d400bc51714) |
+| 04-11 | Google 搜索从入门到精通 v4.0-How to Google：夸克 、百度 | [夸克](https://pan.quark.cn/s/86f1fb0bedd1) |
+| 04-11 | Google 搜索从入门到精通 v4.0-How to Google：夸克 、百度 | [百度](https://pan.baidu.com/s/1fagYllspg7XbCM16w5vwow?pwd=ahhh) |
+| 04-11 | 无损音乐FLAC 美国Billboard单曲榜TOP100：夸克 | [夸克](https://pan.quark.cn/s/67f199c05c36) |
+| 04-10 | 个体创业指南针，思维、视野、能力的综合提升带你走过创业：夸克 | [夸克](https://pan.quark.cn/s/b5dc3c4e4dec) |
+| 04-10 | 精品凉拌菜系列热卤系列课程：夸克 | [夸克](https://pan.quark.cn/s/503e3e2e0812) |
+| 04-10 | 730份折纸教程打包：阿里、夸克 | [夸克](https://pan.quark.cn/s/21893ff1be21) |
+| 04-09 | 逐利搞钱全攻略，18个搞钱锦囊助你提效变现：夸克 | [夸克](https://pan.quark.cn/s/2a8454841a4e) |
+| 04-09 | 电商企业财税风险与规避，直击财税痛点，制定专属方案：夸克 | [夸克](https://pan.quark.cn/s/0e4a14f2c3b1) |
+| 04-09 | 30天精学Excel：百度 | [百度](https://pan.baidu.com/s/1syL2VguGPLbE0CgdD2s0xQ?pwd=ahhh) |
+| 04-08 | 儿童安全自救宝典 (142集) 儿童教育学习必备：夸克 | [夸克](https://pan.quark.cn/s/a4fe72387841) |
+| 04-08 | 《社交潜规则揭秘》：帮你掌握成熟的处世智慧：夸克 | [夸克](https://pan.quark.cn/s/de0bdd58e987) |
+| 04-08 | 龙头、价值与赛道我对投资哲学与逻辑的深度思考 (彭道富)：夸克 | [夸克](https://pan.quark.cn/s/02bebad65ee2) |
+| 04-07 | 中国风水55讲，揭秘千年玄术与现代生活智慧：夸克 | [夸克](https://pan.quark.cn/s/58ff82fdad36) |
+| 04-07 | 摆地摊全套教程从入门到精通：夸克 | [夸克](https://pan.quark.cn/s/b2f6f4af9790) |
+| 04-07 | 商业IP·定位系统课程：带你像 作战一样，做入场 前分析，布局与推演：百度 | [百度](https://pan.baidu.com/s/1_m0J0A3y8pb-PBwo8Itkvg?pwd=ahhh) |
+| 04-07 | 某宝花钱买的电脑单机游戏集合 700+：夸克 | [夸克](https://pan.quark.cn/s/b42523425f67) |
+| 04-07 | 某豆某媒原档：PikPak网盘 | [PikPak网盘](https://mypikpak.com/s/VNtC_caJlXlJgv1akrYyjVM7o1) |
+| 04-06 | 从小做大生意逻辑：业绩翻倍增长渠道快速裂变利润稳定增长全网营销创新：百度 | [百度](https://pan.baidu.com/s/1HIimYorYcOaFH3yFbh-qhg?pwd=ahhh) |
+| 04-05 | 4980商业咨询师落地课程-ip运营高客单教程：夸克 | [夸克](https://pan.quark.cn/s/54e15ebad945) |
+| 04-04 | 吴建国-以人制胜 如何打造人才竞争优势：夸克 | [夸克](https://pan.quark.cn/s/d4938f9d0eae) |
+| 04-04 | 李宏图 2分钟解决身体疼痛【上半身+下半身】：夸克 | [夸克](https://pan.quark.cn/s/f155dc523288) |
+| 04-04 | 2026刘晓燕四级：夸克 | [夸克](https://pan.quark.cn/s/adfa8478c740) |
+| 04-04 | 罗翔说刑法 2021（全48讲）【6.14GB】·：夸克 | [夸克](https://pan.quark.cn/s/5ea21d55cbe1) |
+| 04-04 | 一本书 大人技能 萌版52式讲解：夸克 | [夸克](https://pan.quark.cn/s/4ff20df276d0) |
+| 04-01 | 计算机基础：夸克 | [夸克](https://pan.quark.cn/s/f454309fcddd) |
+| 04-01 | 25国家电网学霸笔记169页全：夸克 | [夸克](https://pan.quark.cn/s/fa934f10378c) |
+| 04-01 | 全系列糖水制作教程【视频教学】：夸克 | [夸克](https://pan.quark.cn/s/8258a7f2133e) |
+| 04-01 | 赢销爆单实战宝典（在线视频课）：百度 | [百度](https://pan.baidu.com/s/1eYBnDVM-GahfwKwZbyeT1w?pwd=ahhh) |
+| 03-31 | 中国地理环游记-给孩子的云游中国系列：夸克 | [夸克](https://pan.quark.cn/s/f8fdefc2a8a5) |
+| 03-31 | 老板 降本增效20讲：百度 | [百度](https://pan.baidu.com/s/1smSRozCDr44jkwNwEchd8w?pwd=ahhh) |
+| 03-30 | Node.js工程师养成计划：百度 | [百度](https://pan.baidu.com/s/1wbsBjZ-fcUBecYDa9eE6_Q?pwd=ahhh) |
+| 03-29 | 厉害财经的经济学课：看懂经济的底层逻辑：夸克 | [夸克](https://pan.quark.cn/s/8c3bdc9b8b57) |
+| 03-29 | 扎实创业系列之认知能力优化课程：百度 | [百度](https://pan.baidu.com/s/1Q8LmMG7eVtmytV9KI4Xfkg?pwd=ahhh) |
+| 03-28 | 信息流广告投放实战70课，一套课学会信息流广告投放，迄今为止，最系统化教程：夸克 | [夸克](https://pan.quark.cn/s/c1e55f7a8fa2) |
+| 03-28 | 张丽俊 决策者的素养与顶层架构思维：夸克 | [夸克](https://pan.quark.cn/s/0ac005bc1dfd) |
+| 03-28 | 新个体 ip变：百度 | [百度](https://pan.baidu.com/s/1PiNVbW4A-5YvAxtN5WbsBQ?pwd=ahhh) |
+| 03-27 | 白噪音：10 小时铁皮门廊屋顶上的大雨和雷声：百度 | [百度](https://pan.baidu.com/s/1JK5O-aHbhbykxgGNXc8Q8g?pwd=ahhh) |
+| 03-26 | 小学初中数学和奥数资料：夸克 | [夸克](https://pan.quark.cn/s/7906ea7622d6) |
+| 03-26 | 大人版：网友总结的一份玩具体验报告：夸克、百度 | [夸克](https://pan.quark.cn/s/87a92ee41af6) |
+| 03-26 | 大人版：网友总结的一份玩具体验报告：夸克、百度 | [百度](https://pan.baidu.com/s/1klbKgvDrbo39SJz0aRJFqw?pwd=ahhh) |
+| 03-26 | 富人的秘密：百度 | [百度](https://pan.baidu.com/s/14Q50fbQGc4lzX76ZPEw8UQ?pwd=ahhh) |
+| 03-25 | 张丽俊 组织创新99讲：夸克 | [夸克](https://pan.quark.cn/s/0f22868f1850) |
+| 03-25 | 教你拍花卉植物：夸克 | [夸克](https://pan.quark.cn/s/0226c266debf) |
+| 03-25 | 超级个体·普通人创造财富的无限游戏：百度 | [百度](https://pan.baidu.com/s/196dHoMEPrA9KOaNFqLS0jg?pwd=ahhh) |
+| 03-24 | 张丽俊 组织的力量28讲：夸克 | [夸克](https://pan.quark.cn/s/a1a7a50a4ce2) |
+| 03-24 | 人生进阶思维课：夸克 | [夸克](https://pan.quark.cn/s/a0b9449942db) |
+| 03-24 | 太阳之子-tyzz：夸克 | [夸克](https://pan.quark.cn/s/d940e777e86c) |
+| 03-24 | 实用人格手册：读懂自己与他人的必备指南【完结】：百度 | [百度](https://pan.baidu.com/s/1WAeaLmYBRYniMxgeNtiduA?pwd=ahhh) |
+| 03-23 | 张丽俊 人才梯队建设篇：夸克 | [夸克](https://pan.quark.cn/s/875d3544769e) |
+| 03-23 | 【糖】台湾网瘾治疗权威”柯慧贞 x 视频8讲：夸克 | [夸克](https://pan.quark.cn/s/cd6185f36b41) |
+| 03-23 | 板绘教程100集：夸克 | [夸克](https://pan.quark.cn/s/51032ca46904) |
+| 03-23 | 【鸭题库】2026执业中药师：夸克 | [夸克](https://pan.quark.cn/s/f6292da369d0) |
+| 03-23 | 【鸭题库】2026执业西药师：夸克 | [夸克](https://pan.quark.cn/s/5fd50483afbb) |
+| 03-23 | 马大个意识线，一门改变人生意识的课程，讲解什么是能力线什么是意识线：百度 | [百度](https://pan.baidu.com/s/1wT9HcCDM6VokiZ16pIaDsA?pwd=ahhh) |
+| 03-22 | 张丽俊 组织创新 企业决策者的第一工程：夸克 | [夸克](https://pan.quark.cn/s/dc05ec9e1dc5) |
+| 03-22 | 【高照】笔记资料：夸克 | [夸克](https://pan.quark.cn/s/1689f798646f) |
+| 03-22 | 穿越创业周期线下课：百度 | [百度](https://pan.baidu.com/s/1la4Zp6tal3AnBgKKESGjVw?pwd=ahhh) |
+| 03-21 | 【老板必听】5大核心方法论，掌握企业系统化盈利密码：百度 | [百度](https://pan.baidu.com/s/1aj4vRdb5b6UO7QkklNy1EQ?pwd=ahhh) |
+| 03-21 | 【AE+PR+C4D教程1000集】最全面，最用心AE+PR+C4教程：夸克 | [夸克](https://pan.quark.cn/s/988f93b89611) |
+| 03-21 | 1200万人选出的人生回报率最大的36本书：夸克 | [夸克](https://pan.quark.cn/s/9b1d500a2fc9) |
+| 03-20 | 李涛AE CC高高手：夸克 | [夸克](https://pan.quark.cn/s/2ada1a091a50) |
+| 03-20 | 张丽俊 组织创新，企业决策者的第一工程：夸克 | [夸克](https://pan.quark.cn/s/127e8924f9ab) |
+| 03-20 | AE超级修炼指南：夸克 | [夸克](https://pan.quark.cn/s/2d99141b4a5b) |
+| 03-20 | AE超能力学院 – 小莫入门到精通 – 带源码课件：夸克 | [夸克](https://pan.quark.cn/s/aaf23134f106) |
+| 03-20 | 名师全程班课程资料：夸克 | [夸克](https://pan.quark.cn/s/3aac9e1df031) |
+| 03-20 | 王骁Albert：美国背面研究报告：夸克 | [夸克](https://pan.quark.cn/s/8d8946fa3b33) |
+| 03-20 | 《人生真相》：直面社会生存的人间清醒法则：夸克 | [夸克](https://pan.quark.cn/s/65590e591f3d) |
+| 03-19 | 李越《如何防止另一半出轨》：夸克 | [夸克](https://pan.quark.cn/s/6da19626aa2f) |
+| 03-19 | 如何克服社交恐惧：夸克 | [夸克](https://pan.quark.cn/s/cd0492a8bc2b) |
+| 03-19 | 手把手教你从0做到100完粉丝快手账号，快手运营教程：夸克 | [夸克](https://pan.quark.cn/s/5ac11008c6c8) |
+| 03-19 | Agent应用解读项目实战教学20套：夸克 | [夸克](https://pan.quark.cn/s/f60564fb0dad) |
+| 03-19 | 电子手账之白日梦：夸克 | [夸克](https://pan.quark.cn/s/baef5da6f778) |
+| 03-19 | ［八段锦］详细解说：夸克 | [夸克](https://pan.quark.cn/s/36b8e4436b1d) |
+| 03-19 | 医学教材书籍汇总1.0：夸克 | [夸克](https://pan.quark.cn/s/1e9771f7fe15) |
+| 03-18 | 14堂超级信息整理术：夸克 | [夸克](https://pan.quark.cn/s/6ad9d35c3089) |
+| 03-18 | 人人必学的思维升级35讲：做自己的问题解决专家（完结）：夸克 | [夸克](https://pan.quark.cn/s/a5cefdf8b664) |
+| 03-18 | 2026年超格山东事业单位考前冲刺点睛课：夸克 | [夸克](https://pan.quark.cn/s/9fce3606ff05) |
+| 03-18 | 2026第98届奥斯卡金像奖颁奖礼：夸克 | [夸克](https://pan.quark.cn/s/83f4bb498c90) |
+| 03-17 | 绘画心理治疗基础入门30讲：夸克 | [夸克](https://pan.quark.cn/s/3fa82f6860f7) |
+| 03-17 | 2026年CPA最新专业教材：夸克 | [夸克](https://pan.quark.cn/s/7610c1422da0) |
+| 03-17 | 煲汤教程：夸克 | [夸克](https://pan.quark.cn/s/7e72ba05d343) |
+| 03-17 | 【全55集】哈佛大学公开课：夸克 | [夸克](https://pan.quark.cn/s/9c285c0dd3ca) |
+| 03-17 | 微信读书TOP200本：夸克 | [夸克](https://pan.quark.cn/s/aed3cd7eb281) |
+| 03-17 | 中国制造：一场未来十年的大博弈(完结)：夸克 | [夸克](https://pan.quark.cn/s/c7898344b3b3) |
+| 03-16 | 30天精学Excel：夸克 | [夸克](https://pan.quark.cn/s/3367c20d8c38) |
+| 03-16 | 21天超级IP特训营，屌丝逆袭的唯一机会：夸克 | [夸克](https://pan.quark.cn/s/b4dbcbebc579) |
+| 03-16 | 油管音乐MV点击量前200名：夸克 | [夸克](https://pan.quark.cn/s/eda0a81c8469) |
+| 03-16 | 徒手独攀台北101：夸克 | [夸克](https://pan.quark.cn/s/95fa1e3be573) |
+| 03-15 | 护肤全攻略：夸克 | [夸克](https://pan.quark.cn/s/774ae0b377ca) |
+| 03-15 | 老鱼私教主课：夸克 | [夸克](https://pan.quark.cn/s/c0fcce08f953) |
+| 03-15 | 李中莹：人生拓扑学之家庭关系：夸克 | [夸克](https://pan.quark.cn/s/98f96d157f78) |
+| 03-15 | 2026厂长资料分析全家桶：夸克 | [夸克](https://pan.quark.cn/s/b44cd47e3da7) |
+| 03-15 | 你的IP价值亿万，超级个体=摇钱树+印钞机，打造个人品牌，成为超级个体：夸克 | [夸克](https://pan.quark.cn/s/45dca16d3e83) |
+| 03-13 | 50岁前赚到1000万，银行行长教你掌握富人赚钱方法（完结）：夸克 | [夸克](https://pan.quark.cn/s/ac775e74afd4) |
+| 03-13 | AE 超级修炼指南：夸克 | [夸克](https://pan.quark.cn/s/2b589c2f8ab6) |
+| 03-13 | 李涛AE CC高高手：夸克 | [夸克](https://pan.quark.cn/s/9453e8de494a) |
+| 03-13 | 26法考 0226：夸克 | [夸克](https://pan.quark.cn/s/df9d06f5eaa5) |
+| 03-12 | 韩国按摩正骨无删减视频教程｜高清版（2025年+正骨手法+完整版）：夸克 | [夸克](https://pan.quark.cn/s/973fef52a736) |
+| 03-12 | 2026初级护师资料包：夸克 | [夸克](https://pan.quark.cn/s/7756b2b10b6d) |
+| 03-12 | 量见·EMBA大课：夸克 | [夸克](https://pan.quark.cn/s/513e56a95c40) |
+| 03-12 | 吸贵术人脉破局课：百度 | [百度](https://pan.baidu.com/s/1p7pOcLbxvI-yEtVttxJImQ?pwd=ahhh) |
+| 03-11 | 超级聊天术-跟谁都聊得来：夸克 | [夸克](https://pan.quark.cn/s/b5ebb1b6df65) |
+| 03-11 | 手相手纹手诊：夸克 | [夸克](https://pan.quark.cn/s/6c14f0809087) |
+| 03-11 | 思投社-董小姐聊财经：夸克 | [夸克](https://pan.quark.cn/s/89cebe324ce7) |
+| 03-10 | 手机拍珠宝从入门到精通，告别拍不出珠宝质感的困扰：夸克 | [夸克](https://pan.quark.cn/s/41e1ec45dd51) |
+| 03-10 | 强人设.变现黑皮书.从0到1构建高客单成效闭环：百度 | [百度](https://pan.baidu.com/s/1jJUdzOR_274J-SWrRpTWHA?pwd=ahhh) |
+| 03-09 | 外资B2B谷歌搜索广告大师课，教你快速低成本获取精准询盘：夸克 | [夸克](https://pan.quark.cn/s/5f7c25fadfab) |
+| 03-09 | 单位阳谋：讲透体制内单位门道 251 节：夸克 | [夸克](https://pan.quark.cn/s/ef09f9bbfd0c) |
+| 03-09 | 张沛超：中国人的心理治疗音频20讲：夸克 | [夸克](https://pan.quark.cn/s/f9c77651e076) |
+| 03-09 | 《逐利》底层逻辑杠杆策略商业实战课【跨周期财富心法】：百度 | [百度](https://pan.baidu.com/s/1DnUJ68lO6qF1azLncFaKrw?pwd=ahhh) |
+| 03-08 | 人生三见—见天地见众生见自己：百度 | [百度](https://pan.baidu.com/s/1HWL8lVRqO-ZJRaaH8T4Hfg?pwd=ahhh) |
+| 03-07 | 出自天涯社区优质书籍(129册)初代网民回忆绝响-珍藏版：夸克 | [夸克](https://pan.baidu.com/s/15ZHsUTsc58idbawk_fCTRA?pwd=ahhh) |
+| 03-07 | 开悟2.0升级版——人生进阶指南：百度 | [百度](https://pan.baidu.com/s/1pHOk6H-coDvzknhzgkqhXg?pwd=ahhh) |
+| 03-06 | 国外Lead联盟营销实战视频教程，从零基础到独立操作国外Lead项目的目标，开启海外淘金之路：夸克 | [夸克](https://pan.quark.cn/s/4aa47c1b307f) |
+| 03-06 | 2025微信读书热门榜单（精整分类）：夸克 | [夸克](https://pan.quark.cn/s/7a02309e9389) |
+| 03-05 | 临床医生基本功：夸克 | [夸克](https://pan.quark.cn/s/2c1be193bb48) |
+| 03-05 | 教你起“爆店店铺名、爆品品牌名”，店铺起名，品牌起名（12节教学课：百度 | [百度](https://pan.baidu.com/s/14vw0-bMM60QWg3yA5qNUww?pwd=ahhh) |
+| 03-04 | 陈玮·《奈飞文化手册》精读班：夸克 | [夸克](https://pan.quark.cn/s/a9fe96e2b8fb) |
+| 03-03 | 迪士尼系列动画139部蓝光珍藏版：夸克 | [夸克](https://pan.quark.cn/s/a3256c018ee9) |
+| 03-03 | 李忠莹：人生的15项缺失：夸克 | [夸克](https://pan.quark.cn/s/e3ba65c5642b) |
+| 03-03 | 纯音乐轻音乐减压休闲-48G：百度 | [百度](https://pan.baidu.com/s/1J9W1jpnl_qYxTXhblLjxjw?pwd=ahhh) |
+| 03-02 | 七周成为数据分析师：百度 | [百度](https://pan.baidu.com/s/1JoZZL0rOoIa36BkdywXq1A?pwd=ahhh) |
+| 03-02 | 3000张CNS级科研绘图：百度 | [百度](https://pan.baidu.com/s/19W9l3eJQ3vq4wrSIPr7OTg?pwd=ahhh) |
+| 02-28 | 王馨瑶Yanni：PikPak | [PikPak](https://mypikpak.com/s/VOmYl-sQXKEWR9YTeGbs-zOho2) |
+| 02-28 | 一学就会的基金课，成为朋友圈最会赚钱的人：夸克 | [夸克](https://pan.quark.cn/s/40a96ab7d849) |
+| 02-27 | 跟易欢轻松学算命：夸克 | [夸克](https://pan.quark.cn/s/aa2d2be7009a) |
+| 02-27 | 体制内新人应学会的生存本领 – 你一直在玩儿 – 知乎 Live：夸克 | [夸克](https://pan.quark.cn/s/7e0f59076ded) |
+| 02-27 | 【零基础日常妆容课】39节 马小花：夸克 | [夸克](https://pan.quark.cn/s/a578d0eb68dd) |
+| 02-27 | 同济陈家琪讲西方哲学：从康德到黑格尔（完结）：夸克 | [夸克](https://pan.quark.cn/s/fdd6ff742e25) |
+| 02-26 | 人民币汇率与人民币国际化 观课堂 翟东升：百度 | [百度](https://pan.baidu.com/s/15fzM_mOy4HLzCGclZprP_A?pwd=ahhh) |
+| 02-25 | 北大学霸教你快速学会你想学的任何知识！技能！能力！：夸克 | [夸克](https://pan.quark.cn/s/64d7eef71e2c) |
+| 02-25 | 郭春林-哲学智慧与人生思考：夸克 | [夸克](https://pan.quark.cn/s/4d2ab3ba59de) |
+| 02-22 | 种草电商内容变现系列课，从0-1边賺钱边学做吸金的种草型网红：夸克 | [夸克](https://pan.quark.cn/s/d7afc44399ea) |
+| 02-22 | 博士試音王&nbsp; 顶级版3CD：百度 | [百度](https://pan.baidu.com/s/1-8nzGRUz9Rk0VAf8Wazsiw?pwd=ahhh) |
+| 02-22 | 小学1-6年级语文知识点归纳：百度 | [百度](https://pan.baidu.com/s/1PYw0rtsjywbLMlnrfdFKKw?pwd=ahhh) |
+| 02-21 | 泽宇《如何成为顶级社交达人，拥有高价值人脉和社交圈》（完结）：夸克 | [夸克](https://pan.quark.cn/s/548fd2c0a493) |
+| 02-20 | 郭天祥单片机教程资料(增强版)：阿里 | [阿里](https://www.alipan.com/s/2mTr3Bn911K) |
+| 02-18 | 训狗教程 0基础简单易学：夸克 | [夸克](https://pan.quark.cn/s/e4696ab403d5) |
+| 02-17 | 普通人的赚钱思路课：夸克 | [夸克](https://pan.quark.cn/s/5dc7e4939d13) |
+| 02-17 | 当猩读书会-44本书（11G）：阿里 | [阿里](https://www.alipan.com/s/XsdiXsWTsHv) |
+| 02-16 | 实战防身术视频教程18集：夸克 | [夸克](https://pan.quark.cn/s/155b4ab42cf3) |
+| 02-16 | 人生赢家必修的12堂说话课：夸克 | [夸克](https://pan.quark.cn/s/f62dd55e37e6) |
+| 02-14 | 顶级商学院EMBA课程：夸克 | [夸克](https://pan.quark.cn/s/1bfa7082e992) |
+| 02-14 | 专业咖啡师教学课程-咖啡设备及花式咖啡的制作：夸克 | [夸克](https://pan.quark.cn/s/629e2ef40052) |
+| 02-14 | 36节课 实现Excel小白到高手的进阶：夸克 | [夸克](https://pan.quark.cn/s/9996f481fb8d) |
+| 02-14 | 高级PUA防御课：夸克 | [夸克](https://pan.quark.cn/s/f309331f8190) |
+| 02-14 | 人人都需要的金融通识与商业分析法（完结）：夸克 | [夸克](https://pan.quark.cn/s/86d296a4e422) |
+| 02-12 | 张赟慧丨极简风水入门（完结）：夸克 | [夸克](https://pan.quark.cn/s/8430e5aa0b42) |
+| 02-12 | 64节易经思维课，国学智慧的应用与格局提升：夸克 | [夸克](https://pan.quark.cn/s/e8eb705b8291) |
+| 02-11 | 复旦徐英瑾教授：认知世界的20个哲学命题：夸克 | [夸克](https://pan.quark.cn/s/a4db0471adf8) |
+| 02-09 | 一通百通，搞定各领域的全能自学法：夸克 | [夸克](https://pan.quark.cn/s/da4066fb4e45) |
+| 02-08 | 王一名·吸引力出圈指南让优质的人主动认识你个人品牌营销：夸克 | [夸克](https://pan.quark.cn/s/84858b0cdb11) |
+| 02-08 | 钱进社 – 成为优质且最具竞争力的【社会人】：夸克 | [夸克](https://pan.quark.cn/s/0d1ba51d53cc) |
+| 02-05 | IP线上流量特训营，手把手教你搞流量、做IP、稳变现：夸克 | [夸克](https://pan.quark.cn/s/08424b8984aa) |
+| 01-26 | 付费投放从0到1之付费投放底层心法：夸克 | [夸克](https://pan.quark.cn/s/49c0ff134e89) |
+| 01-26 | 王利杰：天使投资这么玩：夸克 | [夸克](https://pan.quark.cn/s/7182db090d16) |
+| 01-25 | 形象导师郭弈翎：精英气质私房课：夸克 | [夸克](https://pan.quark.cn/s/5b2dec8a20e7) |
+| 01-24 | 如何提升赚钱力？：夸克 | [夸克](https://pan.quark.cn/s/39040868ce9c) |
+| 01-18 | Podman容器化技术从入门到实战课程：夸克 | [夸克](https://pan.quark.cn/s/8302555d65e2) |
+| 01-18 | 丁香医生0-12岁宝宝安全用药指南：百度&nbsp; 提取码：ahhh | [百度](https://pan.baidu.com/s/1Hw882f3YyixaEm4ASXKCdw?pwd=ahhh) |
+| 01-18 | 国内顶级写真高手课程：百度 | [百度](https://pan.baidu.com/s/1VLhF9PyOi1NoJNivaUr3lg?pwd=ahhh) |
+| 01-16 | 高品质DTS无损音乐1400张：夸克 | [夸克](https://pan.quark.cn/s/99cc1af8cb5d) |
+| 01-16 | 春节喜庆热门歌曲100首（MP3格式）：夸克 | [夸克](https://pan.quark.cn/s/1b8250fe582e) |
+| 01-16 | 八千首高品质歌曲随心听 无损音乐：夸克 | [夸克](https://pan.quark.cn/s/7b9dd721c37c) |
+| 01-16 | 腾讯音乐榜榜单：：夸克 | [夸克](https://pan.quark.cn/s/6ccf062a1851) |
+| 01-16 | U盘车载专用音乐 3068 首 24G：夸克 | [夸克](https://pan.quark.cn/s/863138a86c15) |
+| 01-16 | 车载U盘音乐 提升10倍音质5.1环绕车载专用下：夸克 | [夸克](https://pan.quark.cn/s/1d8fb7aca565) |
+| 01-16 | 惠威HiVi试音碟全系列：2010新版、人声与综合测试全集：百度、夸克 | [百度](https://pan.baidu.com/s/1brfn4sFWUJgze93yHPTNJA?pwd=ahhh) |
+| 01-16 | 惠威HiVi试音碟全系列：2010新版、人声与综合测试全集：百度、夸克 | [夸克](https://pan.quark.cn/s/d22116c7fbef) |
+| 01-16 | 柏林之声 车载U盘 无损高音质Mp3【41GB】：夸克 | [夸克](https://pan.quark.cn/s/19f78fa30b85) |
+| 01-13 | 人生翻盘运用手册：夸克 | [夸克](https://pan.quark.cn/s/5809cf15e75b) |
+| 01-07 | 复盘美团制胜秘籍：夸克 | [夸克](https://pan.quark.cn/s/51d11d68fa70) |
+| 01-06 | 滚床单心理学：夸克 | [夸克](https://pan.quark.cn/s/171985c0389c) |
+| 01-03 | 油管YouTuBe运营掘金指南，全方位帮你从零搭建油管运营体系：夸克 | [夸克](https://pan.quark.cn/s/1e1ecf507fb1) |
+| 01-03 | 【安卓】手机游戏[修改版＆Mod版][1630+款][197GB]：夸克 | [夸克](https://pan.quark.cn/s/1684cef281d5) |
+| 01-03 | 体制内没有背景的年轻人如何脱颖而出：夸克 | [夸克](https://pan.quark.cn/s/e69e10d1884d) |
+| 01-01 | 怪奇物语 1-5：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/fa6f060723e1) |
+| 01-01 | 怪奇物语 1-5：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1J5hxCZxgfEb8WJdevA3PrQ?pwd=ahhh) |
+| 01-01 | 学习区：谷歌腾讯阿里等顶级互联网公司工作法：夸克 | [夸克](https://pan.quark.cn/s/6031295b4510) |
+| 01-01 | 轻松易懂的财商课，教你成为经营、赚钱达人：夸克 | [夸克](https://pan.quark.cn/s/91de7b867bdc) |
+| 01-01 | 社交必备：幽默感养成课：夸克 | [夸克](https://pan.quark.cn/s/dca1242f1da6) |
+| 01-01 | 互联网公司财务分析实务【完结】：夸克 | [夸克](https://pan.quark.cn/s/f801277457f4) |
+| 01-01 | 韭菜翻身秘籍：夸克 | [夸克](https://pan.quark.cn/s/1fdcf4b32eb3) |
+| 01-01 | 精英人士思维升级必修课：夸克 | [夸克](https://pan.quark.cn/s/0ed04f94ee23) |
+| 01-01 | 股神巴菲特、林奇教你投资 写给投资者的黄金法则：夸克 | [夸克](https://pan.quark.cn/s/7fc7ed8e23c2) |
+| 01-01 | 运营型主播课程2025版，从0到1教你成为金牌运营型主播：夸克 | [夸克](https://pan.quark.cn/s/b2ac05c9ffb3) |
+| 01-01 | B站-混社会：步入成人世界的第一堂生存手段课：夸克 | [夸克](https://pan.quark.cn/s/a45c7911249f) |
+| 01-01 | B站-年轻人的金融和商业分析课（完结）：夸克 | [夸克](https://pan.quark.cn/s/44474210727c) |
+| 01-01 | 走出自我认知的黑箱 周小宽：成年人如何才能不心累：夸克 | [夸克](https://pan.quark.cn/s/85de7918a1e5) |
+| 01-01 | 跟易欢轻松学算命：夸克 | [夸克](https://pan.quark.cn/s/dad12096b141) |
+| 01-01 | 批发式爆单陪跑营，20节课带你实现批发式爆单，带你经松月入过W：夸克 | [夸克](https://pan.quark.cn/s/15a30e0c6a7c) |
+| 01-01 | 【吕老师】生涯规划课微抖生涯规划研究院：夸克 | [夸克](https://pan.quark.cn/s/5f7af293bc3f) |
+| 01-01 | 梁老师YouTube运营掘金指南，从零打造高收益频道：夸克 | [夸克](https://pan.quark.cn/s/85b87fd25a4b) |
+| 01-01 | 柏林之声 车载U盘 无损高音质Mp3【41GB】：夸克 | [夸克](https://pan.quark.cn/s/19f78fa30b85) |
+| 01-01 | 网易云上评论最多的日韩歌曲300首：夸克 | [夸克](https://pan.quark.cn/s/a458bbb4eaa2) |
+| 01-01 | ASMR 夜间助眠：夸克 | [夸克](https://pan.quark.cn/s/e6fcdf9ff6e9) |
+| 01-01 | 互联网职业通识20讲：夸克 | [夸克](https://pan.quark.cn/s/0bdee8b64c22) |
+| 01-01 | 电商财务零基础入门，基础认知+基础实操+进阶突破，轻松掌握：夸克 | [夸克](https://pan.quark.cn/s/09e0ef98a503) |
+| 01-01 | 摆脱内耗的12个行动指南：夸克 | [夸克](https://pan.quark.cn/s/647899a9118c) |
+| 01-01 | bilibili-block-extension-Bilibili 批量拉黑助手：夸克 | [夸克](https://pan.quark.cn/s/ebede437cc37) |
+| 01-01 | 曾国藩的识人用人术：夸克 | [夸克](https://pan.quark.cn/s/9c66e2716c81) |
+| 01-01 | 公众号运营系列课，如何打造高质量挣钱的公众号：夸克 | [夸克](https://pan.quark.cn/s/56dea4c3492d) |
+| 01-01 | 巴菲特投资哲学领教营：夸克 | [夸克](https://pan.quark.cn/s/2a798eec70de) |
+| 01-01 | 21天改善圆肩驼背特训营：夸克 | [夸克](https://pan.quark.cn/s/84b373211230) |
+| 01-01 | 中国3D地图：夸克 | [夸克](https://pan.quark.cn/s/b6437fa89cc0) |
+| 01-01 | 《圆明园四十景图咏》原画超清 24000像素 分帧图片：夸克 | [夸克](https://pan.quark.cn/s/95b701989868) |
+| 01-01 | 小红薯薯店商城卖货，基础入门课，教你如何进行店铺开通、后台设置、产品上传等入门知识：夸克 | [夸克](https://pan.quark.cn/s/cc081d969cc7) |
+| 01-01 | 卢熠翎 21天吸引力法则课程：夸克 | [夸克](https://pan.quark.cn/s/c075c009f0f6) |
+| 01-01 | 流量变现实战课，4步入局系统教学，实现时间价值10倍提升：夸克 | [夸克](https://pan.quark.cn/s/a18ab2e9f504) |
+| 01-01 | 外卖运营指导课程，中小商家外卖指南，手把手带出能挣钱的外卖店：夸克 | [夸克](https://pan.quark.cn/s/02fe73d7adb7) |
+| 01-01 | 电商财税合规线下课，适合老板+财务，教你规避涉税风险，实现低成本合规经营：夸克 | [夸克](https://pan.quark.cn/s/73b52ce25548) |
+| 01-01 | 【魔方】零基础入门：夸克、百度 提取码：ahhh | [夸克](https://pan.quark.cn/s/788793a71eb6) |
+| 01-01 | 【魔方】零基础入门：夸克、百度 提取码：ahhh | [百度](https://pan.baidu.com/s/1lSFQSpL0v2o4zYCqsOk4sg?pwd=ahhh) |
+| 01-01 | 🔥10月14日付费文：夸克 | [夸克](https://pan.quark.cn/s/c678a4e76830) |
+| 01-01 | 塔罗牌系统学习课，助你从入门到精通，塑造个人占卜风格，掌握专业咨询能力：夸克 | [夸克](https://pan.quark.cn/s/054d6f148c06) |
+| 01-01 | 拼多多单品打法，掌握这套爆单打法，让你少走90%的弯路：夸克 | [夸克](https://pan.quark.cn/s/215c8df044aa) |
+| 01-01 | 21天让你成为财务高手课程：夸克 | [夸克](https://pan.quark.cn/s/7cda41aa3e36) |
